@@ -1,17 +1,20 @@
+**Data status:** Last checked on 16 July 2026. This is a static planning document, not a realtime feed. Fee, scholarship, visa and salary data can change without notice, so recheck the official programme page before applying or paying a deposit.
+
 Universities abroad generally **do not conduct Indian-style campus placements** or publish course-level median packages and acceptance rates. Therefore:
 
 - **Salary** means the realistic early-career gross annual salary range for software and computing graduates in that country, not a guaranteed package.
 - **Employment** indicates programme strength, internships, co-op access and employer proximity.
 - **Acceptance rate: N/P** means not officially published. Third-party university-wide estimates are too unreliable for application decisions.
 - Fees are **tuition only**, excluding accommodation, insurance, visa charges and living expenses.
-- INR conversions use approximately ₹67.3/AUD, ₹110/EUR, ₹68.5/CAD, ₹56/NZD, ₹129/GBP, ₹96.3/USD and ₹74.6/SGD as of 15 July 2026. ([BookMyForex][1])
+- INR conversions use Xe mid-market reference rates from the latest table checked on 16 July 2026: ₹67.36/AUD, ₹110.06/EUR, ₹68.51/CAD, ₹56.19/NZD, ₹129.89/GBP, ₹96.24/USD and ₹74.62/SGD. These are not consumer remittance rates and change daily. ([Xe][1])
+- Scholarship entries are named opportunities, not guaranteed awards. Eligibility, value and deadlines must be checked for the exact intake.
 - **Chance** is my profile-specific assessment based on your 8.75 CGPA, IELTS 8, projects and experience. It is not an official probability.
 
 ## 1. Australia
 
 | Rank | University                          | Exact recommended programme        |    Duration | Approx. total tuition | Employment outlook                                        | Typical starting salary | Acceptance rate | Your chance   | Relevant scholarships                                                              | Assessment                                                      |
 | ---: | ----------------------------------- | ---------------------------------- | ----------: | --------------------: | --------------------------------------------------------- | ----------------------: | --------------- | ------------- | ---------------------------------------------------------------------------------- | --------------------------------------------------------------- |
-|    1 | UNSW Sydney                         | Master of Information Technology   |     2 years |        **₹87.8 lakh** | Excellent, strong Sydney employer access                  |             ₹48–67 lakh | N/P             | Reach         | International Scientia Coursework Scholarship, Australia’s Global University Award | Best technical and employment option, but extremely expensive   |
+|    1 | UNSW Sydney                         | Master of Information Technology   |     2 years |        **₹87.9 lakh** | Excellent, strong Sydney employer access                  |             ₹48–67 lakh | N/P             | Reach         | International Scientia Coursework Scholarship, Australia’s Global University Award | Best technical and employment option, but extremely expensive   |
 |    2 | University of Melbourne             | Master of Computer Science         |     2 years |       **₹70–82 lakh** | Excellent research and employer reputation                |             ₹47–65 lakh | N/P             | Reach         | Graduate Access Melbourne, faculty awards                                          | Research-oriented and selective                                 |
 |    3 | University of Sydney                | Master of Computer Science         |     2 years |       **₹76–86 lakh** | Excellent, especially for Sydney roles                    |             ₹48–67 lakh | N/P             | Reach/target  | Sydney International Student Award, usually 20% where eligible                     | Strong brand, high tuition and living cost                      |
 |    4 | Australian National University      | Master of Computing                |     2 years |       **₹68–76 lakh** | Strong, especially government, cybersecurity and research |             ₹45–62 lakh | N/P             | Target        | ANU Chancellor’s International Scholarship                                         | Canberra market is smaller but useful for security-related work |
@@ -22,7 +25,7 @@ Universities abroad generally **do not conduct Indian-style campus placements** 
 |    9 | RMIT University                     | Master of Information Technology   |     2 years |       **₹56–64 lakh** | Good applied employment orientation                       |             ₹43–59 lakh | N/P             | Likely        | Future Leaders Scholarship and regional awards                                     | Good practical backup in Melbourne                              |
 |   10 | Queensland University of Technology | Master of Information Technology   |     2 years |       **₹52–60 lakh** | Good applied programme                                    |             ₹42–58 lakh | N/P             | Likely        | International Merit Scholarship                                                    | Sensible backup with strong practical teaching                  |
 
-UNSW lists a 2026 total indicative international fee of AUD 130,500, approximately ₹87.8 lakh at the stated exchange rate. Australian universities revise fees annually. Postgraduate coursework graduates nationally recorded an 88.3% full-time employment rate in the 2025 Graduate Outcomes Survey, but this includes domestic graduates and all disciplines, so it should not be interpreted as your personal placement probability. ([UNSW Sites][2])
+UNSW lists a 2026 total indicative international fee of AUD 130,500, approximately ₹87.9 lakh at the stated exchange rate. Australian universities revise fees annually. Postgraduate coursework graduates nationally recorded an 88.3% full-time employment rate in the 2025 Graduate Outcomes Survey, but this includes domestic graduates and all disciplines, so it should not be interpreted as your personal placement probability. ([UNSW][2], [QILT][3])
 
 **Australia verdict:** Apply to UNSW, Melbourne, Monash, UQ, UTS, Adelaide and QUT. Sydney is worthwhile only with a scholarship or comfortable finances.
 
@@ -41,7 +44,7 @@ UNSW lists a 2026 total indicative international fee of AUD 130,500, approximate
 |    9 | South East Technological University | MSc Applied Artificial Intelligence                                              |   1 year |       **₹16–20 lakh** | Moderate, fewer nearby employers                        |             ₹31–44 lakh | N/P             | Very likely  | International merit fee reductions                                | Use as a financial or admission backup               |
 |   10 | Atlantic Technological University   | MSc Computing in Artificial Intelligence                                         |   1 year |       **₹15–20 lakh** | Moderate, regional job market                           |             ₹30–43 lakh | N/P             | Very likely  | International scholarships and fee waivers                        | Lowest-ranked serious backup                         |
 
-UCD’s 2026 non-EU tuition for MSc Computer Science by Negotiated Learning is €31,780, approximately ₹35 lakh. DCU lists €25,000 and a €5,000 Engineering and Computing scholarship. Galway lists €28,640 including levy for its AI and Data Analytics programmes. Trinity’s Global Excellence award is €2,000–€5,000. ([Trinity College Dublin][3])
+UCD’s listed non-EU tuition for MSc Computer Science by Negotiated Learning is €31,780, approximately ₹35 lakh. DCU lists €25,000 and a €5,000 Engineering and Computing scholarship for 2026-27. Galway lists €28,640 including levy for its AI and Data Analytics programmes. Trinity’s Global Excellence award is €2,000-€5,000. ([UCD][4], [DCU][5], [Galway][6], [Trinity College Dublin][7])
 
 **Ireland verdict:** Apply to Trinity, UCD, DCU, UCC, Galway, Limerick and Maynooth. DCU and Limerick offer especially good profile-to-cost value.
 
@@ -60,7 +63,7 @@ UCD’s 2026 non-EU tuition for MSc Computer Science by Negotiated Learning is �
 |    9 | Western University             | Master of Data Analytics                                                |       1 year |       **₹35–43 lakh** | Good, but much employment activity is outside London         |             ₹40–57 lakh | N/P             | Target/likely | Western graduate scholarships                                          | Professional and expensive for one year                             |
 |   10 | University of Windsor          | Master of Applied Computing                                             |    16 months |       **₹25–32 lakh** | Moderate, includes applied industry orientation              |             ₹38–53 lakh | N/P             | Likely        | Graduate entrance scholarships                                         | Useful backup, but do not choose solely for immigration assumptions |
 
-**Canada caution:** Programme eligibility for post-graduation work authorisation, provincial nomination priorities and Express Entry selection can change before you graduate. Scholarships for Canadian professional master’s programmes are generally limited. Research programmes are more likely to offer assistantships than course-based degrees.
+**Canada caution:** As checked on 16 July 2026, eligible master’s graduates can apply for a PGWP of up to 3 years even if the master’s is under 2 years, provided the programme is at least 8 months and other conditions are met. Programme eligibility, provincial nomination priorities and Express Entry selection can still change before you graduate. Scholarships for Canadian professional master’s programmes are generally limited. Research programmes are more likely to offer assistantships than course-based degrees. ([Canada PGWP][8])
 
 **Canada verdict:** Prioritise Ottawa, Carleton, SFU, Calgary and Concordia. Treat Waterloo, Toronto and UBC as reaches. Avoid private colleges and weak programmes marketed primarily around immigration.
 
@@ -79,7 +82,7 @@ UCD’s 2026 non-EU tuition for MSc Computer Science by Negotiated Learning is �
 |    9 | Lincoln University                | Master of Applied Computing                   | 12–18 months |       **₹22–28 lakh** | Limited general technology market                   |             ₹29–42 lakh | N/P             | Very likely  | International taught master merit scholarship                         | Backup only                                      |
 |   10 | Eastern Institute of Technology   | Master of Information Technology              |    18 months |       **₹19–24 lakh** | Limited employer depth                              |             ₹28–40 lakh | N/P             | Very likely  | International fee scholarships                                        | Admission backup, not career-first choice        |
 
-**New Zealand verdict:** Auckland, Victoria Wellington, Canterbury, Waikato and AUT are the serious options. The country’s immigration framework may be attractive, but the principal risk is the small number of graduate software jobs.
+**New Zealand verdict:** Auckland, Victoria Wellington, Canterbury, Waikato and AUT are the serious options. The country’s immigration framework may be attractive, especially where a role fits the Green List or skilled-residence rules, but the principal risk is the small number of graduate software jobs. ([Immigration New Zealand][9])
 
 ## 5. United Kingdom
 
@@ -96,7 +99,7 @@ UCD’s 2026 non-EU tuition for MSc Computer Science by Negotiated Learning is �
 |    9 | University of Leeds       | MSc Advanced Computer Science                          |   1 year |       **₹36–43 lakh** | Good, growing regional market                                 |             ₹34–49 lakh | N/P             | Target          | International Excellence Scholarship                   | Solid target                                     |
 |   10 | University of Nottingham  | MSc Computer Science or MSc Human Computer Interaction |   1 year |       **₹34–41 lakh** | Good                                                          |             ₹33–47 lakh | N/P             | Likely/target   | Developing Solutions and regional scholarships         | Stronger backup                                  |
 
-**UK caution:** For Graduate visa applications made from 1 January 2027, the standard period is expected to be 18 months rather than two years. A Graduate visa is not permanent residence and you would normally need to obtain qualifying sponsored work afterwards. Tuition and London living costs make the UK difficult to justify unless the university is strong.
+**UK caution:** For Graduate visa applications made from 1 January 2027, the standard period is 18 months rather than two years for bachelor’s and master’s graduates. A Graduate visa is not permanent residence and you would normally need to obtain qualifying sponsored work afterwards. Tuition and London living costs make the UK difficult to justify unless the university is strong. ([GOV.UK][10])
 
 **UK verdict:** Manchester, Bristol, Southampton, Birmingham, Sheffield and Leeds are the most appropriate balance for your profile. Imperial and UCL are speculative applications.
 
@@ -115,7 +118,7 @@ UCD’s 2026 non-EU tuition for MSc Computer Science by Negotiated Learning is �
 |    9 | North Carolina State University         | Master of Computer Science                         | 18–24 months |          **₹43–58 lakh** | Very good Research Triangle access |             ₹65–96 lakh | N/P             | Target          | Limited merit aid, assistantships more common in thesis routes | Strong realistic option                                                  |
 |   10 | Arizona State University                | MS in Computer Science                             | 18–24 months |          **₹45–60 lakh** | Good, large programme              |             ₹61–90 lakh | N/P             | Likely/target   | New American University awards, variable                       | Suitable safety, but cohort size is large                                |
 
-**Important:** Confirm that the exact US programme states **GRE not required** or **GRE not considered** for your intake. “Optional” may still disadvantage you at highly selective programmes. Your settlement objective remains the main reason to rank the US below Australia and Ireland. Salary upside is exceptional, but H-1B and employment-based permanent residence remain uncertain for Indian-born graduates.
+**Important:** Confirm that the exact US programme states **GRE not required** or **GRE not considered** for your intake. “Optional” may still disadvantage you at highly selective programmes. Your settlement objective remains the main reason to rank the US below Australia and Ireland. Salary upside is exceptional, but H-1B cap selection and employment-based permanent residence remain uncertain for Indian-born graduates. In July 2026, the US Visa Bulletin states that India EB-2 numbers are unavailable for the remainder of FY2026. ([USCIS][11], [Visa Bulletin][12])
 
 **US verdict:** Apply only to programmes where the employment upside justifies the immigration uncertainty and debt. UIUC, Georgia Tech, Wisconsin, Maryland and NCSU provide better value than USC or Northeastern.
 
@@ -134,7 +137,7 @@ UCD’s 2026 non-EU tuition for MSc Computer Science by Negotiated Learning is �
 |    9 | Singapore University of Social Sciences       | Master of Digital Innovation                                      | 1–2 years |       **₹25–34 lakh** | Moderate                                                   |             ₹35–51 lakh | N/P             | Likely        | SUSS graduate scholarships                                           | More enterprise and product-oriented than core CS           |
 |   10 | James Cook University Singapore               | Master of Information Technology                                  | 16 months |       **₹27–35 lakh** | Moderate                                                   |             ₹32–47 lakh | N/P             | Very likely   | Merit scholarships                                                   | Admission backup, substantially weaker than NUS, NTU or SMU |
 
-**Singapore caution:** The employment market is strong but small, and permanent residence is discretionary. Do not select a weaker Singapore programme assuming that local study creates a dependable PR pathway.
+**Singapore caution:** The employment market is strong but small, and permanent residence is discretionary. Singapore has a Long-Term Visit Pass route for graduates from listed Institutes of Higher Learning seeking employment, but this is not a dependable PR pathway by itself. Do not select a weaker Singapore programme assuming that local study creates a reliable settlement route. ([ICA Singapore][13])
 
 ## Final application portfolio
 
@@ -152,6 +155,16 @@ For your stated objective, the strongest application sequence is:
 
 **Australia first, Ireland second, Canada third, New Zealand fourth, UK fifth, USA sixth and Singapore seventh.**
 
-[1]: https://www.bookmyforex.com/currency-converter/aud-to-inr/forecast/?utm_source=chatgpt.com "AUD to INR Forecast for 2026-2027"
-[2]: https://www.unsw.edu.au/study/postgraduate/master-of-information-technology?utm_source=chatgpt.com "Master of Information Technology - Sydney"
-[3]: https://www.tcd.ie/study/international/scholarships/postgraduate/gexpg.php?utm_source=chatgpt.com "Global Excellence Postgraduate Scholarships - Study"
+[1]: https://www.xe.com/en-us/currencytables/?from=INR "Xe Currency Tables - INR"
+[2]: https://www.unsw.edu.au/study/postgraduate/master-of-information-technology "UNSW Master of Information Technology"
+[3]: https://www.qilt.edu.au/surveys/graduate-outcomes-survey-%28gos%29 "QILT Graduate Outcomes Survey"
+[4]: https://www.ucd.ie/courses/msc-computer-science-negotiated-learning "UCD MSc Computer Science Negotiated Learning"
+[5]: https://www.dcu.ie/courses/postgraduate/school-computing/msc-computing "DCU MSc in Computing"
+[6]: https://www.universityofgalway.ie/courses/taught-postgraduate-courses/computer-science-artificial-intelligence.html "University of Galway MSc Computer Science - Artificial Intelligence"
+[7]: https://www.tcd.ie/study/international/scholarships/postgraduate/gexpg.php "Trinity Global Excellence Postgraduate Scholarships"
+[8]: https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html "Canada Post-Graduation Work Permit"
+[9]: https://www.immigration.govt.nz/live/resident-visas-to-live-in-new-zealand/skilled-residence-pathways-in-new-zealand/getting-new-zealand-residence-based-on-your-skills/ "Immigration New Zealand skilled residence pathways"
+[10]: https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-graduate "UK Immigration Rules Appendix Graduate"
+[11]: https://www.uscis.gov/working-in-the-united-states/temporary-workers/h-1b-specialty-occupations/h-1b-electronic-registration-process "USCIS H-1B Electronic Registration Process"
+[12]: https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2026/visa-bulletin-for-july-2026.html "US Visa Bulletin for July 2026"
+[13]: https://www.ica.gov.sg/reside/LTVP "Singapore ICA Long-Term Visit Pass"
