@@ -1,10 +1,12 @@
 # Masters Abroad 2027 Planning Snapshot
 
-**Data status:** Country level immigration, market fit, resume alignment and source link audit refreshed on 19 July 2026 India time. Programme fees were last checked against official sources on 16 July 2026 unless a programme note says otherwise. This is a Fall 2027 or later planning snapshot. Fees, visa rules, salary thresholds and scholarships can change before enrolment or graduation.
+**Data status:** Country level immigration, market fit, resume alignment and source link audit refreshed on 19 July 2026 India time. Programme fees were last checked against official sources on 16 July 2026 unless a programme note says otherwise. Budget filtering was added on 19 July 2026 using the tuition figures already present in this file. This is a Fall 2027 or later planning snapshot. Fees, visa rules, salary thresholds and scholarships can change before enrolment or graduation.
 
 **Profile used:** VIT B.Tech CSE 2023 to 2027, 8.75 CGPA, IELTS 8, production full-stack ERP work, AI engineering internship, computer vision, LLM and medical imaging projects, no stated GRE, Fall 2027 or later intake only, and a stated priority of permanent settlement plus ROI.
 
 Costs are tuition only. They exclude rent, food, health cover, visa charges, flights, deposits and an emergency buffer. The country range uses the programme tables below and excludes rows explicitly marked as admission backups.
+
+Budget treatment: no exact maximum budget is stated, so this plan uses tuition-only bands. A core budget is up to INR 35 lakh, a stretch budget is INR 35 to 50 lakh, and a high-cost budget is above INR 50 lakh. Programmes above INR 50 lakh should need a scholarship, a shorter route, unusually strong employment upside, or a clear family funding plan before they are treated as practical choices.
 
 Visa difficulty means the combined difficulty of getting the initial student visa, keeping valid post-study status, moving into skilled work permission and reaching permanent settlement. It is not only the first student visa.
 
@@ -14,15 +16,35 @@ Market direction supports that choice. WEF's 2025 jobs report puts AI and big da
 
 ## Overall ranking
 
-| Rank | Country        | Settlement plus ROI fit | Study plus work visa difficulty | Settlement predictability                                                                                           | Tech market                                 | Typical duration | GRE position                                     |              Approx. tuition only | Verdict                                                                  |
-| ---: | -------------- | ----------------------: | ------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ---------------- | ------------------------------------------------ | --------------------------------: | ------------------------------------------------------------------------ |
-|    1 | Ireland        |              **9.2/10** | Moderate                        | Good after qualifying employment, but employer permit dependence remains                                            | Strong multinational presence, small market | Usually 1 year   | Usually not required                             |             **INR 15 to 35 lakh** | Best settlement-to-cost balance for this profile                         |
-|    2 | Australia      |              **8.9/10** | Moderate to high                | Good, but points and occupation rules remain competitive                                                            | Large by regional standards                 | 1 to 2 years     | Usually not required                             |             **INR 39 to 88 lakh** | Stronger market than Ireland, weaker ROI at high-fee universities        |
-|    3 | Canada         |              **8.2/10** | High                            | Multiple routes, but selection scores and policy are less predictable                                               | Large, with uneven hiring by city           | 1 to 2 years     | Programme dependent                              |             **INR 24 to 65 lakh** | Good settlement option if the programme is public and PGWP eligible      |
-|    4 | New Zealand    |              **7.7/10** | Moderate                        | Relatively clear when a qualifying job and wage are secured                                                         | Small, with few graduate openings           | 1 to 1.5 years   | Usually not required                             |             **INR 32 to 49 lakh** | Settlement-friendly on paper, but the job market limits ROI              |
-|    5 | United Kingdom |              **7.0/10** | Moderate to high                | Sponsored work is normally needed after the Graduate visa                                                           | Large and diverse                           | Usually 1 year   | Usually not required                             |             **INR 34 to 60 lakh** | Consider only strong universities because the post-study window is short |
-|    6 | United States  |              **6.5/10** | Very high                       | Poor for predictability because of H-1B selection, fixed period F-1 admission risk and the India green-card backlog | World's deepest technology market           | 1 to 2 years     | Programme dependent                              | **INR 35 lakh to INR 1.05 crore** | Excellent upside, but not aligned with settlement predictability         |
-|    7 | Singapore      |              **6.1/10** | Very high                       | Permanent residence is discretionary and no study-to-PR route is assured                                            | Strong but small                            | 1 to 1.5 years   | NUS and SMU may require programme-specific tests |             **INR 42 to 50 lakh** | Weak settlement-to-cost fit despite good employers                       |
+| Rank | Country        | Budget-weighted settlement plus ROI fit | Budget fit             | Study plus work visa difficulty | Settlement predictability                                                                                           | Tech market                                 | Typical duration | GRE position                                     |              Approx. tuition only | Verdict                                                                  |
+| ---: | -------------- | --------------------------------------: | ---------------------- | ------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------- | ---------------- | ------------------------------------------------ | --------------------------------: | ------------------------------------------------------------------------ |
+|    1 | Ireland        |                              **9.3/10** | Strong core-budget fit | Moderate                        | Good after qualifying employment, but employer permit dependence remains                                            | Strong multinational presence, small market | Usually 1 year   | Usually not required                             |             **INR 15 to 35 lakh** | Best budget, settlement and ROI balance for this profile                 |
+|    2 | Canada         |                              **8.5/10** | Good if public only    | High                            | Multiple routes, but selection scores and policy are less predictable                                               | Large, with uneven hiring by city           | 1 to 2 years     | Programme dependent                              |             **INR 24 to 65 lakh** | Best second option when the list is kept to public, PGWP-eligible routes |
+|    3 | Australia      |                              **8.1/10** | Stretch to high        | Moderate to high                | Good, but points and occupation rules remain competitive                                                            | Large by regional standards                 | 1 to 2 years     | Usually not required                             |             **INR 39 to 88 lakh** | Strong market, but budget must exclude most high-fee choices             |
+|    4 | New Zealand    |                              **7.6/10** | Stretch                | Moderate                        | Relatively clear when a qualifying job and wage are secured                                                         | Small, with few graduate openings           | 1 to 1.5 years   | Usually not required                             |             **INR 32 to 49 lakh** | Settlement-friendly on paper, but the job market limits ROI              |
+|    5 | United Kingdom |                              **7.0/10** | Stretch                | Moderate to high                | Sponsored work is normally needed after the Graduate visa                                                           | Large and diverse                           | Usually 1 year   | Usually not required                             |             **INR 34 to 60 lakh** | Consider regional strong universities; London needs major scholarship    |
+|    6 | United States  |                              **6.2/10** | High or funding-led    | Very high                       | Poor for predictability because of H-1B selection, fixed period F-1 admission risk and the India green-card backlog | World's deepest technology market           | 1 to 2 years     | Programme dependent                              | **INR 35 lakh to INR 1.05 crore** | Excellent upside, but poor settlement predictability and debt risk       |
+|    7 | Singapore      |                              **5.8/10** | Weak for settlement    | Very high                       | Permanent residence is discretionary and no study-to-PR route is assured                                            | Strong but small                            | 1 to 1.5 years   | NUS and SMU may require programme-specific tests |             **INR 42 to 50 lakh** | Weak settlement-to-cost fit despite good employers                       |
+
+## Budget filter
+
+| Budget band      | Tuition-only range | How to use it in this plan                                                                                                  |
+| ---------------- | -----------------: | --------------------------------------------------------------------------------------------------------------------------- |
+| Core budget      |  Up to INR 35 lakh | Treat as the main target zone. Ireland, lower-cost Canada, and selected backups fit here.                                   |
+| Stretch budget   |  INR 35 to 50 lakh | Use only when the programme has a strong brand, better employment access, shorter duration, or clearer settlement path.     |
+| High-cost budget |  Above INR 50 lakh | Apply only with realistic scholarship chances, a shorter route, confirmed family funding, or exceptional employment upside. |
+
+Budget-first shortlist:
+
+| Tier             | Countries and programmes to prioritise                                                               |
+| ---------------- | ---------------------------------------------------------------------------------------------------- |
+| Primary          | Ireland: DCU, Limerick, Maynooth, UCC, UCD, Trinity if affordable                                    |
+| Primary          | Canada: Ottawa, Carleton, Concordia, Calgary, Windsor, SFU if the final fee stays near the lower end |
+| Stretch          | Australia: UQ shorter route, Monash 1.5-year route, UTS, QUT, Adelaide University                    |
+| Stretch          | New Zealand: Canterbury, Victoria Wellington, Waikato, Auckland only if the full cash plan works     |
+| Stretch          | United Kingdom: Birmingham, Sheffield, Leeds, Bristol, Southampton, Manchester                       |
+| Exceptional only | United States: Georgia Tech, UIUC, Maryland, Wisconsin, NCSU, or funded admits                       |
+| Exceptional only | Singapore: NUS, NTU or SMU only if settlement risk is acceptable                                     |
 
 ## Post-study work and first employment gate
 
@@ -53,8 +75,8 @@ The figures below are official published reference points. They are not directly
 ## Decision notes
 
 - Ireland moves first because the one-year format, lower tuition and Critical Skills employment pathway give the best settlement-to-cost balance. The main risk is securing the first qualifying job in a small market.
-- Australia moves second. It has a stronger technology market and a longer post-study work period for Indian master's graduates, but high tuition and points competition reduce ROI. UQ, Monash, UTS and QUT are better ROI plays than UNSW, Melbourne or Sydney.
-- Canada should focus on public universities and verified PGWP-eligible master's programmes. Waterloo's MMath Computer Science is research-based, not a direct coursework option.
+- Canada moves ahead of Australia once budget is treated as a hard constraint. Focus on public universities and verified PGWP-eligible master's programmes where the tuition stays close to INR 24 to 38 lakh. Waterloo's MMath Computer Science is research-based, not a direct coursework option.
+- Australia remains strong, but it should be treated as a stretch-budget country. It has a stronger technology market and a longer post-study work period for Indian master's graduates, but high tuition and points competition reduce ROI. UQ, Monash, UTS and QUT are better ROI plays than UNSW, Melbourne or Sydney.
 - New Zealand fees were previously understated. The corrected serious-programme range is roughly INR 32 lakh to INR 49 lakh, while the graduate technology market is the smallest among the main English-speaking choices.
 - The UK Graduate route reduction is now material for a 2027 graduate-visa application. Avoid paying London-level costs for a weak institution.
 - The US remains a career-first choice, not a predictable settlement choice. A DHS final rule published on 17 July 2026 adds fixed period F-1 admission and extension of stay risk from 15 September 2026 unless congressional review changes the effective date. Arizona State's MS Computer Science is not a no-GRE safety for most external applicants.
@@ -92,7 +114,7 @@ Universities abroad generally **do not conduct Indian-style campus placements** 
 - **Apply timing** is the recommended submission timing for your first practical intake after a 2027 B.Tech finish. If final 2027 dates are still pending, the date is a conservative target, not an official closing date.
 - **Expected reply** means the first admission decision or shortlisting result after a complete application. It does not include visa processing, scholarship release, deposit confirmation or final document checks.
 
-## 1. Ireland
+## Ireland
 
 | Rank | University                          | Recommended programme and branch                                                 |       Duration |                     Approx. total tuition | Employment outlook                                      | Typical starting salary | Acceptance estimate | Your chance  | Apply timing                    | Expected reply              | Relevant scholarships                                                        | Assessment                                                               |
 | ---: | ----------------------------------- | -------------------------------------------------------------------------------- | -------------: | ----------------------------------------: | ------------------------------------------------------- | ----------------------: | ------------------- | ------------ | ------------------------------- | --------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
@@ -113,7 +135,7 @@ Ireland's Third Level Graduate Programme gives a Level 9 graduate 12 months init
 
 **Ireland verdict:** For permanent settlement plus ROI, Ireland is the first country to prioritise. DCU, Limerick, Maynooth, UCD and UCC are the best cost-to-opportunity choices; Trinity is worth a reach application if the fee and living cost are manageable.
 
-## 2. Australia
+## Australia
 
 | Rank | University                          | Recommended programme and branch                                                |       Duration |                      Approx. total tuition | Employment outlook                                        | Typical starting salary | Acceptance estimate | Your chance   | Apply timing                   | Expected reply  | Relevant scholarships                                                              | Assessment                                                           |
 | ---: | ----------------------------------- | ------------------------------------------------------------------------------- | -------------: | -----------------------------------------: | --------------------------------------------------------- | ----------------------: | ------------------- | ------------- | ------------------------------ | --------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
@@ -134,7 +156,7 @@ For Indian nationals, the Australia-India Economic Cooperation and Trade Agreeme
 
 **Australia verdict:** For settlement plus ROI, prioritise UQ if eligible for the shorter route, Monash if admitted to 1.5 years, UTS, QUT and Adelaide University. Keep UNSW, Melbourne and Sydney as aspirational choices only if finances or scholarships make the payback sensible.
 
-## 3. Canada
+## Canada
 
 | Rank | University                     | Recommended programme and branch                                        |        Duration | Approx. total tuition | Employment outlook                                           | Typical starting salary | Acceptance estimate | Your chance   | Apply timing                     | Expected reply  | Relevant scholarships                                             | Assessment                                                          |
 | ---: | ------------------------------ | ----------------------------------------------------------------------- | --------------: | --------------------: | ------------------------------------------------------------ | ----------------------: | ------------------- | ------------- | -------------------------------- | --------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------- |
@@ -155,7 +177,7 @@ Canada Job Bank's national median for software engineers and designers converts 
 
 **Canada verdict:** Prioritise Ottawa, Carleton, SFU, Calgary and Concordia. Treat Waterloo, Toronto and UBC as reaches. Avoid private colleges and weak programmes marketed primarily around immigration.
 
-## 4. New Zealand
+## New Zealand
 
 | Rank | University                        | Recommended programme and branch                                           |        Duration |                              Approx. total tuition | Employment outlook                                  | Typical starting salary | Acceptance estimate | Your chance  | Apply timing                   | Expected reply  | Relevant scholarships                                                  | Assessment                                                                        |
 | ---: | --------------------------------- | -------------------------------------------------------------------------- | --------------: | -------------------------------------------------: | --------------------------------------------------- | ----------------------: | ------------------- | ------------ | ------------------------------ | --------------- | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
@@ -174,7 +196,7 @@ For a master's or doctorate studied in New Zealand for at least 30 weeks, the cu
 
 **New Zealand verdict:** Auckland, Victoria Wellington, Canterbury, Waikato and AUT are the serious options. Do not rely on the old lower fee estimates; official 2026 and 2027 totals are substantially higher.
 
-## 5. United Kingdom
+## United Kingdom
 
 | Rank | University                | Recommended programme and branch                           | Duration | Approx. total tuition | Employment outlook                                      | Typical starting salary | Acceptance estimate | Your chance     | Apply timing                    | Expected reply       | Relevant scholarships                                                           | Assessment                                                                            |
 | ---: | ------------------------- | ---------------------------------------------------------- | -------: | --------------------: | ------------------------------------------------------- | ----------------------: | ------------------- | --------------- | ------------------------------- | -------------------- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- |
@@ -193,7 +215,7 @@ For a master's or doctorate studied in New Zealand for at least 30 weeks, the cu
 
 **UK verdict:** Manchester, Bristol, Southampton, Birmingham, Sheffield and Leeds are the most appropriate balance for your profile. Imperial and UCL are speculative applications.
 
-## 6. United States
+## United States
 
 | Rank | University                              | Recommended programme and branch                                           |        Duration |                        Approx. total tuition | Employment outlook                 |       Typical starting salary | Acceptance estimate | Your chance     | Apply timing                     | Expected reply  | Relevant scholarships                                          | Assessment                                                                                    |
 | ---: | --------------------------------------- | -------------------------------------------------------------------------- | --------------: | -------------------------------------------: | ---------------------------------- | ----------------------------: | ------------------- | --------------- | -------------------------------- | --------------- | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
@@ -212,7 +234,7 @@ For a master's or doctorate studied in New Zealand for at least 30 weeks, the cu
 
 **US verdict:** Apply only to programmes where the employment upside justifies the immigration uncertainty, extension of stay risk and debt. UIUC, Georgia Tech, Wisconsin, Maryland and NCSU provide better value than USC or Northeastern.
 
-## 7. Singapore
+## Singapore
 
 Only programmes verified in the stated form are retained below. The former SIT MSc Artificial Intelligence and SUSS Master of Digital Innovation rows were removed because no such current postgraduate programme could be verified. The vague SUTD computing route was also removed. SMU's MSc in Computing is a research degree, not a like-for-like professional taught master's.
 
@@ -233,19 +255,21 @@ Converted planning figures used here are approximately INR 50.1 lakh for NUS, IN
 
 ## Final application portfolio
 
-| Priority                          |     Country | Recommended applications                        |
-| --------------------------------- | ----------: | ----------------------------------------------- |
-| Best settlement plus ROI          |     Ireland | DCU, Limerick, Maynooth, UCD, UCC, Trinity      |
-| Strong settlement if budget works |   Australia | UQ, Monash, UTS, QUT, Adelaide University, UNSW |
-| Secondary settlement option       |      Canada | Ottawa, Carleton, SFU, Calgary, Concordia       |
-| Backup settlement option          | New Zealand | Auckland, Victoria Wellington, Canterbury       |
-| Selective career-first option     |          UK | Manchester, Bristol, Southampton, Birmingham    |
-| High-risk, high-return            |         USA | UIUC, Georgia Tech, Wisconsin, Maryland, NCSU   |
-| Limited-settlement alternative    |   Singapore | NUS, NTU, SMU                                   |
+| Priority                                |        Country | Budget rule                                                                          | Recommended applications                                       |
+| --------------------------------------- | -------------: | ------------------------------------------------------------------------------------ | -------------------------------------------------------------- |
+| Best budget plus settlement plus ROI    |        Ireland | Most serious options sit inside or near the core budget                              | DCU, Limerick, Maynooth, UCC, UCD, Trinity if affordable       |
+| Best public-university budget backup    |         Canada | Keep the main list near INR 24 to 38 lakh unless a reach option gives funding        | Ottawa, Carleton, Concordia, Calgary, SFU, Windsor             |
+| Strong stretch-budget settlement option |      Australia | Prefer UQ shorter route or Monash 1.5-year route; avoid INR 75 lakh plus without aid | UQ, Monash, UTS, QUT, Adelaide University, UNSW only with aid  |
+| Budget-controlled settlement backup     |    New Zealand | Prefer lower-fee serious options; Auckland needs a full cash plan                    | Canterbury, Victoria Wellington, Waikato, Auckland             |
+| Selective one-year career option        | United Kingdom | Prefer regional INR 35 to 45 lakh options; London needs major aid                    | Birmingham, Sheffield, Leeds, Bristol, Southampton, Manchester |
+| Career-first high-risk option           |  United States | Apply only to value routes around INR 35 to 55 lakh or funded admits                 | Georgia Tech, UIUC, Maryland, Wisconsin, NCSU                  |
+| Limited-settlement alternative          |      Singapore | Treat as exceptional because tuition is INR 42 to 50 lakh and PR is discretionary    | NUS, NTU, SMU                                                  |
 
 For your stated objective, the strongest application sequence is:
 
-**Ireland first, Australia second, Canada third, New Zealand fourth, UK fifth, USA sixth and Singapore seventh.**
+**Ireland first, Canada second, Australia third, New Zealand fourth, UK fifth, USA sixth and Singapore seventh.**
+
+If the final family budget is capped near INR 35 lakh tuition, drop Australia, Singapore, London, CMU, USC, Northeastern and most New Zealand options unless a scholarship or shorter route is confirmed. If the budget can stretch to INR 50 lakh tuition, keep UQ, selected New Zealand universities, UK regional universities, Georgia Tech, UIUC, Maryland and Wisconsin as selective applications.
 
 [1]: https://www.xe.com/en-us/currencytables/?from=INR "Xe Currency Tables INR"
 [2]: https://www.unsw.edu.au/study/postgraduate/master-of-information-technology "UNSW Master of Information Technology"
