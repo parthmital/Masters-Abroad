@@ -18,28 +18,39 @@ Market direction supports this choice. WEF 2025 jobs data highlights AI and big 
 
 ## Table of Contents
 
-1. Evidence Treatment and Audit Methodology
-2. Core Strategic Advantage: Canada and Vancouver Focus
-3. Multi-Criteria Ranking Methodology
-4. Overall Destination Ranking and Comparison Matrix
-5. Budget Filter and Tier Strategy
-6. Post-Study Work and First Employment Gate
-7. Official Pay Evidence
-8. Detailed Decision Notes
-9. Comprehensive Risk Register
-10. Climate and Weather Evaluation Criterion
-11. Canadian Regional and City Comparative Analysis
-12. Country-by-Country Master's Guides
-    - 12.1 Canada
-    - 12.2 Ireland
-    - 12.3 Australia
-    - 12.4 New Zealand
-    - 12.5 United Kingdom
-    - 12.6 United States
-    - 12.7 Singapore
-13. Substantially Expanded Scholarship and Financial Assistance Guide
-14. Final Application Portfolio and Execution Roadmap
-15. Official Reference Sources and Currency Basis
+1. [1. Evidence Treatment and Audit Methodology](#1-evidence-treatment-and-audit-methodology)
+2. [2. Core Strategic Advantage: Canada and Vancouver Focus](#2-core-strategic-advantage-canada-and-vancouver-focus)
+   - [2.1 Accommodation and Financial Relief in INR](#21-accommodation-and-financial-relief-in-inr)
+   - [2.2 Career Networking and Industry Access](#22-career-networking-and-industry-access)
+   - [2.3 Permanent Residency and Settlement Security](#23-permanent-residency-and-settlement-security)
+3. [3. Multi-Criteria Ranking Methodology](#3-multi-criteria-ranking-methodology)
+4. [4. Overall Destination Ranking and Comparison Matrix](#4-overall-destination-ranking-and-comparison-matrix)
+5. [5. Budget Filter and Tier Strategy](#5-budget-filter-and-tier-strategy)
+6. [6. Post-Study Work and First Employment Gate](#6-post-study-work-and-first-employment-gate)
+7. [7. Official Pay Evidence](#7-official-pay-evidence)
+8. [8. Detailed Decision Notes](#8-detailed-decision-notes)
+9. [9. Comprehensive Risk Register](#9-comprehensive-risk-register)
+10. [10. Climate and Weather Evaluation Criterion](#10-climate-and-weather-evaluation-criterion)
+    - [10.1 Comparative Climate Matrix across Target Cities](#101-comparative-climate-matrix-across-target-cities)
+    - [10.2 Practical Lifestyle and Cost Impact](#102-practical-lifestyle-and-cost-impact)
+11. [11. Canadian Regional and City Comparative Analysis](#11-canadian-regional-and-city-comparative-analysis)
+12. [12. Country-by-Country Master's Guides](#12-country-by-country-masters-guides)
+    - [12.1 Canada](#121-canada)
+    - [12.2 Ireland](#122-ireland)
+    - [12.3 Australia](#123-australia)
+    - [12.4 New Zealand](#124-new-zealand)
+    - [12.5 United Kingdom](#125-united-kingdom)
+    - [12.6 United States](#126-united-states)
+    - [12.7 Singapore](#127-singapore)
+13. [13. Substantially Expanded Scholarship and Financial Assistance Guide](#13-substantially-expanded-scholarship-and-financial-assistance-guide)
+    - [13.1 Major Global and National Scholarships](#131-major-global-and-national-scholarships-all-values-in-inr)
+    - [13.2 Graduate Assistantship Mechanisms](#132-graduate-assistantship-mechanisms-ta--ra)
+14. [14. Final Application Portfolio and Execution Roadmap](#14-final-application-portfolio-and-execution-roadmap)
+    - [14.1 Strategic Application Portfolio](#141-strategic-application-portfolio)
+    - [14.2 Application Execution Timeline](#142-application-execution-timeline-2026-to-2027)
+15. [15. Official Reference Sources and Currency Basis](#15-official-reference-sources-and-currency-basis)
+    - [15.1 Currency Exchange Reference Basis](#151-currency-exchange-reference-basis-august-2026)
+    - [15.2 Official Government, University, and Sentiment Sources](#152-official-government-university-and-sentiment-sources)
 
 ## 1. Evidence Treatment and Audit Methodology
 
@@ -51,6 +62,8 @@ This file separates evidence into four distinct categories:
 - **Conclusion:** Profile-specific judgements for this VIT CSE, AI/software profile, no stated GRE, Fall 2027 or later intake, targeting settlement plus ROI.
 
 Reddit scan status: Recent July/August 2026 posts and monthly top feeds on r/Indians_StudyAbroad were prioritised as the active Indian study-abroad community. Related results from r/f1visa, r/ukvisa, r/ImmigrationCanada, r/studyAbroad, and country subreddits were used only as sentiment checks. Reddit posts are not verified facts and do not override official immigration rules. ([Ireland visa timeline Reddit][66], [Ireland TCD/UCD loan risk Reddit][67], [US/UK/Australia MS decision Reddit][68], [Singapore NUS MiM Reddit][69], [r/Indians_StudyAbroad top feed][70])
+
+[↑ Back to top](#table-of-contents)
 
 ## 2. Core Strategic Advantage: Canada and Vancouver Focus
 
@@ -84,7 +97,9 @@ British Columbia provides clear provincial immigration pathways for internationa
 
 - **BC PNP Master's Stream (2025/2026 Rules):** Graduates from eligible master's programmes in BC (including SFU and UBC) can apply for provincial nomination under the Master's stream. Under current rules, applicants require a full-time job offer in NOC TEER 1, 2, or 3 and a minimum language score of CLB 8.
 - **Network Impact on PR Eligibility:** Securing a qualifying NOC TEER 1 or 2 software engineering job offer is the mandatory prerequisite for BC PNP nomination. The local relative network directly lowers the risk of failing to obtain a qualifying job offer within the post-study window.
-- **Express Entry Category Selection:** Federal Express Entry regularly conducts targeted draws for STEM occupations. Canadian education combined with Canadian work experience yields high Comprehensive Ranking System (CRS) scores.
+- **[Express Entry Category Selection][71]:** Federal Express Entry regularly conducts targeted draws for STEM occupations. Canadian education combined with Canadian work experience yields high Comprehensive Ranking System (CRS) scores.
+
+[↑ Back to top](#table-of-contents)
 
 ## 3. Multi-Criteria Ranking Methodology
 
@@ -103,6 +118,8 @@ Target destinations are evaluated using a 12-factor decision framework weighted 
 | University brand & research quality |     3% | Global employer brand, top faculty in AI/ML, state-of-the-art lab access        | Weak brand recognition, pure teaching college status                                           |
 | Admission feasibility               |     2% | Acceptance probability based on 8.75 CGPA, IELTS 8.0, no GRE required           | High rejection rates, mandatory GRE requirement                                                |
 | Safety & security                   |     2% | Low crime rates, safe cities for international students, high social stability  | High crime rates, safety concerns, political volatility                                        |
+
+[↑ Back to top](#table-of-contents)
 
 ## 4. Overall Destination Ranking and Comparison Matrix
 
@@ -227,18 +244,18 @@ Climate conditions directly affect personal health, clothing expenses, daily tra
 
 #### University Programme Comparison Table: Canada (All Figures in INR)
 
-| Rank | University                      | Recommended Programme and Branch                     | Duration | Total Tuition (INR) | Employment Outlook                                    | Starting Salary Range (INR/yr) | Acceptance Estimate | Profile Chance         | Application Deadline | Expected Decision | Key Scholarships                                       | Overall Assessment                                                                            |
-| ---: | :------------------------------ | :--------------------------------------------------- | -------: | ------------------: | :---------------------------------------------------- | :----------------------------- | ------------------: | :--------------------- | :------------------- | :---------------- | :----------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
-|    1 | Simon Fraser University (SFU)   | Professional MSc in Computer Science (Big Data / AI) | 16-20 Mo |  **INR 37.83 lakh** | Excellent co-op structure and Vancouver tech access   | **INR 58.00 to 78.49 lakh**    |          20% to 30% | Target / High Priority | 1 Dec 2026           | Feb to Apr 2027   | Graduate Entrance Award (INR 1.70 to 3.41 lakh)        | **Top Strategic Choice**: Co-op plus Vancouver relative support maximizes ROI and settlement. |
-|    2 | Univ. of British Columbia (UBC) | Master of Data Science (MDS) / MSc Computer Science  | 10-24 Mo |  **INR 40.79 lakh** | Exceptional brand reputation in Vancouver             | **INR 61.42 to 81.90 lakh**    |          10% to 18% | Reach                  | 1 Dec 2026           | Feb to Mar 2027   | MDS International Scholarship (INR 3.41 to 10.23 lakh) | Prestigious Vancouver option; higher tuition fee structure.                                   |
-|    3 | University of Ottawa            | Master of Computer Science (MCS) Coursework          | 16-24 Mo |  **INR 26.28 lakh** | Strong access to Ottawa tech and government hubs      | **INR 54.60 to 71.66 lakh**    |          25% to 40% | Target                 | 15 Jan 2027          | Mar to May 2027   | Limited coursework aid; plan full budget               | Excellent value public master's route in lower-cost city.                                     |
-|    4 | Carleton University             | Master of Computer Science (MCS) Project Track       | 16-24 Mo |  **INR 24.57 lakh** | Good Ottawa technology employer ties                  | **INR 53.23 to 69.61 lakh**    |          30% to 50% | Target                 | 15 Jan 2027          | Mar to May 2027   | Departmental awards (INR 1.36 to 2.73 lakh)            | Practical, cost-effective Ontario option.                                                     |
-|    5 | University of Calgary           | Master of Data Science and Analytics (MDSA)          |    12 Mo |  **INR 26.96 lakh** | Growing tech and analytics market in Alberta          | **INR 51.18 to 66.88 lakh**    |          30% to 45% | Target                 | 15 Jan 2027          | Mar to May 2027   | Entrance scholarships (INR 2.04 to 4.09 lakh)          | Strong option outside Ontario and BC with lower living costs.                                 |
-|    6 | Concordia University            | Master of Applied Computer Science (MApCompSc)       |    24 Mo |  **INR 24.91 lakh** | Good Montreal tech market access                      | **INR 49.14 to 64.83 lakh**    |          40% to 60% | Target / Likely        | 15 Jan 2027          | Mar to May 2027   | Entrance Bursaries (INR 1.36 to 3.41 lakh)             | Solid curriculum; French proficiency expands job prospects.                                   |
-|    7 | University of Waterloo          | MMath Computer Science (Co-op / Supervisor)          | 16-24 Mo |  **INR 28.67 lakh** | World-class technology reputation                     | **INR 64.83 to 88.72 lakh**    |           5% to 12% | High Reach             | 1 Dec 2026           | Feb to Apr 2027   | Full research funding package for thesis admits        | Top academic reputational tier; requires thesis supervisor match.                             |
-|    8 | University of Toronto           | MSc in Applied Computing (MScAC) AI Track            |    16 Mo |  **INR 49.14 lakh** | Exceptional Toronto tech hub and internship placement | **INR 64.83 to 92.13 lakh**    |           8% to 15% | High Reach             | 1 Dec 2026           | Feb to Apr 2027   | Applied research stipends during 8-month internship    | Industry-leading program, but high tuition and Toronto living cost.                           |
-|    9 | University of Windsor           | Master of Applied Computing (MAC) AI Track           |    16 Mo |  **INR 24.57 lakh** | Moderate, includes applied industry project           | **INR 46.41 to 61.42 lakh**    |          50% to 70% | Likely                 | 15 Jan 2027          | Mar to May 2027   | Graduate entrance scholarships (INR 1.00 to 2.00 lakh) | Useful backup, but do not choose solely for immigration.                                      |
-|   10 | Western University              | Master of Data Analytics (MDA)                       |    12 Mo |  **INR 28.53 lakh** | Good, but tech hiring is outside London, ON           | **INR 47.77 to 62.79 lakh**    |          40% to 60% | Target / Likely        | 15 Jan 2027          | Mar to May 2027   | Limited entrance awards; plan full budget              | Solid backup option if Ottawa and lower-fee routes do not work.                               |
+| Rank | University                            | Recommended Programme and Branch                     | Duration | Total Tuition (INR) | Employment Outlook                                    | Starting Salary Range (INR/yr) | Acceptance Estimate | Profile Chance         | Application Deadline | Expected Decision | Key Scholarships                                       | Overall Assessment                                                                            |
+| ---: | :------------------------------------ | :--------------------------------------------------- | -------: | ------------------: | :---------------------------------------------------- | :----------------------------- | ------------------: | :--------------------- | :------------------- | :---------------- | :----------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
+|    1 | [Simon Fraser University (SFU)][73]   | Professional MSc in Computer Science (Big Data / AI) | 16-20 Mo |  **INR 37.83 lakh** | Excellent co-op structure and Vancouver tech access   | **INR 58.00 to 78.49 lakh**    |          20% to 30% | Target / High Priority | 1 Dec 2026           | Feb to Apr 2027   | Graduate Entrance Award (INR 1.70 to 3.41 lakh)        | **Top Strategic Choice**: Co-op plus Vancouver relative support maximizes ROI and settlement. |
+|    2 | [Univ. of British Columbia (UBC)][74] | Master of Data Science (MDS) / MSc Computer Science  | 10-24 Mo |  **INR 40.79 lakh** | Exceptional brand reputation in Vancouver             | **INR 61.42 to 81.90 lakh**    |          10% to 18% | Reach                  | 1 Dec 2026           | Feb to Mar 2027   | MDS International Scholarship (INR 3.41 to 10.23 lakh) | Prestigious Vancouver option; higher tuition fee structure.                                   |
+|    3 | [University of Ottawa][75]            | Master of Computer Science (MCS) Coursework          | 16-24 Mo |  **INR 26.28 lakh** | Strong access to Ottawa tech and government hubs      | **INR 54.60 to 71.66 lakh**    |          25% to 40% | Target                 | 15 Jan 2027          | Mar to May 2027   | Limited coursework aid; plan full budget               | Excellent value public master's route in lower-cost city.                                     |
+|    4 | [Carleton University][76]             | Master of Computer Science (MCS) Project Track       | 16-24 Mo |  **INR 24.57 lakh** | Good Ottawa technology employer ties                  | **INR 53.23 to 69.61 lakh**    |          30% to 50% | Target                 | 15 Jan 2027          | Mar to May 2027   | Departmental awards (INR 1.36 to 2.73 lakh)            | Practical, cost-effective Ontario option.                                                     |
+|    5 | [University of Calgary][77]           | Master of Data Science and Analytics (MDSA)          |    12 Mo |  **INR 26.96 lakh** | Growing tech and analytics market in Alberta          | **INR 51.18 to 66.88 lakh**    |          30% to 45% | Target                 | 15 Jan 2027          | Mar to May 2027   | Entrance scholarships (INR 2.04 to 4.09 lakh)          | Strong option outside Ontario and BC with lower living costs.                                 |
+|    6 | [Concordia University][78]            | Master of Applied Computer Science (MApCompSc)       |    24 Mo |  **INR 24.91 lakh** | Good Montreal tech market access                      | **INR 49.14 to 64.83 lakh**    |          40% to 60% | Target / Likely        | 15 Jan 2027          | Mar to May 2027   | Entrance Bursaries (INR 1.36 to 3.41 lakh)             | Solid curriculum; French proficiency expands job prospects.                                   |
+|    7 | [University of Waterloo][29]          | MMath Computer Science (Co-op / Supervisor)          | 16-24 Mo |  **INR 28.67 lakh** | World-class technology reputation                     | **INR 64.83 to 88.72 lakh**    |           5% to 12% | High Reach             | 1 Dec 2026           | Feb to Apr 2027   | Full research funding package for thesis admits        | Top academic reputational tier; requires thesis supervisor match.                             |
+|    8 | [University of Toronto][79]           | MSc in Applied Computing (MScAC) AI Track            |    16 Mo |  **INR 49.14 lakh** | Exceptional Toronto tech hub and internship placement | **INR 64.83 to 92.13 lakh**    |           8% to 15% | High Reach             | 1 Dec 2026           | Feb to Apr 2027   | Applied research stipends during 8-month internship    | Industry-leading program, but high tuition and Toronto living cost.                           |
+|    9 | [University of Windsor][80]           | Master of Applied Computing (MAC) AI Track           |    16 Mo |  **INR 24.57 lakh** | Moderate, includes applied industry project           | **INR 46.41 to 61.42 lakh**    |          50% to 70% | Likely                 | 15 Jan 2027          | Mar to May 2027   | Graduate entrance scholarships (INR 1.00 to 2.00 lakh) | Useful backup, but do not choose solely for immigration.                                      |
+|   10 | [Western University][81]              | Master of Data Analytics (MDA)                       |    12 Mo |  **INR 28.53 lakh** | Good, but tech hiring is outside London, ON           | **INR 47.77 to 62.79 lakh**    |          40% to 60% | Target / Likely        | 15 Jan 2027          | Mar to May 2027   | Limited entrance awards; plan full budget              | Solid backup option if Ottawa and lower-fee routes do not work.                               |
 
 #### Financial Separation: Canada (All Figures in INR)
 
@@ -281,7 +298,9 @@ Climate conditions directly affect personal health, clothing expenses, daily tra
 
 - **PGWP Rights:** A 3-year Post-Graduation Work Permit (PGWP) is granted to graduates of eligible master's degrees of 8 months or longer. Requires maintaining CLB 7 language scores across all four skills.
 - **BC PNP Master's Stream (2025/2026 Rules):** Requires graduation from an eligible BC master's programme within 3 years, a full-time job offer in NOC TEER 1, 2, or 3, and CLB 8 language proficiency.
-- **Express Entry:** Federal Express Entry rewards candidates with Canadian master's degrees and Canadian work experience with high CRS points, alongside targeted STEM draws.
+- **[Express Entry][71]:** Federal Express Entry rewards candidates with Canadian master's degrees and Canadian work experience with high CRS points, alongside targeted STEM draws.
+
+[↑ Back to top](#table-of-contents)
 
 ---
 
@@ -289,18 +308,18 @@ Climate conditions directly affect personal health, clothing expenses, daily tra
 
 #### University Programme Comparison Table: Ireland (All Figures in INR)
 
-| Rank | University                      | Recommended Programme and Branch               | Duration | Total Tuition (INR) | Employment Outlook                        | Starting Salary Range (INR/yr) | Acceptance Estimate | Profile Chance | Application Deadline | Expected Decision    | Key Scholarships                                  | Overall Assessment                                   |
-| ---: | :------------------------------ | :--------------------------------------------- | -------: | ------------------: | :---------------------------------------- | :----------------------------- | ------------------: | :------------- | :------------------- | :------------------- | :------------------------------------------------ | :--------------------------------------------------- |
-|    1 | Dublin City University (DCU)    | MSc in Computing (AI Pathway)                  |   1 Year |  **INR 27.54 lakh** | Strong industry orientation in Dublin     | **INR 46.26 to 63.88 lakh**    |          30% to 45% | Target         | 15 Nov 2026          | Dec 2026 to Feb 2027 | Faculty Merit Award (INR 3.30 to 6.61 lakh)       | Best Irish value target; practical AI curriculum.    |
-|    2 | University College Dublin (UCD) | MSc Computer Science (Negotiated Learning)     |   1 Year |  **INR 35.02 lakh** | Excellent Dublin employer network         | **INR 49.56 to 68.29 lakh**    |          18% to 30% | Target / Reach | 15 Nov 2026          | Dec 2026 to Feb 2027 | UCD Global Excellence (50% to 100% Tuition)       | Strongest Irish brand ROI if scholarship is secured. |
-|    3 | University of Limerick          | MSc Software Engineering (AI & MLOps Track)    |   1 Year |  **INR 23.68 lakh** | Good industry links in Midwest tech hub   | **INR 41.85 to 57.27 lakh**    |          45% to 60% | Likely         | 15 Nov 2026          | Dec 2026 to Feb 2027 | International Scholarship (INR 2.20 to 4.41 lakh) | Cost-effective software engineering master's.        |
-|    4 | Maynooth University             | MSc Computer Science (Software Engineering)    |   1 Year |  **INR 19.83 lakh** | Access to Dublin commuter job market      | **INR 41.85 to 58.37 lakh**    |          45% to 65% | Likely         | 15 Nov 2026          | Dec 2026 to Feb 2027 | Taught Master's Award (INR 2.20 lakh)             | Lowest fee taught CS option with Dublin access.      |
-|    5 | Trinity College Dublin (TCD)    | MSc Computer Science (Intelligent Systems)     |   1 Year |  **INR 30.62 lakh** | High prestige, strong academic network    | **INR 48.46 to 68.29 lakh**    |          10% to 18% | Reach          | 15 Nov 2026          | Jan to Mar 2027      | Global Excellence Award (INR 2.20 to 5.51 lakh)   | High academic status, but Dublin housing adds cost.  |
-|    6 | University College Cork (UCC)   | MSc Computing Science (AI Track)               |   1 Year |  **INR 30.80 lakh** | Good, with Cork tech and pharma employers | **INR 43.00 to 59.50 lakh**    |          30% to 45% | Target         | 15 Nov 2026          | Dec 2026 to Feb 2027 | International Merit Award (INR 1.50 to 5.00 lakh) | Useful AI/software option if Dublin costs are high.  |
-|    7 | University of Galway            | MSc Computer Science (Artificial Intelligence) |   1 Year |  **INR 31.50 lakh** | Good, smaller regional market             | **INR 41.85 to 58.37 lakh**    |          35% to 50% | Target         | 15 Nov 2026          | Jan to Mar 2027      | Programme Merit Award (INR 1.00 to 3.00 lakh)     | Strong AI curriculum; higher fee for smaller market. |
-|    8 | Technological Univ Dublin (TUD) | MSc Computer Science (Advanced Software Dev)   | 1-1.5 Yr |  **INR 23.90 lakh** | Applied curriculum and Dublin access      | **INR 40.75 to 57.27 lakh**    |          50% to 70% | Likely         | 15 Nov 2026          | Dec 2026 to Feb 2027 | International Merit Award (INR 1.00 to 3.00 lakh) | Practical Dublin backup for software engineering.    |
-|    9 | South East Tech Univ (SETU)     | MSc Applied Artificial Intelligence            |   1 Year |  **INR 15.40 lakh** | Moderate, regional employer network       | **INR 38.25 to 54.20 lakh**    |          60% to 80% | Very Likely    | 15 Jan 2027          | Feb to Apr 2027      | SETU Entry Award (INR 1.21 to 4.85 lakh)          | Cheap AI backup, but employer depth is lower.        |
-|   10 | Atlantic Tech Univ (ATU)        | MSc Computing (Big Data Analytics & AI)        |   1 Year |  **INR 15.40 lakh** | Regional job market in Donegal            | **INR 37.00 to 53.00 lakh**    |          65% to 85% | Very Likely    | 15 Jan 2027          | Feb to Apr 2027      | Entry Award (INR 1.00 to 2.00 lakh)               | Low-cost backup; location limits employer depth.     |
+| Rank | University                            | Recommended Programme and Branch               | Duration | Total Tuition (INR) | Employment Outlook                        | Starting Salary Range (INR/yr) | Acceptance Estimate | Profile Chance | Application Deadline | Expected Decision    | Key Scholarships                                  | Overall Assessment                                   |
+| ---: | :------------------------------------ | :--------------------------------------------- | -------: | ------------------: | :---------------------------------------- | :----------------------------- | ------------------: | :------------- | :------------------- | :------------------- | :------------------------------------------------ | :--------------------------------------------------- |
+|    1 | [Dublin City University (DCU)][5]     | MSc in Computing (AI Pathway)                  |   1 Year |  **INR 27.54 lakh** | Strong industry orientation in Dublin     | **INR 46.26 to 63.88 lakh**    |          30% to 45% | Target         | 15 Nov 2026          | Dec 2026 to Feb 2027 | Faculty Merit Award (INR 3.30 to 6.61 lakh)       | Best Irish value target; practical AI curriculum.    |
+|    2 | [University College Dublin (UCD)][4]  | MSc Computer Science (Negotiated Learning)     |   1 Year |  **INR 35.02 lakh** | Excellent Dublin employer network         | **INR 49.56 to 68.29 lakh**    |          18% to 30% | Target / Reach | 15 Nov 2026          | Dec 2026 to Feb 2027 | UCD Global Excellence (50% to 100% Tuition)       | Strongest Irish brand ROI if scholarship is secured. |
+|    3 | [University of Limerick][82]          | MSc Software Engineering (AI & MLOps Track)    |   1 Year |  **INR 23.68 lakh** | Good industry links in Midwest tech hub   | **INR 41.85 to 57.27 lakh**    |          45% to 60% | Likely         | 15 Nov 2026          | Dec 2026 to Feb 2027 | International Scholarship (INR 2.20 to 4.41 lakh) | Cost-effective software engineering master's.        |
+|    4 | [Maynooth University][25]             | MSc Computer Science (Software Engineering)    |   1 Year |  **INR 19.83 lakh** | Access to Dublin commuter job market      | **INR 41.85 to 58.37 lakh**    |          45% to 65% | Likely         | 15 Nov 2026          | Dec 2026 to Feb 2027 | Taught Master's Award (INR 2.20 lakh)             | Lowest fee taught CS option with Dublin access.      |
+|    5 | [Trinity College Dublin (TCD)][22]    | MSc Computer Science (Intelligent Systems)     |   1 Year |  **INR 30.62 lakh** | High prestige, strong academic network    | **INR 48.46 to 68.29 lakh**    |          10% to 18% | Reach          | 15 Nov 2026          | Jan to Mar 2027      | Global Excellence Award (INR 2.20 to 5.51 lakh)   | High academic status, but Dublin housing adds cost.  |
+|    6 | [University College Cork (UCC)][24]   | MSc Computing Science (AI Track)               |   1 Year |  **INR 30.80 lakh** | Good, with Cork tech and pharma employers | **INR 43.00 to 59.50 lakh**    |          30% to 45% | Target         | 15 Nov 2026          | Dec 2026 to Feb 2027 | International Merit Award (INR 1.50 to 5.00 lakh) | Useful AI/software option if Dublin costs are high.  |
+|    7 | [University of Galway][6]             | MSc Computer Science (Artificial Intelligence) |   1 Year |  **INR 31.50 lakh** | Good, smaller regional market             | **INR 41.85 to 58.37 lakh**    |          35% to 50% | Target         | 15 Nov 2026          | Jan to Mar 2027      | Programme Merit Award (INR 1.00 to 3.00 lakh)     | Strong AI curriculum; higher fee for smaller market. |
+|    8 | [Technological Univ Dublin (TUD)][83] | MSc Computer Science (Advanced Software Dev)   | 1-1.5 Yr |  **INR 23.90 lakh** | Applied curriculum and Dublin access      | **INR 40.75 to 57.27 lakh**    |          50% to 70% | Likely         | 15 Nov 2026          | Dec 2026 to Feb 2027 | International Merit Award (INR 1.00 to 3.00 lakh) | Practical Dublin backup for software engineering.    |
+|    9 | [South East Tech Univ (SETU)][49]     | MSc Applied Artificial Intelligence            |   1 Year |  **INR 15.40 lakh** | Moderate, regional employer network       | **INR 38.25 to 54.20 lakh**    |          60% to 80% | Very Likely    | 15 Jan 2027          | Feb to Apr 2027      | SETU Entry Award (INR 1.21 to 4.85 lakh)          | Cheap AI backup, but employer depth is lower.        |
+|   10 | [Atlantic Tech Univ (ATU)][51]        | MSc Computing (Big Data Analytics & AI)        |   1 Year |  **INR 15.40 lakh** | Regional job market in Donegal            | **INR 37.00 to 53.00 lakh**    |          65% to 85% | Very Likely    | 15 Jan 2027          | Feb to Apr 2027      | Entry Award (INR 1.00 to 2.00 lakh)               | Low-cost backup; location limits employer depth.     |
 
 #### Financial Separation: Ireland (All Figures in INR)
 
@@ -342,24 +361,26 @@ Climate conditions directly affect personal health, clothing expenses, daily tra
 - **Post-Study Work Rights:** Stamp 1G provides 24 months of post-study work authorization for Level 9 master's graduates.
 - **Employment Gate:** Transition to permanent residence (Stamp 4) requires a Critical Skills Employment Permit (CSEP) meeting minimum salary thresholds (INR 41.85 lakh per year).
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ### 12.3 Australia
 
 #### University Programme Comparison Table: Australia (All Figures in INR)
 
-| Rank | University                    | Recommended Programme and Branch      |  Duration | Total Tuition (INR) | Employment Outlook                   | Starting Salary Range (INR/yr) | Acceptance Estimate | Profile Chance  | Application Deadline | Expected Decision | Key Scholarships                                  | Overall Assessment                                                 |
-| ---: | :---------------------------- | :------------------------------------ | --------: | ------------------: | :----------------------------------- | :----------------------------- | ------------------: | :-------------- | :------------------- | :---------------- | :------------------------------------------------ | :----------------------------------------------------------------- |
-|    1 | Univ. of Queensland (UQ)      | Master of Computer Science (ML Track) | 1.5 Years |  **INR 39.15 lakh** | Strong Brisbane tech market access   | **INR 55.15 to 72.64 lakh**    |          35% to 55% | Target          | 30 Sep 2027          | Oct to Nov 2027   | UQ High Achievers Award (20% Tuition Reduction)   | Best Australian ROI if admitted to 1.5-year prior-degree stream.   |
-|    2 | Monash University             | Master of Information Technology      | 1.5-2 Yrs |  **INR 50.11 lakh** | Very good Melbourne employer network | **INR 57.17 to 75.33 lakh**    |          35% to 55% | Target          | 30 Sep 2027          | Oct to Nov 2027   | Monash Study Grant (INR 3.36 to 6.72 lakh)        | Strong program structure if 1.5-year route is granted.             |
-|    3 | Univ. of Tech Sydney (UTS)    | Master of Information Technology      |   2 Years |  **INR 61.88 lakh** | High industry connectivity in Sydney | **INR 57.17 to 77.35 lakh**    |          45% to 65% | Target / Likely | 30 Sep 2027          | Oct to Nov 2027   | UTS Academic Excellence (20% to 25% Tuition)      | High Sydney cost, but strong practical industry links.             |
-|    4 | Queensland Univ of Tech (QUT) | Master of Information Technology      |   2 Years |  **INR 57.84 lakh** | Good practical software focus        | **INR 53.80 to 70.62 lakh**    |          55% to 75% | Likely          | 30 Sep 2027          | Oct to Nov 2027   | QUT Merit Scholarship (25% Tuition)               | Practical option; Brisbane living costs lower than Sydney.         |
-|    5 | UNSW Sydney                   | Master of Info Tech (AI Track)        |   2 Years |  **INR 87.90 lakh** | Excellent Sydney employer access     | **INR 61.42 to 84.07 lakh**    |          20% to 35% | Reach           | 31 Aug 2027          | Sep to Oct 2027   | Scientia Coursework Scholarship (20-100% Tuition) | Top technical option, but low ROI without major aid.               |
-|    6 | Univ. of Melbourne            | Master of Computer Science (AI Track) |   2 Years |  **INR 84.80 lakh** | Excellent research & reputation      | **INR 60.00 to 82.00 lakh**    |          12% to 25% | Reach           | 31 Aug 2027          | Sep to Nov 2027   | Faculty awards (INR 1.00 to 4.00 lakh)            | Research-oriented; annual fee revisions add cost.                  |
-|    7 | Univ. of Sydney               | Master of Computer Science (AI Track) |   2 Years |  **INR 76.00 lakh** | Excellent Sydney employer access     | **INR 61.42 to 84.07 lakh**    |          25% to 40% | Reach / Target  | 31 Aug 2027          | Sep to Nov 2027   | Sydney Student Award (20% Tuition)                | Strong brand, but high Sydney living cost increases payback time.  |
-|    8 | RMIT University               | Master of Information Technology      |   2 Years |  **INR 56.00 lakh** | Good applied employment focus        | **INR 55.00 to 72.00 lakh**    |          55% to 75% | Likely          | 30 Sep 2027          | Oct to Dec 2027   | Future Leaders Scholarship (20% Tuition)          | Good practical backup in Melbourne.                                |
-|    9 | Adelaide University           | Master of Info Tech (AI Track)        |   2 Years |  **INR 71.80 lakh** | Good, smaller tech market            | **INR 52.40 to 68.90 lakh**    |          50% to 70% | Likely          | 30 Sep 2027          | Oct to Nov 2027   | Merit awards (INR 1.00 to 6.00 lakh)              | Smaller market and high fee reduce ROI despite regional points.    |
-|   10 | Australian National Univ      | Master of Computing (ML/Data)         |   2 Years |  **INR 68.00 lakh** | Strong government & research focus   | **INR 57.17 to 75.33 lakh**    |          25% to 40% | Target          | 31 Aug 2027          | Sep to Nov 2027   | ANU Chancellor's Award (25% to 50% Tuition)       | Good academic fit, but less direct ROI for non-citizen job search. |
+| Rank | University                          | Recommended Programme and Branch      |  Duration | Total Tuition (INR) | Employment Outlook                   | Starting Salary Range (INR/yr) | Acceptance Estimate | Profile Chance  | Application Deadline | Expected Decision | Key Scholarships                                  | Overall Assessment                                                 |
+| ---: | :---------------------------------- | :------------------------------------ | --------: | ------------------: | :----------------------------------- | :----------------------------- | ------------------: | :-------------- | :------------------- | :---------------- | :------------------------------------------------ | :----------------------------------------------------------------- |
+|    1 | [Univ. of Queensland (UQ)][16]      | Master of Computer Science (ML Track) | 1.5 Years |  **INR 39.15 lakh** | Strong Brisbane tech market access   | **INR 55.15 to 72.64 lakh**    |          35% to 55% | Target          | 30 Sep 2027          | Oct to Nov 2027   | UQ High Achievers Award (20% Tuition Reduction)   | Best Australian ROI if admitted to 1.5-year prior-degree stream.   |
+|    2 | [Monash University][15]             | Master of Information Technology      | 1.5-2 Yrs |  **INR 50.11 lakh** | Very good Melbourne employer network | **INR 57.17 to 75.33 lakh**    |          35% to 55% | Target          | 30 Sep 2027          | Oct to Nov 2027   | Monash Study Grant (INR 3.36 to 6.72 lakh)        | Strong program structure if 1.5-year route is granted.             |
+|    3 | [Univ. of Tech Sydney (UTS)][84]    | Master of Information Technology      |   2 Years |  **INR 61.88 lakh** | High industry connectivity in Sydney | **INR 57.17 to 77.35 lakh**    |          45% to 65% | Target / Likely | 30 Sep 2027          | Oct to Nov 2027   | UTS Academic Excellence (20% to 25% Tuition)      | High Sydney cost, but strong practical industry links.             |
+|    4 | [Queensland Univ of Tech (QUT)][18] | Master of Information Technology      |   2 Years |  **INR 57.84 lakh** | Good practical software focus        | **INR 53.80 to 70.62 lakh**    |          55% to 75% | Likely          | 30 Sep 2027          | Oct to Nov 2027   | QUT Merit Scholarship (25% Tuition)               | Practical option; Brisbane living costs lower than Sydney.         |
+|    5 | [UNSW Sydney][2]                    | Master of Info Tech (AI Track)        |   2 Years |  **INR 87.90 lakh** | Excellent Sydney employer access     | **INR 61.42 to 84.07 lakh**    |          20% to 35% | Reach           | 31 Aug 2027          | Sep to Oct 2027   | Scientia Coursework Scholarship (20-100% Tuition) | Top technical option, but low ROI without major aid.               |
+|    6 | [Univ. of Melbourne][14]            | Master of Computer Science (AI Track) |   2 Years |  **INR 84.80 lakh** | Excellent research & reputation      | **INR 60.00 to 82.00 lakh**    |          12% to 25% | Reach           | 31 Aug 2027          | Sep to Nov 2027   | Faculty awards (INR 1.00 to 4.00 lakh)            | Research-oriented; annual fee revisions add cost.                  |
+|    7 | [Univ. of Sydney][85]               | Master of Computer Science (AI Track) |   2 Years |  **INR 76.00 lakh** | Excellent Sydney employer access     | **INR 61.42 to 84.07 lakh**    |          25% to 40% | Reach / Target  | 31 Aug 2027          | Sep to Nov 2027   | Sydney Student Award (20% Tuition)                | Strong brand, but high Sydney living cost increases payback time.  |
+|    8 | [RMIT University][86]               | Master of Information Technology      |   2 Years |  **INR 56.00 lakh** | Good applied employment focus        | **INR 55.00 to 72.00 lakh**    |          55% to 75% | Likely          | 30 Sep 2027          | Oct to Dec 2027   | Future Leaders Scholarship (20% Tuition)          | Good practical backup in Melbourne.                                |
+|    9 | [Adelaide University][17]           | Master of Info Tech (AI Track)        |   2 Years |  **INR 71.80 lakh** | Good, smaller tech market            | **INR 52.40 to 68.90 lakh**    |          50% to 70% | Likely          | 30 Sep 2027          | Oct to Nov 2027   | Merit awards (INR 1.00 to 6.00 lakh)              | Smaller market and high fee reduce ROI despite regional points.    |
+|   10 | [Australian National Univ][87]      | Master of Computing (ML/Data)         |   2 Years |  **INR 68.00 lakh** | Strong government & research focus   | **INR 57.17 to 75.33 lakh**    |          25% to 40% | Target          | 31 Aug 2027          | Sep to Nov 2027   | ANU Chancellor's Award (25% to 50% Tuition)       | Good academic fit, but less direct ROI for non-citizen job search. |
 
 #### Financial Separation: Australia (All Figures in INR)
 
@@ -401,24 +422,26 @@ Climate conditions directly affect personal health, clothing expenses, daily tra
 - **Post-Study Work Rights:** 3-year Subclass 485 post-study work visa for Indian master's graduates under AI-ECTA (age cap 35).
 - **PR Pathway:** Points-based General Skilled Migration (Subclass 189/190/491) requires high points totals in software occupations, supported by regional study points.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ### 12.4 New Zealand
 
 #### University Programme Comparison Table: New Zealand (All Figures in INR)
 
-| Rank | University                | Recommended Programme and Branch       |  Duration | Total Tuition (INR) | Employment Outlook                           | Starting Salary Range (INR/yr) | Acceptance Estimate | Profile Chance | Application Deadline | Expected Decision | Key Scholarships                               | Overall Assessment                                            |
-| ---: | :------------------------ | :------------------------------------- | --------: | ------------------: | :------------------------------------------- | :----------------------------- | ------------------: | :------------- | :------------------- | :---------------- | :--------------------------------------------- | :------------------------------------------------------------ |
-|    1 | Univ. of Canterbury       | Master of Applied Data Science         |  1-1.5 Yr |  **INR 31.88 lakh** | Good regional market in Christchurch         | **INR 40.40 to 53.30 lakh**    |          45% to 60% | Target         | 30 Sep 2027          | Oct to Nov 2027   | UC Dean's Award (INR 2.80 to 5.61 lakh)        | Best NZ ROI; manageable fee structure and applied focus.      |
-|    2 | Univ. of Auckland         | Master of Info Tech (180-point)        | 1.5 Years |  **INR 40.41 lakh** | Best employer access in NZ (Auckland hub)    | **INR 42.09 to 56.12 lakh**    |          35% to 50% | Target         | 31 Aug 2027          | Sep to Oct 2027   | Intl Student Award (INR 5.61 lakh)             | Premier NZ brand; higher tuition and living expenses.         |
-|    3 | Victoria Univ. Wellington | Master of Computer Science             | 1.5 Years |  **INR 38.16 lakh** | Access to government IT and Wellington firms | **INR 40.40 to 53.87 lakh**    |          40% to 60% | Target         | 30 Sep 2027          | Oct to Nov 2027   | Tongarewa Award (INR 2.80 to 5.61 lakh)        | Solid computing master's with Wellington industry access.     |
-|    4 | Univ. of Waikato          | Master of Info Tech (180-point)        |  1-1.5 Yr |  **INR 38.90 lakh** | Moderate, includes an internship             | **INR 36.50 to 50.50 lakh**    |          55% to 75% | Likely         | 30 Sep 2027          | Oct to Nov 2027   | VC International Award (INR 2.80 to 5.61 lakh) | Internship helps offset smaller market risk.                  |
-|    5 | Auckland Univ of Tech     | Master of Computer & Info Sciences     | 1.5 Years |  **INR 38.70 lakh** | Good Auckland access; research focus         | **INR 37.00 to 51.00 lakh**    |          55% to 75% | Likely         | 30 Sep 2027          | Oct to Nov 2027   | AUT International Award (INR 2.80 lakh)        | Auckland access helps; research route must map to job market. |
-|    6 | Univ. of Auckland         | Master of Data Science (180-point)     | 1.5 Years |  **INR 47.00 lakh** | Strongest local data market                  | **INR 42.09 to 57.24 lakh**    |          30% to 45% | Reach / Target | 31 Aug 2027          | Sep to Oct 2027   | Faculty awards (INR 2.00 to 5.00 lakh)         | Strong AI/ML fit, but high fee for a small market.            |
-|    7 | Univ. of Otago            | Master of Applied Science (CS)         |    1 Year |  **INR 42.00 lakh** | Moderate, geographically smaller market      | **INR 36.50 to 49.38 lakh**    |          50% to 70% | Likely         | 30 Sep 2027          | Oct to Nov 2027   | Faculty awards (INR 1.00 to 4.00 lakh)         | Good academic fit, but weaker employer access.                |
-|    8 | Massey University         | Master of Info Sciences (Data Science) | 1.5 Years |  **INR 38.80 lakh** | Moderate, campus location matters            | **INR 36.50 to 49.38 lakh**    |          55% to 75% | Likely         | 30 Sep 2027          | Oct to Dec 2027   | Postgraduate awards (INR 1.50 to 3.00 lakh)    | Better as a backup than a first-choice AI option.             |
-|    9 | Lincoln University        | Master of Applied Computing            |  1-1.5 Yr |  **INR 35.40 lakh** | Limited general technology market            | **INR 34.10 to 47.14 lakh**    |          65% to 85% | Very Likely    | 30 Sep 2027          | Oct to Dec 2027   | Fee waiver is domestic only; plan full fee     | Admission backup; content overlaps undergraduate study.       |
-|   10 | Eastern Institute of Tech | Master of Information Technology       | 1.5 Years |  **INR 21.90 lakh** | Limited employer depth                       | **INR 33.00 to 44.89 lakh**    |          70% to 90% | Very Likely    | 30 Sep 2027          | Oct to Dec 2027   | Net fee after scholarship INR 21.90 lakh       | Admission backup only; not a career-first choice.             |
+| Rank | University                      | Recommended Programme and Branch       |  Duration | Total Tuition (INR) | Employment Outlook                           | Starting Salary Range (INR/yr) | Acceptance Estimate | Profile Chance | Application Deadline | Expected Decision | Key Scholarships                               | Overall Assessment                                            |
+| ---: | :------------------------------ | :------------------------------------- | --------: | ------------------: | :------------------------------------------- | :----------------------------- | ------------------: | :------------- | :------------------- | :---------------- | :--------------------------------------------- | :------------------------------------------------------------ |
+|    1 | [Univ. of Canterbury][88]       | Master of Applied Data Science         |  1-1.5 Yr |  **INR 31.88 lakh** | Good regional market in Christchurch         | **INR 40.40 to 53.30 lakh**    |          45% to 60% | Target         | 30 Sep 2027          | Oct to Nov 2027   | UC Dean's Award (INR 2.80 to 5.61 lakh)        | Best NZ ROI; manageable fee structure and applied focus.      |
+|    2 | [Univ. of Auckland][89]         | Master of Info Tech (180-point)        | 1.5 Years |  **INR 40.41 lakh** | Best employer access in NZ (Auckland hub)    | **INR 42.09 to 56.12 lakh**    |          35% to 50% | Target         | 31 Aug 2027          | Sep to Oct 2027   | Intl Student Award (INR 5.61 lakh)             | Premier NZ brand; higher tuition and living expenses.         |
+|    3 | [Victoria Univ. Wellington][90] | Master of Computer Science             | 1.5 Years |  **INR 38.16 lakh** | Access to government IT and Wellington firms | **INR 40.40 to 53.87 lakh**    |          40% to 60% | Target         | 30 Sep 2027          | Oct to Nov 2027   | Tongarewa Award (INR 2.80 to 5.61 lakh)        | Solid computing master's with Wellington industry access.     |
+|    4 | [Univ. of Waikato][91]          | Master of Info Tech (180-point)        |  1-1.5 Yr |  **INR 38.90 lakh** | Moderate, includes an internship             | **INR 36.50 to 50.50 lakh**    |          55% to 75% | Likely         | 30 Sep 2027          | Oct to Nov 2027   | VC International Award (INR 2.80 to 5.61 lakh) | Internship helps offset smaller market risk.                  |
+|    5 | [Auckland Univ of Tech][92]     | Master of Computer & Info Sciences     | 1.5 Years |  **INR 38.70 lakh** | Good Auckland access; research focus         | **INR 37.00 to 51.00 lakh**    |          55% to 75% | Likely         | 30 Sep 2027          | Oct to Nov 2027   | AUT International Award (INR 2.80 lakh)        | Auckland access helps; research route must map to job market. |
+|    6 | [Univ. of Auckland][89]         | Master of Data Science (180-point)     | 1.5 Years |  **INR 47.00 lakh** | Strongest local data market                  | **INR 42.09 to 57.24 lakh**    |          30% to 45% | Reach / Target | 31 Aug 2027          | Sep to Oct 2027   | Faculty awards (INR 2.00 to 5.00 lakh)         | Strong AI/ML fit, but high fee for a small market.            |
+|    7 | [Univ. of Otago][93]            | Master of Applied Science (CS)         |    1 Year |  **INR 42.00 lakh** | Moderate, geographically smaller market      | **INR 36.50 to 49.38 lakh**    |          50% to 70% | Likely         | 30 Sep 2027          | Oct to Nov 2027   | Faculty awards (INR 1.00 to 4.00 lakh)         | Good academic fit, but weaker employer access.                |
+|    8 | [Massey University][94]         | Master of Info Sciences (Data Science) | 1.5 Years |  **INR 38.80 lakh** | Moderate, campus location matters            | **INR 36.50 to 49.38 lakh**    |          55% to 75% | Likely         | 30 Sep 2027          | Oct to Dec 2027   | Postgraduate awards (INR 1.50 to 3.00 lakh)    | Better as a backup than a first-choice AI option.             |
+|    9 | [Lincoln University][52]        | Master of Applied Computing            |  1-1.5 Yr |  **INR 35.40 lakh** | Limited general technology market            | **INR 34.10 to 47.14 lakh**    |          65% to 85% | Very Likely    | 30 Sep 2027          | Oct to Dec 2027   | Fee waiver is domestic only; plan full fee     | Admission backup; content overlaps undergraduate study.       |
+|   10 | [Eastern Institute of Tech][53] | Master of Information Technology       | 1.5 Years |  **INR 21.90 lakh** | Limited employer depth                       | **INR 33.00 to 44.89 lakh**    |          70% to 90% | Very Likely    | 30 Sep 2027          | Oct to Dec 2027   | Net fee after scholarship INR 21.90 lakh       | Admission backup only; not a career-first choice.             |
 
 #### Financial Separation: New Zealand (All Figures in INR)
 
@@ -459,24 +482,26 @@ Climate conditions directly affect personal health, clothing expenses, daily tra
 - **Post-Study Work Rights:** 3-year Post Study Work Visa for master's graduates completing at least 30 weeks of full-time study.
 - **PR Pathway:** Skilled Migrant Category or Green List roles requiring a qualifying job offer from an accredited employer.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ### 12.5 United Kingdom
 
 #### University Programme Comparison Table: United Kingdom (All Figures in INR)
 
-| Rank | University                | Recommended Programme and Branch       | Duration | Total Tuition (INR) | Employment Outlook                     | Starting Salary Range (INR/yr) | Acceptance Estimate | Profile Chance  | Application Deadline | Expected Decision    | Key Scholarships                                        | Overall Assessment                                            |
-| ---: | :------------------------ | :------------------------------------- | -------: | ------------------: | :------------------------------------- | :----------------------------- | ------------------: | :-------------- | :------------------- | :------------------- | :------------------------------------------------------ | :------------------------------------------------------------ |
-|    1 | Univ. of Bristol          | MSc Artificial Intelligence            |   1 Year |  **INR 44.08 lakh** | Excellent tech ecosystem in South West | **INR 48.97 to 69.59 lakh**    |          25% to 40% | Target / Reach  | 15 Oct 2026          | Dec 2026 to Feb 2027 | Think Big Award (INR 8.38 to 16.75 lakh)                | Top UK ROI balance for specialist AI degree.                  |
-|    2 | Univ. of Birmingham       | MSc Advanced Computer Science          |   1 Year |  **INR 36.73 lakh** | Good regional and London job access    | **INR 45.11 to 63.15 lakh**    |          40% to 60% | Target          | 15 Nov 2026          | Dec 2026 to Feb 2027 | India Outstanding Award (INR 5.16 lakh)                 | Realistic target with lower tuition fee structure.            |
-|    3 | Univ. of Southampton      | MSc Computer Science (AI Track)        |   1 Year |  **INR 41.89 lakh** | Strong electronics and CS reputation   | **INR 46.40 to 65.73 lakh**    |          35% to 50% | Target          | 15 Nov 2026          | Dec 2026 to Feb 2027 | Presidential Award (INR 6.44 to 12.89 lakh)             | Strong technical fit for AI systems engineering.              |
-|    4 | Univ. of Manchester       | MSc Advanced Computer Science          |   1 Year |  **INR 45.75 lakh** | Very good tech market in North West    | **INR 48.97 to 70.88 lakh**    |          20% to 35% | Reach           | 15 Oct 2026          | Jan to Mar 2027      | Global Futures Award (INR 7.73 to 10.31 lakh)           | Prestigious brand, but tuition requires budget stretch.       |
-|    5 | Univ. of Sheffield        | MSc Advanced Computer Science          |   1 Year |  **INR 38.50 lakh** | Good regional employer access          | **INR 43.80 to 61.86 lakh**    |          45% to 65% | Target          | 15 Nov 2026          | Dec 2026 to Feb 2027 | Merit Scholarship (INR 3.00 to 6.00 lakh)               | Good realistic option with controlled fee.                    |
-|    6 | University of Leeds       | MSc Advanced Computer Science          |   1 Year |  **INR 39.20 lakh** | Good regional tech market              | **INR 43.80 to 63.15 lakh**    |          45% to 65% | Target          | 15 Nov 2026          | Dec 2026 to Feb 2027 | International Excellence Award (INR 3.00 to 6.00 lakh)  | Solid UK target option.                                       |
-|    7 | Univ. of Nottingham       | MSc Computer Science (AI Track)        |   1 Year |  **INR 43.90 lakh** | Good, modules fit CSE background       | **INR 42.50 to 60.50 lakh**    |          50% to 70% | Likely / Target | 15 Nov 2026          | Dec 2026 to Feb 2027 | Developing Solutions Award (50% to 100% Tuition)        | Good module choice for AI software engineering.               |
-|    8 | Univ. of Edinburgh        | MSc Computer Science (AI Track)        |   1 Year |  **INR 51.50 lakh** | Excellent academic reputation          | **INR 50.26 to 74.75 lakh**    |          15% to 25% | Reach           | 15 Oct 2026          | Jan to Mar 2027      | Edinburgh Global Master's Award (INR 4.00 to 8.00 lakh) | Strong AI brand, but high fee and short visa limit ROI.       |
-|    9 | University College London | MSc Artificial Intelligence & Data Eng |   1 Year |  **INR 55.50 lakh** | Excellent London tech market access    | **INR 55.42 to 85.06 lakh**    |          10% to 20% | High Reach      | 15 Oct 2026          | Dec 2026 to Feb 2027 | UCL Global Master's Award (INR 6.44 lakh)               | Top technical fit, but London living costs require major aid. |
-|   10 | Imperial College London   | MSc Advanced Computing                 |   1 Year |  **INR 59.70 lakh** | Exceptional tech & finance access      | **INR 59.28 to 91.50 lakh**    |           5% to 10% | High Reach      | 15 Oct 2026          | Jan to Mar 2027      | President's Master's Award (Full Tuition + Stipend)     | Highest UK prestige reach; requires major scholarship.        |
+| Rank | University                      | Recommended Programme and Branch       | Duration | Total Tuition (INR) | Employment Outlook                     | Starting Salary Range (INR/yr) | Acceptance Estimate | Profile Chance  | Application Deadline | Expected Decision    | Key Scholarships                                        | Overall Assessment                                            |
+| ---: | :------------------------------ | :------------------------------------- | -------: | ------------------: | :------------------------------------- | :----------------------------- | ------------------: | :-------------- | :------------------- | :------------------- | :------------------------------------------------------ | :------------------------------------------------------------ |
+|    1 | [Univ. of Bristol][54]          | MSc Artificial Intelligence            |   1 Year |  **INR 44.08 lakh** | Excellent tech ecosystem in South West | **INR 48.97 to 69.59 lakh**    |          25% to 40% | Target / Reach  | 15 Oct 2026          | Dec 2026 to Feb 2027 | Think Big Award (INR 8.38 to 16.75 lakh)                | Top UK ROI balance for specialist AI degree.                  |
+|    2 | [Univ. of Birmingham][95]       | MSc Advanced Computer Science          |   1 Year |  **INR 36.73 lakh** | Good regional and London job access    | **INR 45.11 to 63.15 lakh**    |          40% to 60% | Target          | 15 Nov 2026          | Dec 2026 to Feb 2027 | India Outstanding Award (INR 5.16 lakh)                 | Realistic target with lower tuition fee structure.            |
+|    3 | [Univ. of Southampton][57]      | MSc Computer Science (AI Track)        |   1 Year |  **INR 41.89 lakh** | Strong electronics and CS reputation   | **INR 46.40 to 65.73 lakh**    |          35% to 50% | Target          | 15 Nov 2026          | Dec 2026 to Feb 2027 | Presidential Award (INR 6.44 to 12.89 lakh)             | Strong technical fit for AI systems engineering.              |
+|    4 | [Univ. of Manchester][36]       | MSc Advanced Computer Science          |   1 Year |  **INR 45.75 lakh** | Very good tech market in North West    | **INR 48.97 to 70.88 lakh**    |          20% to 35% | Reach           | 15 Oct 2026          | Jan to Mar 2027      | Global Futures Award (INR 7.73 to 10.31 lakh)           | Prestigious brand, but tuition requires budget stretch.       |
+|    5 | [Univ. of Sheffield][96]        | MSc Advanced Computer Science          |   1 Year |  **INR 38.50 lakh** | Good regional employer access          | **INR 43.80 to 61.86 lakh**    |          45% to 65% | Target          | 15 Nov 2026          | Dec 2026 to Feb 2027 | Merit Scholarship (INR 3.00 to 6.00 lakh)               | Good realistic option with controlled fee.                    |
+|    6 | [University of Leeds][97]       | MSc Advanced Computer Science          |   1 Year |  **INR 39.20 lakh** | Good regional tech market              | **INR 43.80 to 63.15 lakh**    |          45% to 65% | Target          | 15 Nov 2026          | Dec 2026 to Feb 2027 | International Excellence Award (INR 3.00 to 6.00 lakh)  | Solid UK target option.                                       |
+|    7 | [Univ. of Nottingham][55]       | MSc Computer Science (AI Track)        |   1 Year |  **INR 43.90 lakh** | Good, modules fit CSE background       | **INR 42.50 to 60.50 lakh**    |          50% to 70% | Likely / Target | 15 Nov 2026          | Dec 2026 to Feb 2027 | Developing Solutions Award (50% to 100% Tuition)        | Good module choice for AI software engineering.               |
+|    8 | [Univ. of Edinburgh][98]        | MSc Computer Science (AI Track)        |   1 Year |  **INR 51.50 lakh** | Excellent academic reputation          | **INR 50.26 to 74.75 lakh**    |          15% to 25% | Reach           | 15 Oct 2026          | Jan to Mar 2027      | Edinburgh Global Master's Award (INR 4.00 to 8.00 lakh) | Strong AI brand, but high fee and short visa limit ROI.       |
+|    9 | [University College London][65] | MSc Artificial Intelligence & Data Eng |   1 Year |  **INR 55.50 lakh** | Excellent London tech market access    | **INR 55.42 to 85.06 lakh**    |          10% to 20% | High Reach      | 15 Oct 2026          | Dec 2026 to Feb 2027 | UCL Global Master's Award (INR 6.44 lakh)               | Top technical fit, but London living costs require major aid. |
+|   10 | [Imperial College London][56]   | MSc Advanced Computing                 |   1 Year |  **INR 59.70 lakh** | Exceptional tech & finance access      | **INR 59.28 to 91.50 lakh**    |           5% to 10% | High Reach      | 15 Oct 2026          | Jan to Mar 2027      | President's Master's Award (Full Tuition + Stipend)     | Highest UK prestige reach; requires major scholarship.        |
 
 #### Financial Separation: United Kingdom (All Figures in INR)
 
@@ -517,24 +542,26 @@ Climate conditions directly affect personal health, clothing expenses, daily tra
 - **Post-Study Work Rights:** 18 months Graduate Route visa for applications made on or after 1 January 2027.
 - **Skilled Worker Transition:** Requires securing a Skilled Worker Visa sponsored by an approved employer (minimum salary threshold INR 49.88 lakh per year).
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ### 12.6 United States
 
 #### University Programme Comparison Table: United States (All Figures in INR)
 
-| Rank | University                     | Recommended Programme and Branch     |  Duration | Total Tuition (INR) | Employment Outlook                      | Starting Salary Range (INR/yr)   | Acceptance Estimate | Profile Chance | Application Deadline | Expected Decision | Key Scholarships                                      | Overall Assessment                                                  |
-| ---: | :----------------------------- | :----------------------------------- | --------: | ------------------: | :-------------------------------------- | :------------------------------- | ------------------: | :------------- | :------------------- | :---------------- | :---------------------------------------------------- | :------------------------------------------------------------------ |
-|    1 | Georgia Tech                   | MS in Computer Science (ML Track)    |   2 Years |  **INR 34.34 lakh** | Exceptional national tech hiring brand  | **INR 1.10 to 1.48 crore**       |          10% to 18% | High Reach     | 1 Dec 2026           | Feb to Apr 2027   | Graduate Assistantships (TA/RA Full Waiver + Stipend) | **Best US ROI**: Low tuition fee structure and top tier reputation. |
-|    2 | UIUC                           | Master of Computer Science (MCS)     | 1.5 Years |  **INR 41.97 lakh** | Top-tier tech employer recruitment      | **INR 1.13 to 1.53 crore**       |           8% to 15% | High Reach     | 1 Dec 2026           | Feb to Mar 2027   | Limited professional master's financial aid           | Excellent brand value; fast professional coursework track.          |
-|    3 | Univ. of Maryland College Park | MS in Applied Machine Learning       | 1.5 Years |  **INR 41.49 lakh** | Strong East Coast tech hub access       | **INR 1.05 to 1.38 crore**       |          25% to 40% | Target / Reach | 15 Jan 2027          | Mar to Apr 2027   | Merit Grants (INR 2.86 to 7.63 lakh)                  | Cleanest applied ML fit in US list; solid location.                 |
-|    4 | Univ. of Wisconsin-Madison     | Professional MS in Computer Sciences | 1.5 Years |  **INR 42.92 lakh** | High corporate hiring presence          | **INR 1.05 to 1.41 crore**       |          20% to 35% | Reach          | 15 Dec 2026          | Mar to Apr 2027   | No tuition remission on professional track            | Solid reputation; strict policy against TA tuition waivers.         |
-|    5 | North Carolina State Univ      | Master of Computer Science           |  1.5-2 Yr |  **INR 43.87 lakh** | Excellent Research Triangle tech access | **INR 95.38 lakh to 1.29 crore** |          35% to 55% | Target         | 15 Dec 2026          | Mar to Apr 2027   | Merit aid limited; TA/RA common in thesis             | Strong realistic option with good employment opportunities.         |
-|    6 | UC San Diego                   | MS in Computer Science & Eng         |  1.5-2 Yr |  **INR 62.00 lakh** | Excellent California tech access        | **INR 1.18 to 1.57 crore**       |           8% to 15% | High Reach     | 1 Dec 2026           | Feb to Mar 2027   | Non-resident tuition waivers competitive              | Strong AI and systems option, but higher tuition.                   |
-|    7 | Carnegie Mellon Univ           | MS in Software Eng (Silicon Valley)  |     16 Mo |  **INR 90.00 lakh** | Exceptional tech industry reputation    | **INR 1.24 to 1.71 crore**       |           5% to 10% | High Reach     | 1 Dec 2026           | Feb to Mar 2027   | Merit aid limited; TA/RA uncommon                     | Highest career upside, but poor debt fit without major aid.         |
-|    8 | Northeastern Univ              | MS in Computer Science (Co-op)       |   2 Years |  **INR 59.00 lakh** | Very good co-op work structure          | **INR 99.00 lakh to 1.38 crore** |          35% to 55% | Target         | 15 Jan 2027          | Feb to Apr 2027   | Merit scholarships (INR 2.50 to 7.50 lakh)            | Co-op helps first US job search, but debt is material.              |
-|    9 | Arizona State Univ             | MS in Computer Science               |  1.5-2 Yr |  **INR 50.00 lakh** | Good, large programme size              | **INR 87.00 lakh to 1.22 crore** |          40% to 60% | Target         | 1 Dec 2026           | Feb to Mar 2027   | New American University awards (Variable)             | GRE is required for non-ASU applicants; not a no-GRE safety.        |
-|   10 | Univ of Southern California    | MS in Computer Science (AI Track)    |   2 Years |  **INR 84.40 lakh** | Excellent California access             | **INR 1.10 to 1.50 crore**       |          30% to 50% | Target         | 15 Dec 2026          | Feb to Apr 2027   | Limited merit scholarships                            | Strong California employment, but weak ROI without aid.             |
+| Rank | University                           | Recommended Programme and Branch     |  Duration | Total Tuition (INR) | Employment Outlook                      | Starting Salary Range (INR/yr)   | Acceptance Estimate | Profile Chance | Application Deadline | Expected Decision | Key Scholarships                                      | Overall Assessment                                                  |
+| ---: | :----------------------------------- | :----------------------------------- | --------: | ------------------: | :-------------------------------------- | :------------------------------- | ------------------: | :------------- | :------------------- | :---------------- | :---------------------------------------------------- | :------------------------------------------------------------------ |
+|    1 | [Georgia Tech][99]                   | MS in Computer Science (ML Track)    |   2 Years |  **INR 34.34 lakh** | Exceptional national tech hiring brand  | **INR 1.10 to 1.48 crore**       |          10% to 18% | High Reach     | 1 Dec 2026           | Feb to Apr 2027   | Graduate Assistantships (TA/RA Full Waiver + Stipend) | **Best US ROI**: Low tuition fee structure and top tier reputation. |
+|    2 | [UIUC][100]                          | Master of Computer Science (MCS)     | 1.5 Years |  **INR 41.97 lakh** | Top-tier tech employer recruitment      | **INR 1.13 to 1.53 crore**       |           8% to 15% | High Reach     | 1 Dec 2026           | Feb to Mar 2027   | Limited professional master's financial aid           | Excellent brand value; fast professional coursework track.          |
+|    3 | [Univ. of Maryland College Park][58] | MS in Applied Machine Learning       | 1.5 Years |  **INR 41.49 lakh** | Strong East Coast tech hub access       | **INR 1.05 to 1.38 crore**       |          25% to 40% | Target / Reach | 15 Jan 2027          | Mar to Apr 2027   | Merit Grants (INR 2.86 to 7.63 lakh)                  | Cleanest applied ML fit in US list; solid location.                 |
+|    4 | [Univ. of Wisconsin-Madison][39]     | Professional MS in Computer Sciences | 1.5 Years |  **INR 42.92 lakh** | High corporate hiring presence          | **INR 1.05 to 1.41 crore**       |          20% to 35% | Reach          | 15 Dec 2026          | Mar to Apr 2027   | No tuition remission on professional track            | Solid reputation; strict policy against TA tuition waivers.         |
+|    5 | [North Carolina State Univ][101]     | Master of Computer Science           |  1.5-2 Yr |  **INR 43.87 lakh** | Excellent Research Triangle tech access | **INR 95.38 lakh to 1.29 crore** |          35% to 55% | Target         | 15 Dec 2026          | Mar to Apr 2027   | Merit aid limited; TA/RA common in thesis             | Strong realistic option with good employment opportunities.         |
+|    6 | [UC San Diego][102]                  | MS in Computer Science & Eng         |  1.5-2 Yr |  **INR 62.00 lakh** | Excellent California tech access        | **INR 1.18 to 1.57 crore**       |           8% to 15% | High Reach     | 1 Dec 2026           | Feb to Mar 2027   | Non-resident tuition waivers competitive              | Strong AI and systems option, but higher tuition.                   |
+|    7 | [Carnegie Mellon Univ][103]          | MS in Software Eng (Silicon Valley)  |     16 Mo |  **INR 90.00 lakh** | Exceptional tech industry reputation    | **INR 1.24 to 1.71 crore**       |           5% to 10% | High Reach     | 1 Dec 2026           | Feb to Mar 2027   | Merit aid limited; TA/RA uncommon                     | Highest career upside, but poor debt fit without major aid.         |
+|    8 | [Northeastern Univ][40]              | MS in Computer Science (Co-op)       |   2 Years |  **INR 59.00 lakh** | Very good co-op work structure          | **INR 99.00 lakh to 1.38 crore** |          35% to 55% | Target         | 15 Jan 2027          | Feb to Apr 2027   | Merit scholarships (INR 2.50 to 7.50 lakh)            | Co-op helps first US job search, but debt is material.              |
+|    9 | [Arizona State Univ][41]             | MS in Computer Science               |  1.5-2 Yr |  **INR 50.00 lakh** | Good, large programme size              | **INR 87.00 lakh to 1.22 crore** |          40% to 60% | Target         | 1 Dec 2026           | Feb to Mar 2027   | New American University awards (Variable)             | GRE is required for non-ASU applicants; not a no-GRE safety.        |
+|   10 | [Univ of Southern California][59]    | MS in Computer Science (AI Track)    |   2 Years |  **INR 84.40 lakh** | Excellent California access             | **INR 1.10 to 1.50 crore**       |          30% to 50% | Target         | 15 Dec 2026          | Feb to Apr 2027   | Limited merit scholarships                            | Strong California employment, but weak ROI without aid.             |
 
 #### Financial Separation: United States (All Figures in INR)
 
@@ -576,22 +603,24 @@ Climate conditions directly affect personal health, clothing expenses, daily tra
 - **Post-Study Work Rights:** 12 months OPT + 24-month STEM extension (36 months total).
 - **Fixed Admission Rule:** DHS final rule enforces fixed admission periods for F-1 status. Transition to long-term work requires H-1B lottery selection (85,000 annual cap). Permanent residency for Indian nationals under EB-2/EB-3 faces multi-decade backlogs.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ### 12.7 Singapore
 
 #### University Programme Comparison Table: Singapore (All Figures in INR)
 
-| Rank | University                 | Recommended Programme and Branch       | Duration | Total Tuition (INR) | Employment Outlook                      | Starting Salary Range (INR/yr) | Acceptance Estimate | Profile Chance | Application Deadline | Expected Decision | Key Scholarships                             | Overall Assessment                                          |
-| ---: | :------------------------- | :------------------------------------- | -------: | ------------------: | :-------------------------------------- | :----------------------------- | ------------------: | :------------- | :------------------- | :---------------- | :------------------------------------------- | :---------------------------------------------------------- |
-|    1 | National Univ of Singapore | Master of Computing (CS Track)         | 1-1.5 Yr |  **INR 50.06 lakh** | Exceptional Asian tech & finance access | **INR 49.17 to 69.73 lakh**    |           8% to 15% | High Reach     | 15 Nov 2026          | Mar to Apr 2027   | Coursework aid limited; self-funded priority | Top technical brand in Asia; strict employment pass gate.   |
-|    2 | National Univ of Singapore | Master of Computing (AI Track)         | 1-1.5 Yr |  **INR 50.06 lakh** | Exceptional Asian tech access           | **INR 49.17 to 70.63 lakh**    |           6% to 12% | High Reach     | 15 Nov 2026          | Mar to Apr 2027   | Coursework funding limited                   | Best pure NUS fit for AI; test requirements apply.          |
-|    3 | Nanyang Tech Univ (NTU)    | MSc in Artificial Intelligence         | 1-1.5 Yr |  **INR 47.16 lakh** | Excellent research & industry links     | **INR 46.49 to 67.05 lakh**    |          10% to 18% | High Reach     | 15 Dec 2026          | Mar to May 2027   | NTU Alumni Grants / Specialised awards       | Strong technical AI curriculum; high fee structure.         |
-|    4 | Nanyang Tech Univ (NTU)    | MSc in Data Science                    | 1-1.5 Yr |  **INR 47.16 lakh** | Very good analytics market access       | **INR 44.70 to 64.37 lakh**    |          12% to 22% | Reach          | 15 Dec 2026          | Mar to May 2027   | Coursework funding limited                   | Better direct fit than cyber security for software profile. |
-|    5 | Nanyang Tech Univ (NTU)    | MSc in Cyber Security                  | 1-1.5 Yr |  **INR 47.16 lakh** | Very good security market access        | **INR 44.70 to 64.37 lakh**    |          15% to 25% | Reach          | 15 Dec 2026          | Mar to May 2027   | Coursework funding limited                   | Keep only if security projects are added before applying.   |
-|    6 | Singapore Management Univ  | Master of IT in Business (AI Track)    |   1 Year |  **INR 42.30 lakh** | Very good in enterprise tech & finance  | **INR 44.70 to 64.37 lakh**    |          20% to 35% | Reach / Target | 15 Jan 2027          | Mar to May 2027   | Affiliation discounts apply                  | Requires GRE/GMAT/SMU test; prior experience preferred.     |
-|    7 | Nanyang Tech Univ (NTU)    | MSc Enterprise Artificial Intelligence |   1 Year |  **INR 43.10 lakh** | Good for AI product & consulting        | **INR 42.50 to 61.80 lakh**    |          25% to 40% | Target         | 15 Dec 2026          | Mar to May 2027   | International funding limited                | Less technical than NTU MSc AI.                             |
-|    8 | James Cook Univ Singapore  | Master of Info Tech (AI Major)         |    16 Mo |  **INR 43.60 lakh** | Moderate local employer access          | **INR 34.00 to 50.00 lakh**    |          65% to 85% | Very Likely    | 1 Jun 2027           | Jul to Aug 2027   | Merit scholarships limited                   | Valid backup, but materially weaker than NUS/NTU/SMU.       |
+| Rank | University                       | Recommended Programme and Branch       | Duration | Total Tuition (INR) | Employment Outlook                      | Starting Salary Range (INR/yr) | Acceptance Estimate | Profile Chance | Application Deadline | Expected Decision | Key Scholarships                             | Overall Assessment                                          |
+| ---: | :------------------------------- | :------------------------------------- | -------: | ------------------: | :-------------------------------------- | :----------------------------- | ------------------: | :------------- | :------------------- | :---------------- | :------------------------------------------- | :---------------------------------------------------------- |
+|    1 | [National Univ of Singapore][42] | Master of Computing (CS Track)         | 1-1.5 Yr |  **INR 50.06 lakh** | Exceptional Asian tech & finance access | **INR 49.17 to 69.73 lakh**    |           8% to 15% | High Reach     | 15 Nov 2026          | Mar to Apr 2027   | Coursework aid limited; self-funded priority | Top technical brand in Asia; strict employment pass gate.   |
+|    2 | [National Univ of Singapore][42] | Master of Computing (AI Track)         | 1-1.5 Yr |  **INR 50.06 lakh** | Exceptional Asian tech access           | **INR 49.17 to 70.63 lakh**    |           6% to 12% | High Reach     | 15 Nov 2026          | Mar to Apr 2027   | Coursework funding limited                   | Best pure NUS fit for AI; test requirements apply.          |
+|    3 | [Nanyang Tech Univ (NTU)][43]    | MSc in Artificial Intelligence         | 1-1.5 Yr |  **INR 47.16 lakh** | Excellent research & industry links     | **INR 46.49 to 67.05 lakh**    |          10% to 18% | High Reach     | 15 Dec 2026          | Mar to May 2027   | NTU Alumni Grants / Specialised awards       | Strong technical AI curriculum; high fee structure.         |
+|    4 | [Nanyang Tech Univ (NTU)][43]    | MSc in Data Science                    | 1-1.5 Yr |  **INR 47.16 lakh** | Very good analytics market access       | **INR 44.70 to 64.37 lakh**    |          12% to 22% | Reach          | 15 Dec 2026          | Mar to May 2027   | Coursework funding limited                   | Better direct fit than cyber security for software profile. |
+|    5 | [Nanyang Tech Univ (NTU)][43]    | MSc in Cyber Security                  | 1-1.5 Yr |  **INR 47.16 lakh** | Very good security market access        | **INR 44.70 to 64.37 lakh**    |          15% to 25% | Reach          | 15 Dec 2026          | Mar to May 2027   | Coursework funding limited                   | Keep only if security projects are added before applying.   |
+|    6 | [Singapore Management Univ][44]  | Master of IT in Business (AI Track)    |   1 Year |  **INR 42.30 lakh** | Very good in enterprise tech & finance  | **INR 44.70 to 64.37 lakh**    |          20% to 35% | Reach / Target | 15 Jan 2027          | Mar to May 2027   | Affiliation discounts apply                  | Requires GRE/GMAT/SMU test; prior experience preferred.     |
+|    7 | [Nanyang Tech Univ (NTU)][45]    | MSc Enterprise Artificial Intelligence |   1 Year |  **INR 43.10 lakh** | Good for AI product & consulting        | **INR 42.50 to 61.80 lakh**    |          25% to 40% | Target         | 15 Dec 2026          | Mar to May 2027   | International funding limited                | Less technical than NTU MSc AI.                             |
+|    8 | [James Cook Univ Singapore][46]  | Master of Info Tech (AI Major)         |    16 Mo |  **INR 43.60 lakh** | Moderate local employer access          | **INR 34.00 to 50.00 lakh**    |          65% to 85% | Very Likely    | 1 Jun 2027           | Jul to Aug 2027   | Merit scholarships limited                   | Valid backup, but materially weaker than NUS/NTU/SMU.       |
 
 #### Financial Separation: Singapore (All Figures in INR)
 
@@ -631,13 +660,15 @@ Climate conditions directly affect personal health, clothing expenses, daily tra
 - **Post-Study Work Authorization:** Singapore does not offer an open post-study work visa. Graduates require direct employer sponsorship.
 - **Employment Pass (EP) Threshold (2027 Rules):** Minimum EP salary threshold is INR 4.47 lakh per month for young graduates (rising with age), plus qualification under the COMPASS points framework. Permanent Residency is discretionary.
 
+[↑ Back to top](#table-of-contents)
+
 ---
 
 ## 13. Substantially Expanded Scholarship and Financial Assistance Guide
 
 ### 13.1 Major Global and National Scholarships (All Values in INR)
 
-#### 1. Government of Ireland International Education Scholarship (GOI-IES)
+#### 1. [Government of Ireland International Education Scholarship (GOI-IES)][104]
 
 - **Eligibility:** Non-EU/EEA passport holders holding a full unconditional offer for a 1-year master's degree in Ireland. Requires an entrance CGPA of 8.5+.
 - **Application Portal & Process:** Submitted via the Higher Education Authority portal (`hea.ie`). Requires university application reference number.
@@ -656,7 +687,7 @@ Climate conditions directly affect personal health, clothing expenses, daily tra
 - **Co-op Earnings Math:** 4 months co-op @ INR 3.07 lakh/month = INR 12.28 lakh gross (approx. **INR 10.10 lakh net** after taxes).
 - **Net Cost Impact:** **Reduces SFU net cost with Vancouver relative support from INR 47.34 lakh down to INR 35.54 lakh total out-of-pocket**.
 
-#### 3. Chevening Scholarships (United Kingdom)
+#### 3. [Chevening Scholarships][105] (United Kingdom)
 
 - **Eligibility:** Indian citizens with at least 2 years (2,800 hours) work experience, applying to eligible 1-year master's degrees in the UK.
 - **Application Portal:** Online Chevening portal (`chevening.org`).
@@ -679,19 +710,21 @@ Climate conditions directly affect personal health, clothing expenses, daily tra
 - **Remuneration:** Includes a full or partial tuition waiver plus a monthly stipend (**INR 1.71 lakh to INR 2.67 lakh per month** in the US; **INR 1.23 lakh to INR 1.70 lakh per month** in Canada).
 - **Professional Programme Restrictions:** Professional coursework degrees (UIUC MCS, UW-Madison Professional MS, UBC MDS) restrict TA tuition waivers. SFU Professional MSc CS permits paid TA appointments at hourly rates (**INR 1,910 to INR 2,320 per hour**), but does not waive base tuition.
 
+[↑ Back to top](#table-of-contents)
+
 ## 14. Final Application Portfolio and Execution Roadmap
 
 ### 14.1 Strategic Application Portfolio
 
-| Priority Tier         | Institution & Country                        | Recommended Programme                | Total Tuition (INR) | Strategic Rationale                                                                    |
-| :-------------------- | :------------------------------------------- | :----------------------------------- | ------------------: | :------------------------------------------------------------------------------------- |
-| **Primary Target #1** | Simon Fraser University (SFU), Canada        | Professional MSc in Computer Science |  **INR 37.83 lakh** | **Top Priority**: Vancouver family housing savings + co-op tech network + 3-year PGWP. |
-| **Primary Target #2** | University of Ottawa, Canada                 | Master of Computer Science           |  **INR 26.28 lakh** | Lower-cost public master's in major tech/government ecosystem.                         |
-| **Primary Target #3** | Dublin City University (DCU), Ireland        | MSc in Computing (AI Pathway)        |  **INR 27.54 lakh** | Excellent 1-year budget option with 2-year Stamp 1G post-study work visa.              |
-| **Target / Reach #4** | University of British Columbia (UBC), Canada | Master of Data Science / MSc CS      |  **INR 40.79 lakh** | High brand prestige in Vancouver; evaluate tuition fit.                                |
-| **Stretch Target #5** | Univ. of Queensland (UQ), Australia          | Master of Computer Science           |  **INR 39.15 lakh** | Strong ROI if admitted to 1.5-year route with 20% merit scholarship.                   |
-| **Stretch Target #6** | University of Bristol, UK                    | MSc Artificial Intelligence          |  **INR 44.08 lakh** | High-quality 1-year specialist AI curriculum.                                          |
-| **High Reach #7**     | Georgia Institute of Tech, USA               | MS in Computer Science               |  **INR 34.34 lakh** | Exceptional career upside; apply if low-cost US option is desired.                     |
+| Priority Tier         | Institution & Country                              | Recommended Programme                | Total Tuition (INR) | Strategic Rationale                                                                         |
+| :-------------------- | :------------------------------------------------- | :----------------------------------- | ------------------: | :------------------------------------------------------------------------------------------ |
+| **Primary Target #1** | [Simon Fraser University (SFU)][73], Canada        | Professional MSc in Computer Science |  **INR 37.83 lakh** | **Top Priority**: Vancouver family housing savings + co-op tech network + [3-year PGWP][8]. |
+| **Primary Target #2** | [University of Ottawa][75], Canada                 | Master of Computer Science           |  **INR 26.28 lakh** | Lower-cost public master's in major tech/government ecosystem.                              |
+| **Primary Target #3** | [Dublin City University (DCU)][5], Ireland         | MSc in Computing (AI Pathway)        |  **INR 27.54 lakh** | Excellent 1-year budget option with 2-year [Stamp 1G][26] post-study work visa.             |
+| **Target / Reach #4** | [University of British Columbia (UBC)][74], Canada | Master of Data Science / MSc CS      |  **INR 40.79 lakh** | High brand prestige in Vancouver; evaluate tuition fit.                                     |
+| **Stretch Target #5** | [Univ. of Queensland (UQ)][16], Australia          | Master of Computer Science           |  **INR 39.15 lakh** | Strong ROI if admitted to 1.5-year route with 20% merit scholarship.                        |
+| **Stretch Target #6** | [University of Bristol][54], UK                    | MSc Artificial Intelligence          |  **INR 44.08 lakh** | High-quality 1-year specialist AI curriculum.                                               |
+| **High Reach #7**     | [Georgia Institute of Tech][99], USA               | MS in Computer Science               |  **INR 34.34 lakh** | Exceptional career upside; apply if low-cost US option is desired.                          |
 
 ### 14.2 Application Execution Timeline (2026 to 2027)
 
@@ -726,6 +759,8 @@ Climate conditions directly affect personal health, clothing expenses, daily tra
 |                 | degree programme.                                               |
 +-----------------+-----------------------------------------------------------------+
 ```
+
+[↑ Back to top](#table-of-contents)
 
 ## 15. Official Reference Sources and Currency Basis
 
@@ -809,3 +844,36 @@ All monetary values in this document are displayed strictly in Indian Rupees (IN
 [70]: https://www.reddit.com/r/Indians_StudyAbroad/top/?t=month "Reddit r/Indians_StudyAbroad monthly top feed"
 [71]: https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2026/visa-bulletin-for-july-2026.html#_Employment-based_Number_Use "State Department July 2026 India EB-2 limit"
 [72]: https://www.welcomebc.ca/Immigrate-to-B-C/BC-PNP-Skills-Immigration "BC PNP Master's stream rules 2025/2026"
+[73]: https://www.sfu.ca/computing/prospective-students/graduate-students/professional-programs.html "SFU Professional MSc in Computer Science"
+[74]: https://masterds.ubc.ca/ "UBC Master of Data Science"
+[75]: https://www.uottawa.ca/faculty-engineering/graduate-studies/programs/computer-science "University of Ottawa Master of Computer Science"
+[76]: https://carleton.ca/scs/future-students/graduate-students/ "Carleton University Master of Computer Science"
+[77]: https://science.ucalgary.ca/data-science "University of Calgary Data Science and Analytics"
+[78]: https://www.concordia.ca/ginacody/computer-science-software-eng/programs/computer-science/mapcompsc.html "Concordia Master of Applied Computer Science"
+[79]: https://mscac.utoronto.ca/ "University of Toronto Master of Science in Applied Computing"
+[80]: https://www.uwindsor.ca/science/computerscience/1035/master-applied-computing "University of Windsor Master of Applied Computing"
+[81]: https://www.uwo.ca/datascience/graduate/mda/index.html "Western University Master of Data Analytics"
+[82]: https://www.ul.ie/gps/course/software-engineering-msc "University of Limerick MSc Software Engineering"
+[83]: https://www.tudublin.ie/study/postgraduate/courses/computer-science-advanced-software-development-tu856/ "TU Dublin MSc Computer Science"
+[84]: https://www.uts.edu.au/study/find-a-course/master-information-technology "UTS Master of Information Technology"
+[85]: https://www.sydney.edu.au/courses/courses/pc/master-of-computer-science.html "University of Sydney Master of Computer Science"
+[86]: https://www.rmit.edu.au/study-with-us/levels-of-study/postgraduate-study/masters-by-coursework/master-of-information-technology-mc208 "RMIT Master of Information Technology"
+[87]: https://programsandcourses.anu.edu.au/program/mcomp "ANU Master of Computing"
+[88]: https://www.canterbury.ac.nz/study/qualifications-and-courses/masters-degrees/master-of-applied-data-science "University of Canterbury Master of Applied Data Science"
+[89]: https://www.auckland.ac.nz/en/study/study-options/find-a-study-option/master-of-information-technology-mit.html "University of Auckland Master of Information Technology"
+[90]: https://www.wgtn.ac.nz/programmes/master-of-computer-science/overview "Victoria University of Wellington Master of Computer Science"
+[91]: https://www.waikato.ac.nz/study/qualifications/master-of-information-technology/ "University of Waikato Master of Information Technology"
+[92]: https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/master-of-computer-and-information-sciences "AUT Master of Computer and Information Sciences"
+[93]: https://www.otago.ac.nz/courses/qualifications/masc.html "University of Otago Master of Applied Science"
+[94]: https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-information-sciences-MINSC/ "Massey University Master of Information Sciences"
+[95]: https://www.birmingham.ac.uk/postgraduate/courses/taught/computer-science/advanced-computer-science "University of Birmingham MSc Advanced Computer Science"
+[96]: https://www.sheffield.ac.uk/postgraduate/taught/courses/2026/advanced-computer-science-msc "University of Sheffield MSc Advanced Computer Science"
+[97]: https://courses.leeds.ac.uk/g313/advanced-computer-science-msc "University of Leeds MSc Advanced Computer Science"
+[98]: https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=107 "University of Edinburgh MSc Computer Science"
+[99]: https://www.cc.gatech.edu/ms-computer-science "Georgia Tech MS in Computer Science"
+[100]: https://cs.illinois.edu/academics/graduate/professional-mcs-program "UIUC Master of Computer Science"
+[101]: https://www.csc.ncsu.edu/academics/graduate/degrees/mscs.php "NC State Master of Computer Science"
+[102]: https://cse.ucsd.edu/graduate/degree-programs/ms-program "UC San Diego MS in Computer Science"
+[103]: https://sv.cmu.edu/academics/ms-se.html "Carnegie Mellon MS in Software Engineering"
+[104]: https://hea.ie/policy/internationalisation/goi-ies/ "Government of Ireland International Education Scholarship"
+[105]: https://www.chevening.org/ "UK Chevening Scholarships"
