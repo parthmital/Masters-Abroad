@@ -18,39 +18,39 @@ Market direction supports this choice. WEF 2025 jobs data highlights AI and big 
 
 ## Table of Contents
 
-1. [1. Evidence Treatment and Audit Methodology](#1-evidence-treatment-and-audit-methodology)
-2. [2. Core Strategic Advantage: Canada and Vancouver Focus](#2-core-strategic-advantage-canada-and-vancouver-focus)
-   - [2.1 Accommodation and Financial Relief in INR](#21-accommodation-and-financial-relief-in-inr)
-   - [2.2 Career Networking and Industry Access](#22-career-networking-and-industry-access)
-   - [2.3 Permanent Residency and Settlement Security](#23-permanent-residency-and-settlement-security)
-3. [3. Multi-Criteria Ranking Methodology](#3-multi-criteria-ranking-methodology)
-4. [4. Overall Destination Ranking and Comparison Matrix](#4-overall-destination-ranking-and-comparison-matrix)
-5. [5. Budget Filter and Tier Strategy](#5-budget-filter-and-tier-strategy)
-6. [6. Post-Study Work and First Employment Gate](#6-post-study-work-and-first-employment-gate)
-7. [7. Official Pay Evidence](#7-official-pay-evidence)
-8. [8. Detailed Decision Notes](#8-detailed-decision-notes)
-9. [9. Comprehensive Risk Register](#9-comprehensive-risk-register)
-10. [10. Climate and Weather Evaluation Criterion](#10-climate-and-weather-evaluation-criterion)
-    - [10.1 Comparative Climate Matrix across Target Cities](#101-comparative-climate-matrix-across-target-cities)
-    - [10.2 Practical Lifestyle and Cost Impact](#102-practical-lifestyle-and-cost-impact)
-11. [11. Canadian Regional and City Comparative Analysis](#11-canadian-regional-and-city-comparative-analysis)
-12. [12. Country-by-Country Master's Guides](#12-country-by-country-masters-guides)
-    - [12.1 Canada](#121-canada)
-    - [12.2 Ireland](#122-ireland)
-    - [12.3 Australia](#123-australia)
-    - [12.4 New Zealand](#124-new-zealand)
-    - [12.5 United Kingdom](#125-united-kingdom)
-    - [12.6 United States](#126-united-states)
-    - [12.7 Singapore](#127-singapore)
-13. [13. Substantially Expanded Scholarship and Financial Assistance Guide](#13-substantially-expanded-scholarship-and-financial-assistance-guide)
-    - [13.1 Major Global and National Scholarships](#131-major-global-and-national-scholarships-all-values-in-inr)
-    - [13.2 Graduate Assistantship Mechanisms](#132-graduate-assistantship-mechanisms-ta--ra)
-14. [14. Final Application Portfolio and Execution Roadmap](#14-final-application-portfolio-and-execution-roadmap)
-    - [14.1 Strategic Application Portfolio](#141-strategic-application-portfolio)
-    - [14.2 Application Execution Timeline](#142-application-execution-timeline-2026-to-2027)
-15. [15. Official Reference Sources and Currency Basis](#15-official-reference-sources-and-currency-basis)
-    - [15.1 Currency Exchange Reference Basis](#151-currency-exchange-reference-basis-august-2026)
-    - [15.2 Official Government, University, and Sentiment Sources](#152-official-government-university-and-sentiment-sources)
+- [1. Evidence Treatment and Audit Methodology](#1-evidence-treatment-and-audit-methodology)
+- [2. Core Strategic Advantage: Canada and Vancouver Focus](#2-core-strategic-advantage-canada-and-vancouver-focus)
+  - [2.1 Accommodation and Financial Relief in INR](#21-accommodation-and-financial-relief-in-inr)
+  - [2.2 Career Networking and Industry Access](#22-career-networking-and-industry-access)
+  - [2.3 Permanent Residency and Settlement Security](#23-permanent-residency-and-settlement-security)
+- [3. Multi-Criteria Ranking Methodology](#3-multi-criteria-ranking-methodology)
+- [4. Overall Destination Ranking and Comparison Matrix](#4-overall-destination-ranking-and-comparison-matrix)
+- [5. Budget Filter and Tier Strategy](#5-budget-filter-and-tier-strategy)
+- [6. Post-Study Work and First Employment Gate](#6-post-study-work-and-first-employment-gate)
+- [7. Official Pay Evidence](#7-official-pay-evidence)
+- [8. Detailed Decision Notes](#8-detailed-decision-notes)
+- [9. Comprehensive Risk Register](#9-comprehensive-risk-register)
+- [10. Climate and Weather Evaluation Criterion](#10-climate-and-weather-evaluation-criterion)
+  - [10.1 Comparative Climate Matrix across Target Cities](#101-comparative-climate-matrix-across-target-cities)
+  - [10.2 Practical Lifestyle and Cost Impact](#102-practical-lifestyle-and-cost-impact)
+- [11. Canadian Regional and City Comparative Analysis](#11-canadian-regional-and-city-comparative-analysis)
+- [12. Country-by-Country Master's Guides](#12-country-by-country-masters-guides)
+  - [12.1 Canada](#121-canada)
+  - [12.2 Ireland](#122-ireland)
+  - [12.3 Australia](#123-australia)
+  - [12.4 New Zealand](#124-new-zealand)
+  - [12.5 United Kingdom](#125-united-kingdom)
+  - [12.6 United States](#126-united-states)
+  - [12.7 Singapore](#127-singapore)
+- [13. Substantially Expanded Scholarship and Financial Assistance Guide](#13-substantially-expanded-scholarship-and-financial-assistance-guide)
+  - [13.1 Major Global and National Scholarships](#131-major-global-and-national-scholarships-all-values-in-inr)
+  - [13.2 Graduate Assistantship Mechanisms](#132-graduate-assistantship-mechanisms-ta--ra)
+- [14. Final Application Portfolio and Execution Roadmap](#14-final-application-portfolio-and-execution-roadmap)
+  - [14.1 Strategic Application Portfolio](#141-strategic-application-portfolio)
+  - [14.2 Application Execution Timeline](#142-application-execution-timeline-2026-to-2027)
+- [15. Official Reference Sources and Currency Basis](#15-official-reference-sources-and-currency-basis)
+  - [15.1 Currency Exchange Reference Basis](#151-currency-exchange-reference-basis-august-2026)
+  - [15.2 Official Government, University, and Sentiment Sources](#152-official-government-university-and-sentiment-sources)
 
 ## 1. Evidence Treatment and Audit Methodology
 
@@ -777,6 +777,106 @@ All monetary values in this document are displayed strictly in Indian Rupees (IN
 - **1 Singapore Dollar (SGD)** = 74.50 Indian Rupees (INR)
 
 ### 15.2 Official Government, University, and Sentiment Sources
+
+- **[1]** [Xe Currency Tables INR][1]
+- **[2]** [UNSW Master of Information Technology][2]
+- **[4]** [UCD MSc Computer Science Negotiated Learning][4]
+- **[5]** [DCU MSc in Computing][5]
+- **[6]** [University of Galway MSc Computer Science Artificial Intelligence][6]
+- **[8]** [Canada Post-Graduation Work Permit][8]
+- **[10]** [UK Immigration Rules Appendix Graduate][10]
+- **[12]** [US Visa Bulletin for July 2026][12]
+- **[14]** [University of Melbourne 2026 international fees][14]
+- **[15]** [Monash Master of Information Technology][15]
+- **[16]** [UQ Master of Computer Science][16]
+- **[17]** [Adelaide University 2026 International Student Guide][17]
+- **[18]** [QUT Master of Information Technology][18]
+- **[19]** [Australia Temporary Graduate visa][19]
+- **[20]** [Australia second post-higher education work stream][20]
+- **[21]** [Australia software and applications programmers][21]
+- **[22]** [Trinity Intelligent Systems][22]
+- **[23]** [Trinity postgraduate fees][23]
+- **[24]** [UCC MSc Computing Science][24]
+- **[25]** [Maynooth MSc Computer Science Software Engineering][25]
+- **[26]** [Ireland Third Level Graduate Programme][26]
+- **[27]** [Ireland student work rules][27]
+- **[28]** [Canada PGWP eligibility][28]
+- **[29]** [Waterloo MMath Computer Science options][29]
+- **[30]** [Waterloo graduate funding][30]
+- **[31]** [Canada Job Bank software engineer wages][31]
+- **[32]** [New Zealand post-study work][32]
+- **[33]** [New Zealand software developer pay][33]
+- **[34]** [UK software developer profile][34]
+- **[36]** [Manchester MSc Advanced Computer Science][36]
+- **[37]** [USCIS STEM OPT extension][37]
+- **[38]** [US software developer pay][38]
+- **[39]** [Wisconsin Professional MS][39]
+- **[40]** [Northeastern MS Computer Science][40]
+- **[41]** [ASU graduate admissions][41]
+- **[42]** [NUS Master of Computing fees][42]
+- **[43]** [NTU computing master's programmes][43]
+- **[44]** [SMU Master of IT in Business][44]
+- **[45]** [NTU MSc Enterprise Artificial Intelligence][45]
+- **[46]** [JCU Singapore Master of Information Technology][46]
+- **[47]** [Singapore Employment Pass eligibility][47]
+- **[48]** [Singapore fresh-graduate job opportunities][48]
+- **[49]** [SETU MSc Applied Artificial Intelligence][49]
+- **[50]** [SETU international fees][50]
+- **[51]** [ATU MSc Big Data Analytics and Artificial Intelligence][51]
+- **[52]** [Lincoln Master of Applied Computing][52]
+- **[53]** [EIT 2026 international programme fees][53]
+- **[54]** [Bristol MSc Artificial Intelligence][54]
+- **[55]** [Nottingham MSc Computer Science Artificial Intelligence][55]
+- **[56]** [Imperial MSc Advanced Computing][56]
+- **[57]** [Southampton MSc Computer Science][57]
+- **[58]** [Maryland MS Applied Machine Learning][58]
+- **[59]** [USC Viterbi master's tuition][59]
+- **[60]** [Federal Register DHS final rule on fixed F, J and I admission periods][60]
+- **[61]** [WEF Future of Jobs Report 2025][61]
+- **[62]** [BLS data scientist outlook][62]
+- **[63]** [BLS information security analyst outlook][63]
+- **[64]** [BLS computer and information research scientist outlook][64]
+- **[65]** [UCL Artificial Intelligence and Data Engineering MSc][65]
+- **[66]** [Reddit Ireland student visa timeline discussion][66]
+- **[67]** [Reddit TCD and UCD Ireland loan risk discussion][67]
+- **[68]** [Reddit US, UK and Australia MS decision discussion][68]
+- **[69]** [Reddit Singapore NUS MiM job market discussion][69]
+- **[70]** [Reddit r/Indians_StudyAbroad monthly top feed][70]
+- **[71]** [State Department July 2026 India EB-2 limit][71]
+- **[72]** [BC PNP Master's stream rules 2025/2026][72]
+- **[73]** [SFU Professional MSc in Computer Science][73]
+- **[74]** [UBC Master of Data Science][74]
+- **[75]** [University of Ottawa Master of Computer Science][75]
+- **[76]** [Carleton University Master of Computer Science][76]
+- **[77]** [University of Calgary Data Science and Analytics][77]
+- **[78]** [Concordia Master of Applied Computer Science][78]
+- **[79]** [University of Toronto Master of Science in Applied Computing][79]
+- **[80]** [University of Windsor Master of Applied Computing][80]
+- **[81]** [Western University Master of Data Analytics][81]
+- **[82]** [University of Limerick MSc Software Engineering][82]
+- **[83]** [TU Dublin MSc Computer Science][83]
+- **[84]** [UTS Master of Information Technology][84]
+- **[85]** [University of Sydney Master of Computer Science][85]
+- **[86]** [RMIT Master of Information Technology][86]
+- **[87]** [ANU Master of Computing][87]
+- **[88]** [University of Canterbury Master of Applied Data Science][88]
+- **[89]** [University of Auckland Master of Information Technology][89]
+- **[90]** [Victoria University of Wellington Master of Computer Science][90]
+- **[91]** [University of Waikato Master of Information Technology][91]
+- **[92]** [AUT Master of Computer and Information Sciences][92]
+- **[93]** [University of Otago Master of Applied Science][93]
+- **[94]** [Massey University Master of Information Sciences][94]
+- **[95]** [University of Birmingham MSc Advanced Computer Science][95]
+- **[96]** [University of Sheffield MSc Advanced Computer Science][96]
+- **[97]** [University of Leeds MSc Advanced Computer Science][97]
+- **[98]** [University of Edinburgh MSc Computer Science][98]
+- **[99]** [Georgia Tech MS in Computer Science][99]
+- **[100]** [UIUC Master of Computer Science][100]
+- **[101]** [NC State Master of Computer Science][101]
+- **[102]** [UC San Diego MS in Computer Science][102]
+- **[103]** [Carnegie Mellon MS in Software Engineering][103]
+- **[104]** [Government of Ireland International Education Scholarship][104]
+- **[105]** [UK Chevening Scholarships][105]
 
 [1]: https://www.xe.com/en-us/currencytables/?from=INR "Xe Currency Tables INR"
 [2]: https://www.unsw.edu.au/study/postgraduate/master-of-information-technology "UNSW Master of Information Technology"
