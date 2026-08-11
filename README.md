@@ -45,9 +45,8 @@ Market direction supports this choice. WEF 2025 jobs data highlights AI and big 
 - [13. Substantially Expanded Scholarship and Financial Assistance Guide](#13-substantially-expanded-scholarship-and-financial-assistance-guide)
   - [13.1 Major Global and National Scholarships](#131-major-global-and-national-scholarships-all-values-in-inr)
   - [13.2 Graduate Assistantship Mechanisms](#132-graduate-assistantship-mechanisms-ta--ra)
-- [14. Final Application Portfolio and Execution Roadmap](#14-final-application-portfolio-and-execution-roadmap)
+- [14. Final Application Portfolio](#14-final-application-portfolio)
   - [14.1 Strategic Application Portfolio](#141-strategic-application-portfolio)
-  - [14.2 Application Execution Timeline](#142-application-execution-timeline-2026-to-2027)
 - [15. Official Reference Sources and Currency Basis](#15-official-reference-sources-and-currency-basis)
   - [15.1 Currency Exchange Reference Basis](#151-currency-exchange-reference-basis-august-2026)
   - [15.2 Official Government, University, and Sentiment Sources](#152-official-government-university-and-sentiment-sources)
@@ -712,7 +711,7 @@ Climate conditions directly affect personal health, clothing expenses, daily tra
 
 [↑ Back to top](#table-of-contents)
 
-## 14. Final Application Portfolio and Execution Roadmap
+## 14. Final Application Portfolio
 
 ### 14.1 Strategic Application Portfolio
 
@@ -725,40 +724,6 @@ Climate conditions directly affect personal health, clothing expenses, daily tra
 | **Stretch Target #5** | [Univ. of Queensland (UQ)][16], Australia          | Master of Computer Science           |  **INR 39.15 lakh** | Strong ROI if admitted to 1.5-year route with 20% merit scholarship.                        |
 | **Stretch Target #6** | [University of Bristol][54], UK                    | MSc Artificial Intelligence          |  **INR 44.08 lakh** | High-quality 1-year specialist AI curriculum.                                               |
 | **High Reach #7**     | [Georgia Institute of Tech][99], USA               | MS in Computer Science               |  **INR 34.34 lakh** | Exceptional career upside; apply if low-cost US option is desired.                          |
-
-### 14.2 Application Execution Timeline (2026 to 2027)
-
-```
-+-----------------------------------------------------------------------------------+
-|                            APPLICATION EXECUTION TIMELINE                         |
-+-----------------------------------------------------------------------------------+
-| Month / Year    | Action Items and Deliverables                                   |
-+-----------------+-----------------------------------------------------------------+
-| Aug - Sep 2026  | Finalise CV, target programme list, and order official university|
-|                 | transcripts from VIT. Request academic LORs from professors.    |
-|                 |                                                                 |
-| Oct - Nov 2026  | Draft Statement of Purpose (SOP) tailored to applied AI and     |
-|                 | software engineering. Prepare Chevening and GOI-IES essays.     |
-|                 |                                                                 |
-| Dec 2026        | Submit priority applications: SFU (1 Dec), UBC (1 Dec),         |
-|                 | Georgia Tech (1 Dec), UIUC (1 Dec).                             |
-|                 |                                                                 |
-| Jan 2027        | Submit secondary applications: Univ. of Ottawa (15 Jan),        |
-|                 | Carleton (15 Jan), Concordia (15 Jan), UMD (15 Jan).            |
-|                 |                                                                 |
-| Feb - Apr 2027  | Track application portals, receive admission decisions, and      |
-|                 | submit GOI-IES scholarship application (15 Mar).                |
-|                 |                                                                 |
-| May - Jun 2027  | Select final offer, submit seat deposit, and initiate Canadian  |
-|                 | Study Permit / Irish Student Visa application.                  |
-|                 |                                                                 |
-| Jul - Aug 2027  | Secure PAL (if applicable), finalize GIC / financial proof,     |
-|                 | book flight tickets to Vancouver, and prepare pre-departure.     |
-|                 |                                                                 |
-| Sep 2027        | Arrival in Vancouver / target city and commencement of master's |
-|                 | degree programme.                                               |
-+-----------------+-----------------------------------------------------------------+
-```
 
 [↑ Back to top](#table-of-contents)
 
