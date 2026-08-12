@@ -14,7 +14,7 @@ Visa difficulty means the combined difficulty of securing the initial student vi
 
 Programme choice is AI-first. Your resume shows strong evidence in production software, computer vision, model training, on-device inference, LLM pipelines, medical imaging, recommendation systems, data engineering, and backend systems. The best-fit branch is applied AI/ML engineering, computer vision, NLP/LLM systems, data science, MLOps, and AI product engineering. Cybersecurity is kept as an optional secondary track where it overlaps with AI safety or cloud security analytics.
 
-Market direction supports this choice. WEF 2025 jobs data highlights AI and big data, networks and cybersecurity, and technology literacy among the fastest-growing skills. US official labour projections also show strong growth for data scientists, security analysts, research scientists, and software developers. ([WEF][61], [BLS data scientists][62], [BLS security analysts][63], [BLS research scientists][64], [BLS software developers][38])
+Market direction supports this choice. WEF 2025 jobs data highlights AI and big data, networks and cybersecurity, and technology literacy among the fastest-growing skills. ([WEF][61])
 
 ## Table of Contents
 
@@ -39,9 +39,6 @@ Market direction supports this choice. WEF 2025 jobs data highlights AI and big 
   - [12.2 Ireland](#122-ireland)
   - [12.3 Australia](#123-australia)
   - [12.4 New Zealand](#124-new-zealand)
-  - [12.5 United Kingdom](#125-united-kingdom)
-  - [12.6 United States](#126-united-states)
-  - [12.7 Singapore](#127-singapore)
 - [13. Substantially Expanded Scholarship and Financial Assistance Guide](#13-substantially-expanded-scholarship-and-financial-assistance-guide)
   - [13.1 Major Global and National Scholarships](#131-major-global-and-national-scholarships-all-values-in-inr)
   - [13.2 Graduate Assistantship Mechanisms](#132-graduate-assistantship-mechanisms-ta--ra)
@@ -60,7 +57,7 @@ This file separates evidence into four distinct categories:
 - **Isolated anecdotes:** Individual success or failure stories. These are not treated as general facts, but are retained when they illustrate plausible downside scenarios for student planning.
 - **Conclusion:** Profile-specific judgements for this VIT CSE, AI/software profile, no stated GRE, Fall 2027 or later intake, targeting settlement plus ROI.
 
-Reddit scan status: Recent July/August 2026 posts and monthly top feeds on r/Indians_StudyAbroad were prioritised as the active Indian study-abroad community. Related results from r/f1visa, r/ukvisa, r/ImmigrationCanada, r/studyAbroad, and country subreddits were used only as sentiment checks. Reddit posts are not verified facts and do not override official immigration rules. ([Ireland visa timeline Reddit][66], [Ireland TCD/UCD loan risk Reddit][67], [US/UK/Australia MS decision Reddit][68], [Singapore NUS MiM Reddit][69], [r/Indians_StudyAbroad top feed][70])
+Reddit scan status: Recent July/August 2026 posts and monthly top feeds on r/Indians_StudyAbroad were prioritised as the active Indian study-abroad community. Related results from r/ImmigrationCanada and country subreddits were used only as sentiment checks. Reddit posts are not verified facts and do not override official immigration rules. ([Ireland visa timeline Reddit][66], [Ireland TCD/UCD loan risk Reddit][67], [r/Indians_StudyAbroad top feed][70])
 
 [↑ Back to top](#table-of-contents)
 
@@ -109,7 +106,7 @@ Target destinations are evaluated using a 12-factor decision framework weighted 
 | Post-study & PR predictability      |    20% | Open post-study work visa, clear skilled-worker bridge, realistic PR route      | Employer-tied status, lottery/cap systems, discretionary PR, short post-study period           |
 | Employment & co-op market reality   |    18% | Large tech market, co-op or internships, entry and mid-level hiring activity    | Sponsor reluctance, small graduate market, weak local experience access, overloaded CS pool    |
 | Personal & network advantage        |    15% | Family presence, housing cost reduction in INR, warm job referrals, safety net  | Complete reliance on cold applications and independent high-cost housing                       |
-| Cost and ROI                        |    15% | Lower tuition in INR, 1-year or shortened routes, public universities, low debt | High tuition in INR, London/Sydney/Singapore-level costs, large loan with weak return path     |
+| Cost and ROI                        |    15% | Lower tuition in INR, 1-year or shortened routes, public universities, low debt | High tuition in INR, Sydney-level costs, large loan with weak return path                      |
 | Profile & curriculum fit            |    10% | Applied AI/ML, computer vision, data systems, MLOps, software engineering       | Generic conversion content, weak AI fit, no clear project path                                 |
 | Weather & climate impact            |     6% | Mild winters, moderate precipitation, year-round mobility, high daylight hours  | Severe sub-zero cold, extreme snowfall, high seasonal depression risk                          |
 | Housing & social risk               |     5% | Manageable rental market in INR, student support, lower discrimination reports  | Severe housing shortage, extreme living costs, recurring reports of racism or local preference |
@@ -124,62 +121,50 @@ Target destinations are evaluated using a 12-factor decision framework weighted 
 
 The table below presents the global destination rankings based on the budget-weighted multi-criteria evaluation.
 
-| Rank | Country                  |      Score | Strategic Fit      | Post-Study Visa      | PR Predictability                                                              | Typical Tuition (INR)            | Typical Living Cost (INR/yr)              | Network Advantage | Verdict                                                                                            |
-| ---: | :----------------------- | ---------: | :----------------- | :------------------- | :----------------------------------------------------------------------------- | :------------------------------- | :---------------------------------------- | :---------------- | :------------------------------------------------------------------------------------------------- |
-|    1 | Canada (Vancouver Focus) | **9.1/10** | Primary Target     | 3 Years PGWP         | High (BC PNP + Express Entry STEM)                                             | **INR 24.57 to 49.14 lakh**      | **INR 3.93 to 6.47 lakh (With Relative)** | Exceptional       | Highest priority destination; SFU and UBC in Vancouver yield maximum ROI and settlement certainty. |
-|    2 | Ireland                  | **8.2/10** | Secondary Target   | 2 Years Stamp 1G     | Good after qualifying employment; Stamp 1G is temporary                        | **INR 15.40 to 38.00 lakh**      | **INR 15.53 to 21.08 lakh**               | Standard          | Best 1-year budget alternative; DCU, UCD, Limerick, and Maynooth provide strong value.             |
-|    3 | Australia                | **7.7/10** | Stretch Option     | 3 Years Subclass 485 | Moderate; points-based PR, occupation lists, and housing costs cap ROI         | **INR 39.10 to 87.90 lakh**      | **INR 15.74 to 20.18 lakh**               | Standard          | Strong option for shorter 1.5-year routes (UQ, Monash) or when fees are controlled.                |
-|    4 | New Zealand              | **6.8/10** | Budget Backup      | 3 Years PSWV         | Clearer than UK/US after qualifying job; small tech market                     | **INR 31.90 to 49.00 lakh**      | **INR 10.74 to 14.04 lakh**               | Standard          | Controlled budget settlement backup; Canterbury and Auckland are primary options.                  |
-|    5 | United Kingdom           | **6.5/10** | Selective Target   | 18 Months Graduate   | Graduate route is short for 2027; Skilled Worker sponsorship is key            | **INR 34.00 to 60.00 lakh**      | **INR 18.37 to 25.64 lakh**               | Standard          | Selective 1-year career option; Bristol, Birmingham, and Southampton offer best balance.           |
-|    6 | United States            | **6.0/10** | Career Upside Only | 3 Years (OPT + STEM) | Low predictability due to H-1B lottery and India EB-2 Green Card backlog       | **INR 35.00 lakh to 1.05 crore** | **INR 21.00 to 30.27 lakh**               | Standard          | World's top tech salaries, but worst settlement predictability; Georgia Tech and UIUC lead.        |
-|    7 | Singapore                | **5.1/10** | Alternative Only   | No Open Visa         | Permanent residence is discretionary; Employment Pass minimum INR 4.47 lakh/mo | **INR 42.00 to 50.10 lakh**      | **INR 20.07 lakh**                        | Standard          | Exceptional university brands (NUS, NTU), but weak study-to-settlement bridge.                     |
+| Rank | Country                  |      Score | Strategic Fit    | Post-Study Visa      | PR Predictability                                                      | Typical Tuition (INR)       | Typical Living Cost (INR/yr)              | Network Advantage | Verdict                                                                                            |
+| ---: | :----------------------- | ---------: | :--------------- | :------------------- | :--------------------------------------------------------------------- | :-------------------------- | :---------------------------------------- | :---------------- | :------------------------------------------------------------------------------------------------- |
+|    1 | Canada (Vancouver Focus) | **9.1/10** | Primary Target   | 3 Years PGWP         | High (BC PNP + Express Entry STEM)                                     | **INR 24.57 to 49.14 lakh** | **INR 3.93 to 6.47 lakh (With Relative)** | Exceptional       | Highest priority destination; SFU and UBC in Vancouver yield maximum ROI and settlement certainty. |
+|    2 | Ireland                  | **8.2/10** | Secondary Target | 2 Years Stamp 1G     | Good after qualifying employment; Stamp 1G is temporary                | **INR 15.40 to 38.00 lakh** | **INR 15.53 to 21.08 lakh**               | Standard          | Best 1-year budget alternative; DCU, UCD, Limerick, and Maynooth provide strong value.             |
+|    3 | Australia                | **7.7/10** | Stretch Option   | 3 Years Subclass 485 | Moderate; points-based PR, occupation lists, and housing costs cap ROI | **INR 39.10 to 87.90 lakh** | **INR 15.74 to 20.18 lakh**               | Standard          | Strong option for shorter 1.5-year routes (UQ, Monash) or when fees are controlled.                |
+|    4 | New Zealand              | **6.8/10** | Budget Backup    | 3 Years PSWV         | Clearer than UK/US after qualifying job; small tech market             | **INR 31.90 to 49.00 lakh** | **INR 10.74 to 14.04 lakh**               | Standard          | Controlled budget settlement backup; Canterbury and Auckland are primary options.                  |
 
 ## 5. Budget Filter and Tier Strategy
 
 | Budget Band      | Tuition-Only Range (INR) | Strategic Guidance                                                                                                 |
 | :--------------- | -----------------------: | :----------------------------------------------------------------------------------------------------------------- |
-| Core Budget      |        Up to INR 35 lakh | Main target zone. Lower-cost Canada, Ireland, New Zealand, and regional UK fit here.                               |
+| Core Budget      |        Up to INR 35 lakh | Main target zone. Lower-cost Canada, Ireland, and New Zealand fit here.                                            |
 | Stretch Budget   |        INR 35 to 50 lakh | Target only when the programme offers strong brand, co-op access, shorter duration, or Vancouver relative support. |
 | High-Cost Budget |        Above INR 50 lakh | Apply only with confirmed scholarships, shorter routes, or exceptional employment upside.                          |
 
 Budget-First Shortlist:
 
-| Priority Tier         | Countries and Programmes to Prioritise                                                                                   |
-| :-------------------- | :----------------------------------------------------------------------------------------------------------------------- |
-| **Primary Target #1** | **Canada (Vancouver):** Simon Fraser University (SFU Professional MSc CS), University of British Columbia (UBC MDS/MSc)  |
-| **Primary Target #2** | **Canada (Ontario/Alberta):** University of Ottawa, Carleton University, University of Calgary, Concordia University     |
-| **Primary Target #3** | **Ireland:** Dublin City University (DCU), University College Dublin (UCD), University of Limerick, Maynooth University  |
-| **Stretch Target**    | **Australia:** University of Queensland (UQ 1.5-year route), Monash University (1.5-year route), UTS, QUT                |
-| **Stretch Target**    | **New Zealand:** University of Canterbury, University of Auckland, Victoria University of Wellington                     |
-| **Stretch Target**    | **United Kingdom:** University of Bristol, University of Birmingham, University of Southampton, University of Manchester |
-| **Exceptional Only**  | **United States:** Georgia Institute of Technology, UIUC, University of Maryland College Park, UW-Madison, NCSU          |
-| **Exceptional Only**  | **Singapore:** National University of Singapore (NUS), Nanyang Technological University (NTU)                            |
+| Priority Tier         | Countries and Programmes to Prioritise                                                                                  |
+| :-------------------- | :---------------------------------------------------------------------------------------------------------------------- |
+| **Primary Target #1** | **Canada (Vancouver):** Simon Fraser University (SFU Professional MSc CS), University of British Columbia (UBC MDS/MSc) |
+| **Primary Target #2** | **Canada (Ontario/Alberta):** University of Ottawa, Carleton University, University of Calgary, Concordia University    |
+| **Primary Target #3** | **Ireland:** Dublin City University (DCU), University College Dublin (UCD), University of Limerick, Maynooth University |
+| **Stretch Target**    | **Australia:** University of Queensland (UQ 1.5-year route), Monash University (1.5-year route), UTS, QUT               |
+| **Stretch Target**    | **New Zealand:** University of Canterbury, University of Auckland, Victoria University of Wellington                    |
 
 ## 6. Post-Study Work and First Employment Gate
 
-| Country            | Current Post-Study Visa Position                                                  | Key Condition for This Profile                                                                                                                 |
-| :----------------- | :-------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Canada**         | Eligible master's of at least 8 months receives a **3-year** PGWP                 | Requires CLB 7 in all four language skills. Institution and programme must remain PGWP eligible. Master's graduates have no field restriction. |
-| **Ireland**        | Level 9 graduates receive **24 months** (12 months initial + 12 months renewal)   | Stamp 1G is temporary. Long-term stay requires a Critical Skills Employment Permit (minimum INR 41.85 lakh salary threshold).                  |
-| **Australia**      | Indian nationals receive **3 years** post-study work under AI-ECTA                | Age cap is 35 or under. Regional streams can add 1 to 2 years subject to location and residence conditions.                                    |
-| **New Zealand**    | Master's studied for at least 30 weeks receives a **3-year** Post Study Work Visa | Permanent residence depends on securing an accredited employer job offer in a qualifying occupation.                                           |
-| **United Kingdom** | Applications from 1 January 2027 receive **18 months** Graduate Route visa        | Skilled Worker Visa sponsorship is required afterwards, meeting minimum salary thresholds (INR 49.88 lakh general threshold).                  |
-| **United States**  | Qualifying STEM master's receives 12 months OPT + 24-month STEM extension         | DHS final rule enforces fixed admission periods for F-1 status. H-1B lottery cap selection and EB-2 India backlog remain major gates.          |
-| **Singapore**      | No open post-study work visa comparable to Canada or Australia                    | From 1 January 2027, minimum Employment Pass salary is INR 4.47 lakh per month for age 23 or below, rising with age, plus COMPASS points.      |
+| Country         | Current Post-Study Visa Position                                                  | Key Condition for This Profile                                                                                                                 |
+| :-------------- | :-------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Canada**      | Eligible master's of at least 8 months receives a **3-year** PGWP                 | Requires CLB 7 in all four language skills. Institution and programme must remain PGWP eligible. Master's graduates have no field restriction. |
+| **Ireland**     | Level 9 graduates receive **24 months** (12 months initial + 12 months renewal)   | Stamp 1G is temporary. Long-term stay requires a Critical Skills Employment Permit (minimum INR 41.85 lakh salary threshold).                  |
+| **Australia**   | Indian nationals receive **3 years** post-study work under AI-ECTA                | Age cap is 35 or under. Regional streams can add 1 to 2 years subject to location and residence conditions.                                    |
+| **New Zealand** | Master's studied for at least 30 weeks receives a **3-year** Post Study Work Visa | Permanent residence depends on securing an accredited employer job offer in a qualifying occupation.                                           |
 
 ## 7. Official Pay Evidence
 
 The figures below are official published occupational reference points converted to INR. They represent overall market experience levels, not guaranteed starting packages.
 
-| Country            | Official Occupational Reference Point                                         | Practical Meaning for Planning                                                                                                 |
-| :----------------- | :---------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------- |
-| **Canada**         | **INR 2,640 per hour** (INR 54.91 lakh per year equivalent)                   | Canada Job Bank national median for software engineers across all experience levels. ([Job Bank][31])                          |
-| **Ireland**        | **INR 41.85 lakh to INR 63.88 lakh per year**                                 | Planning range based on Dublin software and AI engineering roles.                                                              |
-| **Australia**      | **INR 1.15 lakh per week** (INR 59.80 lakh per year equivalent)               | Jobs and Skills Australia median for software and applications programmers across all experience levels. ([Jobs & Skills][21]) |
-| **New Zealand**    | **INR 50.60 to INR 86.50 lakh per year** (lower figure INR 36.50 lakh)        | Tahatu software developer career profile range, not a graduate median. ([Tahatu][33])                                          |
-| **United Kingdom** | **INR 39.00 to INR 97.40 lakh per year**                                      | UK National Careers Service software developer career range. ([National Careers][34])                                          |
-| **United States**  | **INR 1.22 crore per year**                                                   | US BLS median for software developers across all experience levels. ([BLS][38])                                                |
-| **Singapore**      | **INR 2.50 lakh to INR 3.64 lakh per month** (INR 30.00 to INR 43.68 lakh/yr) | MOM entry-level software developer vacancy range; portion sits below the EP threshold. ([MOM][48])                             |
+| Country         | Official Occupational Reference Point                                  | Practical Meaning for Planning                                                                                                 |
+| :-------------- | :--------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------- |
+| **Canada**      | **INR 2,640 per hour** (INR 54.91 lakh per year equivalent)            | Canada Job Bank national median for software engineers across all experience levels. ([Job Bank][31])                          |
+| **Ireland**     | **INR 41.85 lakh to INR 63.88 lakh per year**                          | Planning range based on Dublin software and AI engineering roles.                                                              |
+| **Australia**   | **INR 1.15 lakh per week** (INR 59.80 lakh per year equivalent)        | Jobs and Skills Australia median for software and applications programmers across all experience levels. ([Jobs & Skills][21]) |
+| **New Zealand** | **INR 50.60 to INR 86.50 lakh per year** (lower figure INR 36.50 lakh) | Tahatu software developer career profile range, not a graduate median. ([Tahatu][33])                                          |
 
 ## 8. Detailed Decision Notes
 
@@ -187,19 +172,16 @@ The figures below are official published occupational reference points converted
 - **Ireland is #2:** Ireland offers a 1-year format, lower tuition, and direct access to European headquarters of global tech firms via the 2-year Stamp 1G visa. It provides the best budget balance if Canadian admissions do not materialize.
 - **Australia is #3:** The 3-year Subclass 485 visa under AI-ECTA gives Indian master's graduates a strong work window. However, high tuition (INR 39.10 lakh to INR 87.90 lakh) and high living costs in Sydney/Melbourne cap its ROI. Target UQ's 1.5-year route or Monash.
 - **New Zealand is #4:** NZ offers a clean 3-year post-study work visa and a safe environment, but its small graduate tech market caps career expansion. Canterbury and Auckland are practical budget backups.
-- **United Kingdom is #5:** The reduction of the Graduate Route to 18 months for 2027 applications leaves less margin for job hunting. It is a selective 1-year career option through Bristol, Birmingham, or Southampton.
-- **United States is #6:** Represents maximum salary upside (INR 1.10 crore to INR 1.50 crore starting), but poorest settlement predictability due to the H-1B lottery cap, DHS fixed F-1 admission rules, and multi-decade India EB-2 Green Card backlog.
-- **Singapore is #7:** World-class academic institutions (NUS, NTU), but weak study-to-settlement conversion due to the absence of an open post-study work visa and a high Employment Pass threshold (INR 4.47 lakh/month minimum).
 
 ## 9. Comprehensive Risk Register
 
-| Risk Category               | Factual Data                                                                                            | Reddit Sentiment Signal                                                                                  | Planning Conclusion                                                                                                            |
-| :-------------------------- | :------------------------------------------------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------- |
-| **First Skilled Job**       | Post-study visas only grant time to search; long-term stay requires qualifying employment.              | High anxiety regarding non-local status, lack of local experience, and saturated entry-level CS cohorts. | Prioritise co-op programmes (SFU), leverage local family networks in Vancouver, and avoid heavy loan debt.                     |
-| **Visa & Policy Churn**     | Canada, UK, US, Australia, and Singapore have all tightened student or work migration rules since 2024. | Frequent posts detailing visa delays, refusal spikes, and confusion over changing policy thresholds.     | Keep application timelines conservative; do not make non-refundable commitments before visa approval.                          |
-| **Cost & Housing Strain**   | Published tuition fees exclude rent, health insurance, deposits, flights, and living expenses.          | Recurring cost shock reports in Dublin, Sydney, London, Toronto, and Singapore.                          | Vancouver relative support eliminates housing risk. For other cities, maintain 1 year of extra living buffer in INR.           |
-| **Local Hiring Preference** | Employer sponsorship frameworks naturally favour candidates with immediate local work rights.           | Reports of accent bias, "local experience required" filters, and sponsor reluctance.                     | Treat local preference as a real barrier. Mitigate through co-op terms, warm family referrals, and strong portfolio projects.  |
-| **Loan & ROI Risk**         | Overseas universities do not provide Indian-style campus placement guarantees.                          | Master's abroad framed as high risk if forced to return to India with a large foreign currency loan.     | Ensure family can service debt from an Indian salary baseline. Vancouver relative housing cuts loan needs by INR 17 - 23 lakh. |
+| Risk Category               | Factual Data                                                                                             | Reddit Sentiment Signal                                                                                  | Planning Conclusion                                                                                                            |
+| :-------------------------- | :------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------- |
+| **First Skilled Job**       | Post-study visas only grant time to search; long-term stay requires qualifying employment.               | High anxiety regarding non-local status, lack of local experience, and saturated entry-level CS cohorts. | Prioritise co-op programmes (SFU), leverage local family networks in Vancouver, and avoid heavy loan debt.                     |
+| **Visa & Policy Churn**     | Canada, Ireland, Australia, and New Zealand have all updated student or work migration rules since 2024. | Frequent posts detailing visa delays, refusal spikes, and confusion over changing policy thresholds.     | Keep application timelines conservative; do not make non-refundable commitments before visa approval.                          |
+| **Cost & Housing Strain**   | Published tuition fees exclude rent, health insurance, deposits, flights, and living expenses.           | Recurring cost shock reports in Dublin, Sydney, Toronto, and Auckland.                                   | Vancouver relative support eliminates housing risk. For other cities, maintain 1 year of extra living buffer in INR.           |
+| **Local Hiring Preference** | Employer sponsorship frameworks naturally favour candidates with immediate local work rights.            | Reports of accent bias, "local experience required" filters, and sponsor reluctance.                     | Treat local preference as a real barrier. Mitigate through co-op terms, warm family referrals, and strong portfolio projects.  |
+| **Loan & ROI Risk**         | Overseas universities do not provide Indian-style campus placement guarantees.                           | Master's abroad framed as high risk if forced to return to India with a large foreign currency loan.     | Ensure family can service debt from an Indian salary baseline. Vancouver relative housing cuts loan needs by INR 17 - 23 lakh. |
 
 ## 10. Climate and Weather Evaluation Criterion
 
@@ -216,13 +198,11 @@ Climate conditions directly affect personal health, clothing expenses, daily tra
 | **Montreal, Canada**  | Humid Continental       | -13 deg C to -5 deg C     | +16 deg C to +26 deg C    | Heavy (210 cm)     | Moderate (1,000 mm) | 8 hours 43 mins          | Freezing snowy winters; extensive underground pedestrian network; vibrant summer culture.          |
 | **Dublin, Ireland**   | Temperate Maritime      | +3 deg C to +8 deg C      | +11 deg C to +20 deg C    | Negligible (10 cm) | Moderate (750 mm)   | 7 hours 30 mins          | Cool maritime climate; overcast damp winters; short winter daylight; mild summers.                 |
 | **Sydney, Australia** | Humid Subtropical       | +9 deg C to +17 deg C     | +19 deg C to +27 deg C    | None (0 cm)        | Moderate (1,210 mm) | 9 hours 54 mins          | Mild sunny winters; warm summers; active outdoor lifestyle; minimal heating costs.                 |
-| **London, UK**        | Temperate Maritime      | +3 deg C to +9 deg C      | +14 deg C to +23 deg C    | Rare (12 cm)       | Low (600 mm)        | 7 hours 45 mins          | Cool damp winters; short winter daylight hours; moderate summers.                                  |
-| **Seattle, USA**      | Mediterranean / Oceanic | +3 deg C to +9 deg C      | +14 deg C to +26 deg C    | Minimal (17 cm)    | Moderate (990 mm)   | 8 hours 25 mins          | Mild winters; frequent overcast rainy days; pleasant dry summers; identical to Vancouver.          |
 
 ### 10.2 Practical Lifestyle and Cost Impact
 
 - **Vancouver Advantage:** Vancouver experiences Canada's mildest winters, avoiding the extreme -20 deg C temperatures of Ottawa, Montreal, or Calgary. Outerwear costs are lower (INR 30,700 for waterproof rain gear vs INR 54,600 for Arctic down parkas).
-- **Daylight & Seasonal Affective Disorder (SAD):** Northern latitudes (Vancouver, Dublin, London, Ottawa) see winter daylight drop to 7.5 - 8.5 hours. Vitamin D3 supplementation and light therapy are standard lifestyle practices.
+- **Daylight & Seasonal Affective Disorder (SAD):** Northern latitudes (Vancouver, Dublin, Ottawa) see winter daylight drop to 7.5 - 8.5 hours. Vitamin D3 supplementation and light therapy are standard lifestyle practices.
 - **Transit Reliability:** Public transit in Vancouver operates continuously without snow disruptions, whereas heavy snowstorms in Ottawa and Montreal cause periodic transit delays.
 
 ## 11. Canadian Regional and City Comparative Analysis
@@ -485,184 +465,6 @@ Climate conditions directly affect personal health, clothing expenses, daily tra
 
 ---
 
-### 12.5 United Kingdom
-
-#### University Programme Comparison Table: United Kingdom (All Figures in INR)
-
-| Rank | University                      | Recommended Programme and Branch       | Duration | Total Tuition (INR) | Employment Outlook                     | Starting Salary Range (INR/yr) | Acceptance Estimate | Profile Chance  | Application Deadline | Expected Decision    | Key Scholarships                                        | Overall Assessment                                            |
-| ---: | :------------------------------ | :------------------------------------- | -------: | ------------------: | :------------------------------------- | :----------------------------- | ------------------: | :-------------- | :------------------- | :------------------- | :------------------------------------------------------ | :------------------------------------------------------------ |
-|    1 | [Univ. of Bristol][54]          | MSc Artificial Intelligence            |   1 Year |  **INR 44.08 lakh** | Excellent tech ecosystem in South West | **INR 48.97 to 69.59 lakh**    |          25% to 40% | Target / Reach  | 15 Oct 2026          | Dec 2026 to Feb 2027 | Think Big Award (INR 8.38 to 16.75 lakh)                | Top UK ROI balance for specialist AI degree.                  |
-|    2 | [Univ. of Birmingham][95]       | MSc Advanced Computer Science          |   1 Year |  **INR 36.73 lakh** | Good regional and London job access    | **INR 45.11 to 63.15 lakh**    |          40% to 60% | Target          | 15 Nov 2026          | Dec 2026 to Feb 2027 | India Outstanding Award (INR 5.16 lakh)                 | Realistic target with lower tuition fee structure.            |
-|    3 | [Univ. of Southampton][57]      | MSc Computer Science (AI Track)        |   1 Year |  **INR 41.89 lakh** | Strong electronics and CS reputation   | **INR 46.40 to 65.73 lakh**    |          35% to 50% | Target          | 15 Nov 2026          | Dec 2026 to Feb 2027 | Presidential Award (INR 6.44 to 12.89 lakh)             | Strong technical fit for AI systems engineering.              |
-|    4 | [Univ. of Manchester][36]       | MSc Advanced Computer Science          |   1 Year |  **INR 45.75 lakh** | Very good tech market in North West    | **INR 48.97 to 70.88 lakh**    |          20% to 35% | Reach           | 15 Oct 2026          | Jan to Mar 2027      | Global Futures Award (INR 7.73 to 10.31 lakh)           | Prestigious brand, but tuition requires budget stretch.       |
-|    5 | [Univ. of Sheffield][96]        | MSc Advanced Computer Science          |   1 Year |  **INR 38.50 lakh** | Good regional employer access          | **INR 43.80 to 61.86 lakh**    |          45% to 65% | Target          | 15 Nov 2026          | Dec 2026 to Feb 2027 | Merit Scholarship (INR 3.00 to 6.00 lakh)               | Good realistic option with controlled fee.                    |
-|    6 | [University of Leeds][97]       | MSc Advanced Computer Science          |   1 Year |  **INR 39.20 lakh** | Good regional tech market              | **INR 43.80 to 63.15 lakh**    |          45% to 65% | Target          | 15 Nov 2026          | Dec 2026 to Feb 2027 | International Excellence Award (INR 3.00 to 6.00 lakh)  | Solid UK target option.                                       |
-|    7 | [Univ. of Nottingham][55]       | MSc Computer Science (AI Track)        |   1 Year |  **INR 43.90 lakh** | Good, modules fit CSE background       | **INR 42.50 to 60.50 lakh**    |          50% to 70% | Likely / Target | 15 Nov 2026          | Dec 2026 to Feb 2027 | Developing Solutions Award (50% to 100% Tuition)        | Good module choice for AI software engineering.               |
-|    8 | [Univ. of Edinburgh][98]        | MSc Computer Science (AI Track)        |   1 Year |  **INR 51.50 lakh** | Excellent academic reputation          | **INR 50.26 to 74.75 lakh**    |          15% to 25% | Reach           | 15 Oct 2026          | Jan to Mar 2027      | Edinburgh Global Master's Award (INR 4.00 to 8.00 lakh) | Strong AI brand, but high fee and short visa limit ROI.       |
-|    9 | [University College London][65] | MSc Artificial Intelligence & Data Eng |   1 Year |  **INR 55.50 lakh** | Excellent London tech market access    | **INR 55.42 to 85.06 lakh**    |          10% to 20% | High Reach      | 15 Oct 2026          | Dec 2026 to Feb 2027 | UCL Global Master's Award (INR 6.44 lakh)               | Top technical fit, but London living costs require major aid. |
-|   10 | [Imperial College London][56]   | MSc Advanced Computing                 |   1 Year |  **INR 59.70 lakh** | Exceptional tech & finance access      | **INR 59.28 to 91.50 lakh**    |           5% to 10% | High Reach      | 15 Oct 2026          | Jan to Mar 2027      | President's Master's Award (Full Tuition + Stipend)     | Highest UK prestige reach; requires major scholarship.        |
-
-#### Financial Separation: United Kingdom (All Figures in INR)
-
-##### 1. Tuition and University Mandatory Fees (INR)
-
-- **University of Bristol MSc AI:** Base tuition **INR 44.08 lakh**. No separate mandatory fee surcharges. Total Tuition: **INR 44.08 lakh**.
-- **University of Birmingham MSc ACS:** Base tuition **INR 36.73 lakh**. Total Tuition: **INR 36.73 lakh**.
-
-##### 2. Cost of Living Breakdown (INR)
-
-| Expense Item                         | London (Monthly)            | Non-London (Bristol / Birmingham / Manchester) |
-| :----------------------------------- | :-------------------------- | :--------------------------------------------- |
-| Rent / Housing (Shared Flat)         | INR 1,22,400                | INR 83,800                                     |
-| Food and Groceries                   | INR 33,500                  | INR 28,300                                     |
-| Utilities & Heating                  | INR 14,200                  | INR 11,600                                     |
-| Mobile Phone Plan                    | INR 2,300                   | INR 2,300                                      |
-| Local Transportation                 | INR 18,000 (Student Oyster) | INR 9,000                                      |
-| Personal & Entertainment             | INR 23,200                  | INR 18,000                                     |
-| **Total Monthly Living Budget**      | **INR 2.14 lakh**           | **INR 1.53 lakh**                              |
-| **Annual Living Budget (12 Months)** | **INR 25.64 lakh**          | **INR 18.37 lakh**                             |
-
-##### 3. One-Time Setup Costs (INR)
-
-- Student Visa Fee: INR 63,151.
-- Immigration Health Surcharge (IHS - 1.5 Years): INR 1,50,000.
-- Flight Ticket (India to UK): INR 70,884.
-- Rental Deposit (5 Weeks Rent): INR 1,04,600 (Non-London) / INR 1,53,000 (London).
-- Setup & Outerwear: INR 45,108.
-- **Total Setup Cost:** **INR 4.34 lakh Non-London** / **INR 4.82 lakh London**.
-
-##### 4. Total Estimated Cost Summary: United Kingdom (INR)
-
-- **Bristol MSc AI (Non-London - 1 Year):** Tuition INR 44.08 lakh + Living INR 18.37 lakh + Setup INR 4.34 lakh = **INR 66.79 lakh**.
-- **Birmingham MSc ACS (Non-London - 1 Year):** Tuition INR 36.73 lakh + Living INR 18.37 lakh + Setup INR 4.34 lakh = **INR 59.44 lakh**.
-
-##### 5. Immigration and Settlement Pathway
-
-- **Post-Study Work Rights:** 18 months Graduate Route visa for applications made on or after 1 January 2027.
-- **Skilled Worker Transition:** Requires securing a Skilled Worker Visa sponsored by an approved employer (minimum salary threshold INR 49.88 lakh per year).
-
-[↑ Back to top](#table-of-contents)
-
----
-
-### 12.6 United States
-
-#### University Programme Comparison Table: United States (All Figures in INR)
-
-| Rank | University                           | Recommended Programme and Branch     |  Duration | Total Tuition (INR) | Employment Outlook                      | Starting Salary Range (INR/yr)   | Acceptance Estimate | Profile Chance | Application Deadline | Expected Decision | Key Scholarships                                      | Overall Assessment                                                  |
-| ---: | :----------------------------------- | :----------------------------------- | --------: | ------------------: | :-------------------------------------- | :------------------------------- | ------------------: | :------------- | :------------------- | :---------------- | :---------------------------------------------------- | :------------------------------------------------------------------ |
-|    1 | [Georgia Tech][99]                   | MS in Computer Science (ML Track)    |   2 Years |  **INR 34.34 lakh** | Exceptional national tech hiring brand  | **INR 1.10 to 1.48 crore**       |          10% to 18% | High Reach     | 1 Dec 2026           | Feb to Apr 2027   | Graduate Assistantships (TA/RA Full Waiver + Stipend) | **Best US ROI**: Low tuition fee structure and top tier reputation. |
-|    2 | [UIUC][100]                          | Master of Computer Science (MCS)     | 1.5 Years |  **INR 41.97 lakh** | Top-tier tech employer recruitment      | **INR 1.13 to 1.53 crore**       |           8% to 15% | High Reach     | 1 Dec 2026           | Feb to Mar 2027   | Limited professional master's financial aid           | Excellent brand value; fast professional coursework track.          |
-|    3 | [Univ. of Maryland College Park][58] | MS in Applied Machine Learning       | 1.5 Years |  **INR 41.49 lakh** | Strong East Coast tech hub access       | **INR 1.05 to 1.38 crore**       |          25% to 40% | Target / Reach | 15 Jan 2027          | Mar to Apr 2027   | Merit Grants (INR 2.86 to 7.63 lakh)                  | Cleanest applied ML fit in US list; solid location.                 |
-|    4 | [Univ. of Wisconsin-Madison][39]     | Professional MS in Computer Sciences | 1.5 Years |  **INR 42.92 lakh** | High corporate hiring presence          | **INR 1.05 to 1.41 crore**       |          20% to 35% | Reach          | 15 Dec 2026          | Mar to Apr 2027   | No tuition remission on professional track            | Solid reputation; strict policy against TA tuition waivers.         |
-|    5 | [North Carolina State Univ][101]     | Master of Computer Science           |  1.5-2 Yr |  **INR 43.87 lakh** | Excellent Research Triangle tech access | **INR 95.38 lakh to 1.29 crore** |          35% to 55% | Target         | 15 Dec 2026          | Mar to Apr 2027   | Merit aid limited; TA/RA common in thesis             | Strong realistic option with good employment opportunities.         |
-|    6 | [UC San Diego][102]                  | MS in Computer Science & Eng         |  1.5-2 Yr |  **INR 62.00 lakh** | Excellent California tech access        | **INR 1.18 to 1.57 crore**       |           8% to 15% | High Reach     | 1 Dec 2026           | Feb to Mar 2027   | Non-resident tuition waivers competitive              | Strong AI and systems option, but higher tuition.                   |
-|    7 | [Carnegie Mellon Univ][103]          | MS in Software Eng (Silicon Valley)  |     16 Mo |  **INR 90.00 lakh** | Exceptional tech industry reputation    | **INR 1.24 to 1.71 crore**       |           5% to 10% | High Reach     | 1 Dec 2026           | Feb to Mar 2027   | Merit aid limited; TA/RA uncommon                     | Highest career upside, but poor debt fit without major aid.         |
-|    8 | [Northeastern Univ][40]              | MS in Computer Science (Co-op)       |   2 Years |  **INR 59.00 lakh** | Very good co-op work structure          | **INR 99.00 lakh to 1.38 crore** |          35% to 55% | Target         | 15 Jan 2027          | Feb to Apr 2027   | Merit scholarships (INR 2.50 to 7.50 lakh)            | Co-op helps first US job search, but debt is material.              |
-|    9 | [Arizona State Univ][41]             | MS in Computer Science               |  1.5-2 Yr |  **INR 50.00 lakh** | Good, large programme size              | **INR 87.00 lakh to 1.22 crore** |          40% to 60% | Target         | 1 Dec 2026           | Feb to Mar 2027   | New American University awards (Variable)             | GRE is required for non-ASU applicants; not a no-GRE safety.        |
-|   10 | [Univ of Southern California][59]    | MS in Computer Science (AI Track)    |   2 Years |  **INR 84.40 lakh** | Excellent California access             | **INR 1.10 to 1.50 crore**       |          30% to 50% | Target         | 15 Dec 2026          | Feb to Apr 2027   | Limited merit scholarships                            | Strong California employment, but weak ROI without aid.             |
-
-#### Financial Separation: United States (All Figures in INR)
-
-##### 1. Tuition and University Mandatory Fees (INR)
-
-- **Georgia Tech MSCS:** Out-of-state tuition INR 34.34 lakh over 2 years. Mandatory student fees INR 3.05 lakh. Total Tuition + Mandatory Fees: **INR 37.39 lakh**.
-- **UIUC MCS:** Professional tuition INR 41.97 lakh. Mandatory campus fees INR 3.43 lakh. Total Tuition + Mandatory Fees: **INR 45.40 lakh**.
-
-##### 2. Cost of Living Breakdown (INR)
-
-| Expense Item                         | High-Cost Area (California / NY) (Monthly) | Moderate-Cost Area (Atlanta / NC / Midwest) (Monthly) |
-| :----------------------------------- | :----------------------------------------- | :---------------------------------------------------- |
-| Rent / Housing (Shared Room)         | INR 1,33,500                               | INR 81,000                                            |
-| Food and Groceries                   | INR 42,900                                 | INR 36,200                                            |
-| Utilities & Internet                 | INR 12,400                                 | INR 9,500                                             |
-| Mobile Phone Plan                    | INR 4,300                                  | INR 4,300                                             |
-| Transportation                       | INR 11,400                                 | INR 7,600                                             |
-| Student Health Insurance             | INR 23,800                                 | INR 19,000                                            |
-| Personal & Entertainment             | INR 23,800                                 | INR 17,200                                            |
-| **Total Monthly Living Budget**      | **INR 2.52 lakh**                          | **INR 1.75 lakh**                                     |
-| **Annual Living Budget (12 Months)** | **INR 30.27 lakh**                         | **INR 21.00 lakh**                                    |
-
-##### 3. One-Time Setup Costs (INR)
-
-- SEVIS I-901 Fee: INR 33,383.
-- F-1 Visa Fee (MRV): INR 17,645.
-- Flight Ticket (India to US): INR 1,04,918.
-- Rental Deposit: INR 81,000 (Moderate) / INR 1,33,500 (High-Cost).
-- Setup & Tech Accessories: INR 47,690.
-- **Total Setup Cost:** **INR 2.85 lakh Moderate** / **INR 3.37 lakh High-Cost**.
-
-##### 4. Total Estimated Cost Summary: United States (INR)
-
-- **Georgia Tech MSCS (Atlanta - 2 Years):** Tuition INR 37.39 lakh + Living (24 Mo) INR 42.00 lakh + Setup INR 2.85 lakh = **INR 82.24 lakh**.
-- **UIUC MCS (Midwest - 1.5 Years):** Tuition INR 45.40 lakh + Living (18 Mo) INR 31.50 lakh + Setup INR 2.85 lakh = **INR 79.75 lakh**.
-
-##### 5. Immigration and Settlement Pathway
-
-- **Post-Study Work Rights:** 12 months OPT + 24-month STEM extension (36 months total).
-- **Fixed Admission Rule:** DHS final rule enforces fixed admission periods for F-1 status. Transition to long-term work requires H-1B lottery selection (85,000 annual cap). Permanent residency for Indian nationals under EB-2/EB-3 faces multi-decade backlogs.
-
-[↑ Back to top](#table-of-contents)
-
----
-
-### 12.7 Singapore
-
-#### University Programme Comparison Table: Singapore (All Figures in INR)
-
-| Rank | University                       | Recommended Programme and Branch       | Duration | Total Tuition (INR) | Employment Outlook                      | Starting Salary Range (INR/yr) | Acceptance Estimate | Profile Chance | Application Deadline | Expected Decision | Key Scholarships                             | Overall Assessment                                          |
-| ---: | :------------------------------- | :------------------------------------- | -------: | ------------------: | :-------------------------------------- | :----------------------------- | ------------------: | :------------- | :------------------- | :---------------- | :------------------------------------------- | :---------------------------------------------------------- |
-|    1 | [National Univ of Singapore][42] | Master of Computing (CS Track)         | 1-1.5 Yr |  **INR 50.06 lakh** | Exceptional Asian tech & finance access | **INR 49.17 to 69.73 lakh**    |           8% to 15% | High Reach     | 15 Nov 2026          | Mar to Apr 2027   | Coursework aid limited; self-funded priority | Top technical brand in Asia; strict employment pass gate.   |
-|    2 | [National Univ of Singapore][42] | Master of Computing (AI Track)         | 1-1.5 Yr |  **INR 50.06 lakh** | Exceptional Asian tech access           | **INR 49.17 to 70.63 lakh**    |           6% to 12% | High Reach     | 15 Nov 2026          | Mar to Apr 2027   | Coursework funding limited                   | Best pure NUS fit for AI; test requirements apply.          |
-|    3 | [Nanyang Tech Univ (NTU)][43]    | MSc in Artificial Intelligence         | 1-1.5 Yr |  **INR 47.16 lakh** | Excellent research & industry links     | **INR 46.49 to 67.05 lakh**    |          10% to 18% | High Reach     | 15 Dec 2026          | Mar to May 2027   | NTU Alumni Grants / Specialised awards       | Strong technical AI curriculum; high fee structure.         |
-|    4 | [Nanyang Tech Univ (NTU)][43]    | MSc in Data Science                    | 1-1.5 Yr |  **INR 47.16 lakh** | Very good analytics market access       | **INR 44.70 to 64.37 lakh**    |          12% to 22% | Reach          | 15 Dec 2026          | Mar to May 2027   | Coursework funding limited                   | Better direct fit than cyber security for software profile. |
-|    5 | [Nanyang Tech Univ (NTU)][43]    | MSc in Cyber Security                  | 1-1.5 Yr |  **INR 47.16 lakh** | Very good security market access        | **INR 44.70 to 64.37 lakh**    |          15% to 25% | Reach          | 15 Dec 2026          | Mar to May 2027   | Coursework funding limited                   | Keep only if security projects are added before applying.   |
-|    6 | [Singapore Management Univ][44]  | Master of IT in Business (AI Track)    |   1 Year |  **INR 42.30 lakh** | Very good in enterprise tech & finance  | **INR 44.70 to 64.37 lakh**    |          20% to 35% | Reach / Target | 15 Jan 2027          | Mar to May 2027   | Affiliation discounts apply                  | Requires GRE/GMAT/SMU test; prior experience preferred.     |
-|    7 | [Nanyang Tech Univ (NTU)][45]    | MSc Enterprise Artificial Intelligence |   1 Year |  **INR 43.10 lakh** | Good for AI product & consulting        | **INR 42.50 to 61.80 lakh**    |          25% to 40% | Target         | 15 Dec 2026          | Mar to May 2027   | International funding limited                | Less technical than NTU MSc AI.                             |
-|    8 | [James Cook Univ Singapore][46]  | Master of Info Tech (AI Major)         |    16 Mo |  **INR 43.60 lakh** | Moderate local employer access          | **INR 34.00 to 50.00 lakh**    |          65% to 85% | Very Likely    | 1 Jun 2027           | Jul to Aug 2027   | Merit scholarships limited                   | Valid backup, but materially weaker than NUS/NTU/SMU.       |
-
-#### Financial Separation: Singapore (All Figures in INR)
-
-##### 1. Tuition and Mandatory Fees (INR)
-
-- **NUS Master of Computing:** Base tuition INR 50.06 lakh. Miscellaneous student fees INR 33,500. Total Tuition + Mandatory Fees: **INR 50.40 lakh**.
-- **NTU MSc AI:** Base tuition INR 47.16 lakh. Mandatory student fees INR 28,300. Total Tuition + Mandatory Fees: **INR 47.44 lakh**.
-
-##### 2. Cost of Living Breakdown (INR)
-
-| Expense Item                             | Monthly Cost (INR)        | Annual Cost (12 Months) (INR) |
-| :--------------------------------------- | :------------------------ | :---------------------------- |
-| Rent / Housing (HDB Room / Shared Condo) | INR 89,400                | INR 10.73 lakh                |
-| Food (Hawker Centres & Groceries)        | INR 40,975                | INR 4.92 lakh                 |
-| Utilities & Broadband                    | INR 8,195                 | INR 98,340                    |
-| Mobile Phone Plan                        | INR 1,863                 | INR 22,356                    |
-| Public Transport (MRT / Bus)             | INR 8,195                 | INR 98,340                    |
-| Health Insurance                         | INR 3,725                 | INR 44,700                    |
-| Personal & Miscellaneous                 | INR 14,900                | INR 1.79 lakh                 |
-| **Total Living Budget**                  | **INR 1.67 lakh / month** | **INR 20.07 lakh / year**     |
-
-##### 3. One-Time Setup Costs (INR)
-
-- Student Pass Processing & Issuance Fee: INR 8,940.
-- Flight Ticket (India to Singapore): INR 26,075.
-- Rental Deposit (1 Month Rent): INR 89,400.
-- Setup & Initial Supplies: INR 22,350.
-- **Total Setup Cost:** **INR 1.47 lakh**.
-
-##### 4. Total Estimated Cost Summary: Singapore (INR)
-
-- **NUS Master of Computing (1.5 Years):** Tuition INR 50.40 lakh + Living (18 Mo) INR 30.10 lakh + Setup INR 1.47 lakh = **INR 81.97 lakh**.
-- **NTU MSc AI (1.5 Years):** Tuition INR 47.44 lakh + Living (18 Mo) INR 30.10 lakh + Setup INR 1.47 lakh = **INR 79.01 lakh**.
-
-##### 5. Immigration and Settlement Pathway
-
-- **Post-Study Work Authorization:** Singapore does not offer an open post-study work visa. Graduates require direct employer sponsorship.
-- **Employment Pass (EP) Threshold (2027 Rules):** Minimum EP salary threshold is INR 4.47 lakh per month for young graduates (rising with age), plus qualification under the COMPASS points framework. Permanent Residency is discretionary.
-
-[↑ Back to top](#table-of-contents)
-
----
-
 ## 13. Substantially Expanded Scholarship and Financial Assistance Guide
 
 ### 13.1 Major Global and National Scholarships (All Values in INR)
@@ -686,16 +488,7 @@ Climate conditions directly affect personal health, clothing expenses, daily tra
 - **Co-op Earnings Math:** 4 months co-op @ INR 3.07 lakh/month = INR 12.28 lakh gross (approx. **INR 10.10 lakh net** after taxes).
 - **Net Cost Impact:** **Reduces SFU net cost with Vancouver relative support from INR 47.34 lakh down to INR 35.54 lakh total out-of-pocket**.
 
-#### 3. [Chevening Scholarships][105] (United Kingdom)
-
-- **Eligibility:** Indian citizens with at least 2 years (2,800 hours) work experience, applying to eligible 1-year master's degrees in the UK.
-- **Application Portal:** Online Chevening portal (`chevening.org`).
-- **Application Deadline:** Target 1 November 2026.
-- **Required Documents:** Four 500-word essays (Leadership, Networking, UK Study, Career Plan), two LORs, and unconditional offer letters.
-- **Award Value:** 100% full tuition, monthly stipend of **INR 1.74 lakh to INR 2.13 lakh per month**, flights, and visa fees.
-- **Net Cost Impact:** **Reduces UK total cost to INR 0 (100% fully funded)**.
-
-#### 4. UQ International High Achievers Award (Australia)
+#### 3. UQ International High Achievers Award (Australia)
 
 - **Eligibility:** Citizens of India enrolled full-time in an eligible degree at UQ with an academic score meeting 85%+.
 - **Application Process:** Assessed automatically during university application processing.
@@ -707,7 +500,7 @@ Climate conditions directly affect personal health, clothing expenses, daily tra
 
 - **Mechanisms:** Half-time assistantships require 15 to 20 hours per week of grading, lab instruction, or research assistance.
 - **Remuneration:** Includes a full or partial tuition waiver plus a monthly stipend (**INR 1.71 lakh to INR 2.67 lakh per month** in the US; **INR 1.23 lakh to INR 1.70 lakh per month** in Canada).
-- **Professional Programme Restrictions:** Professional coursework degrees (UIUC MCS, UW-Madison Professional MS, UBC MDS) restrict TA tuition waivers. SFU Professional MSc CS permits paid TA appointments at hourly rates (**INR 1,910 to INR 2,320 per hour**), but does not waive base tuition.
+- **Professional Programme Restrictions:** Professional coursework degrees (UBC MDS) restrict TA tuition waivers. SFU Professional MSc CS permits paid TA appointments at hourly rates (**INR 1,910 to INR 2,320 per hour**), but does not waive base tuition.
 
 [↑ Back to top](#table-of-contents)
 
@@ -722,8 +515,6 @@ Climate conditions directly affect personal health, clothing expenses, daily tra
 | **Primary Target #3** | [Dublin City University (DCU)][5], Ireland         | MSc in Computing (AI Pathway)        |  **INR 27.54 lakh** | Excellent 1-year budget option with 2-year [Stamp 1G][26] post-study work visa.             |
 | **Target / Reach #4** | [University of British Columbia (UBC)][74], Canada | Master of Data Science / MSc CS      |  **INR 40.79 lakh** | High brand prestige in Vancouver; evaluate tuition fit.                                     |
 | **Stretch Target #5** | [Univ. of Queensland (UQ)][16], Australia          | Master of Computer Science           |  **INR 39.15 lakh** | Strong ROI if admitted to 1.5-year route with 20% merit scholarship.                        |
-| **Stretch Target #6** | [University of Bristol][54], UK                    | MSc Artificial Intelligence          |  **INR 44.08 lakh** | High-quality 1-year specialist AI curriculum.                                               |
-| **High Reach #7**     | [Georgia Institute of Tech][99], USA               | MS in Computer Science               |  **INR 34.34 lakh** | Exceptional career upside; apply if low-cost US option is desired.                          |
 
 [↑ Back to top](#table-of-contents)
 
@@ -736,10 +527,7 @@ All monetary values in this document are displayed strictly in Indian Rupees (IN
 - **1 Canadian Dollar (CAD)** = 68.25 Indian Rupees (INR)
 - **1 Euro (EUR)** = 110.14 Indian Rupees (INR)
 - **1 Australian Dollar (AUD)** = 67.26 Indian Rupees (INR)
-- **1 British Pound (GBP)** = 128.88 Indian Rupees (INR)
-- **1 US Dollar (USD)** = 95.38 Indian Rupees (INR)
 - **1 New Zealand Dollar (NZD)** = 56.12 Indian Rupees (INR)
-- **1 Singapore Dollar (SGD)** = 74.50 Indian Rupees (INR)
 
 ### 15.2 Official Government, University, and Sentiment Sources
 
@@ -749,8 +537,6 @@ All monetary values in this document are displayed strictly in Indian Rupees (IN
 - **[5]** [DCU MSc in Computing][5]
 - **[6]** [University of Galway MSc Computer Science Artificial Intelligence][6]
 - **[8]** [Canada Post-Graduation Work Permit][8]
-- **[10]** [UK Immigration Rules Appendix Graduate][10]
-- **[12]** [US Visa Bulletin for July 2026][12]
 - **[14]** [University of Melbourne 2026 international fees][14]
 - **[15]** [Monash Master of Information Technology][15]
 - **[16]** [UQ Master of Computer Science][16]
@@ -771,43 +557,15 @@ All monetary values in this document are displayed strictly in Indian Rupees (IN
 - **[31]** [Canada Job Bank software engineer wages][31]
 - **[32]** [New Zealand post-study work][32]
 - **[33]** [New Zealand software developer pay][33]
-- **[34]** [UK software developer profile][34]
-- **[36]** [Manchester MSc Advanced Computer Science][36]
-- **[37]** [USCIS STEM OPT extension][37]
-- **[38]** [US software developer pay][38]
-- **[39]** [Wisconsin Professional MS][39]
-- **[40]** [Northeastern MS Computer Science][40]
-- **[41]** [ASU graduate admissions][41]
-- **[42]** [NUS Master of Computing fees][42]
-- **[43]** [NTU computing master's programmes][43]
-- **[44]** [SMU Master of IT in Business][44]
-- **[45]** [NTU MSc Enterprise Artificial Intelligence][45]
-- **[46]** [JCU Singapore Master of Information Technology][46]
-- **[47]** [Singapore Employment Pass eligibility][47]
-- **[48]** [Singapore fresh-graduate job opportunities][48]
 - **[49]** [SETU MSc Applied Artificial Intelligence][49]
 - **[50]** [SETU international fees][50]
 - **[51]** [ATU MSc Big Data Analytics and Artificial Intelligence][51]
 - **[52]** [Lincoln Master of Applied Computing][52]
 - **[53]** [EIT 2026 international programme fees][53]
-- **[54]** [Bristol MSc Artificial Intelligence][54]
-- **[55]** [Nottingham MSc Computer Science Artificial Intelligence][55]
-- **[56]** [Imperial MSc Advanced Computing][56]
-- **[57]** [Southampton MSc Computer Science][57]
-- **[58]** [Maryland MS Applied Machine Learning][58]
-- **[59]** [USC Viterbi master's tuition][59]
-- **[60]** [Federal Register DHS final rule on fixed F, J and I admission periods][60]
 - **[61]** [WEF Future of Jobs Report 2025][61]
-- **[62]** [BLS data scientist outlook][62]
-- **[63]** [BLS information security analyst outlook][63]
-- **[64]** [BLS computer and information research scientist outlook][64]
-- **[65]** [UCL Artificial Intelligence and Data Engineering MSc][65]
 - **[66]** [Reddit Ireland student visa timeline discussion][66]
 - **[67]** [Reddit TCD and UCD Ireland loan risk discussion][67]
-- **[68]** [Reddit US, UK and Australia MS decision discussion][68]
-- **[69]** [Reddit Singapore NUS MiM job market discussion][69]
 - **[70]** [Reddit r/Indians_StudyAbroad monthly top feed][70]
-- **[71]** [State Department July 2026 India EB-2 limit][71]
 - **[72]** [BC PNP Master's stream rules 2025/2026][72]
 - **[73]** [SFU Professional MSc in Computer Science][73]
 - **[74]** [UBC Master of Data Science][74]
@@ -831,17 +589,7 @@ All monetary values in this document are displayed strictly in Indian Rupees (IN
 - **[92]** [AUT Master of Computer and Information Sciences][92]
 - **[93]** [University of Otago Master of Applied Science][93]
 - **[94]** [Massey University Master of Information Sciences][94]
-- **[95]** [University of Birmingham MSc Advanced Computer Science][95]
-- **[96]** [University of Sheffield MSc Advanced Computer Science][96]
-- **[97]** [University of Leeds MSc Advanced Computer Science][97]
-- **[98]** [University of Edinburgh MSc Computer Science][98]
-- **[99]** [Georgia Tech MS in Computer Science][99]
-- **[100]** [UIUC Master of Computer Science][100]
-- **[101]** [NC State Master of Computer Science][101]
-- **[102]** [UC San Diego MS in Computer Science][102]
-- **[103]** [Carnegie Mellon MS in Software Engineering][103]
 - **[104]** [Government of Ireland International Education Scholarship][104]
-- **[105]** [UK Chevening Scholarships][105]
 
 [1]: https://www.xe.com/en-us/currencytables/?from=INR "Xe Currency Tables INR"
 [2]: https://www.unsw.edu.au/study/postgraduate/master-of-information-technology "UNSW Master of Information Technology"
@@ -849,8 +597,6 @@ All monetary values in this document are displayed strictly in Indian Rupees (IN
 [5]: https://www.dcu.ie/courses/postgraduate/school-computing/msc-computing "DCU MSc in Computing"
 [6]: https://www.universityofgalway.ie/courses/taught-postgraduate-courses/computer-science-artificial-intelligence.html "University of Galway MSc Computer Science Artificial Intelligence"
 [8]: https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html "Canada Post-Graduation Work Permit"
-[10]: https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-graduate "UK Immigration Rules Appendix Graduate"
-[12]: https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2026/visa-bulletin-for-july-2026.html "US Visa Bulletin for July 2026"
 [14]: https://students.unimelb.edu.au/__data/assets/pdf_file/0020/5423033/2026-International-Course-Tuition-Fees-OF_20251106.pdf "University of Melbourne 2026 international fees"
 [15]: https://www.monash.edu/study/courses/find-a-course/information-technology-c6001?international=true "Monash Master of Information Technology"
 [16]: https://study.uq.edu.au/study-options/programs/master-computer-science-5522?year=2026 "UQ Master of Computer Science"
@@ -871,43 +617,15 @@ All monetary values in this document are displayed strictly in Indian Rupees (IN
 [31]: https://www.jobbank.gc.ca/marketreport/wages-occupation/5485/ca "Canada Job Bank software engineer wages"
 [32]: https://www.immigration.govt.nz/study/after-you-finish-your-study/staying-to-work-after-finishing-your-study/ "New Zealand post-study work"
 [33]: https://tahatu.govt.nz/work/explore-career-ideas/occupation/T00131-Software-developer "New Zealand software developer pay"
-[34]: https://nationalcareers.service.gov.uk/job-profiles/software-developer "UK software developer profile"
-[36]: https://www.manchester.ac.uk/study/masters/courses/list/21573/msc-advanced-computer-science/ "Manchester MSc Advanced Computer Science"
-[37]: https://www.uscis.gov/working-in-the-united-states/students-and-exchange-visitors/optional-practical-training-extension-for-stem-students-stem-opt "USCIS STEM OPT extension"
-[38]: https://www.bls.gov/ooh/computer-and-information-technology/software-developers.htm "US software developer pay"
-[39]: https://guide.wisc.edu/graduate/computer-sciences/computer-sciences-ms/computer-sciences-professional-program-ms/ "Wisconsin Professional MS"
-[40]: https://graduate.northeastern.edu/programs/mscs-computer-science/ "Northeastern MS Computer Science"
-[41]: https://scai.engineering.asu.edu/graduate-admissions/ "ASU graduate admissions"
-[42]: https://www.comp.nus.edu.sg/programmes/pg/mcs/scholarships/ "NUS Master of Computing fees"
-[43]: https://www.ntu.edu.sg/computing/admissions/graduate-programmes/master-of-science-programmes "NTU computing master's programmes"
-[44]: https://masters.smu.edu.sg/programme/master-of-it-in-business "SMU Master of IT in Business"
-[45]: https://www.ntu.edu.sg/education/graduate-programme/master-of-science-in-enterprise-artificial-intelligence "NTU MSc Enterprise Artificial Intelligence"
-[46]: https://www.jcu.edu.sg/courses-and-study/courses/course/master-of-information-technology-majoring-in-software-engineering "JCU Singapore Master of Information Technology"
-[47]: https://www.mom.gov.sg/passes-and-permits/employment-pass/eligibility "Singapore Employment Pass eligibility"
-[48]: https://stats.mom.gov.sg/iMAS_PdfLibrary/List-of-entry-level-PMET-job-opportunities-for-fresh-graduates-Q4-2025.pdf "Singapore fresh-graduate job opportunities"
 [49]: https://www.setu.ie/courses/msc-in-applied-artificial-intelligence "SETU MSc Applied Artificial Intelligence"
 [50]: https://www.setu.ie/current-students/fees-and-grants/fees/global-fees "SETU international fees"
 [51]: https://noneuapply.atu.ie/courses/course/339-msc-master-science-computing-big-data-analytics-and-artificial-intelligence "ATU MSc Big Data Analytics and Artificial Intelligence"
 [52]: https://www.lincoln.ac.nz/study/study-programmes/programme-search/master-of-applied-computing/ "Lincoln Master of Applied Computing"
 [53]: https://www.eit.ac.nz/wp-content/uploads/programme-app-packs/int%20Programme%20Matrix.pdf "EIT 2026 international programme fees"
-[54]: https://www.bristol.ac.uk/study/postgraduate/taught/msc-artificial-intelligence/ "Bristol MSc Artificial Intelligence"
-[55]: https://www.nottingham.ac.uk/pgstudy/course/taught/2026/computer-science-or-computer-science-artificial-intelligence-msc "Nottingham MSc Computer Science Artificial Intelligence"
-[56]: https://www.imperial.ac.uk/study/courses/postgraduate-taught/advanced-computing/ "Imperial MSc Advanced Computing"
-[57]: https://www.southampton.ac.uk/courses/computer-science-masters-msc "Southampton MSc Computer Science"
-[58]: https://cmns.umd.edu/graduate/science-academy/machine-learning "Maryland MS Applied Machine Learning"
-[59]: https://viterbigradadmission.usc.edu/programs/masters/tuition-funding/tuition-funding-masters/ "USC Viterbi master's tuition"
-[60]: https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant "Federal Register DHS final rule on fixed F, J and I admission periods"
 [61]: https://www.weforum.org/publications/the-future-of-jobs-report-2025/digest/ "WEF Future of Jobs Report 2025"
-[62]: https://www.bls.gov/ooh/math/data-scientists.htm "BLS data scientist outlook"
-[63]: https://www.bls.gov/ooh/computer-and-information-technology/information-security-analysts.htm "BLS information security analyst outlook"
-[64]: https://www.bls.gov/ooh/computer-and-information-technology/computer-and-information-research-scientists.htm "BLS computer and information research scientist outlook"
-[65]: https://www.ucl.ac.uk/prospective-students/graduate/taught-degrees/artificial-intelligence-and-data-engineering-msc "UCL Artificial Intelligence and Data Engineering MSc"
 [66]: https://www.reddit.com/r/Indians_StudyAbroad/comments/1v344kk/ireland_student_visa_processing_time_submitted/ "Reddit Ireland student visa timeline discussion"
 [67]: https://www.reddit.com/r/Indians_StudyAbroad/comments/1v2tejp/business_analytics_and_ai_from_tcd_experience/ "Reddit TCD and UCD Ireland loan risk discussion"
-[68]: https://www.reddit.com/r/Indians_StudyAbroad/comments/1v2qxrk/do_you_think_an_ms_makes_sense_with_my_profile/ "Reddit US, UK and Australia MS decision discussion"
-[69]: https://www.reddit.com/r/Indians_StudyAbroad/comments/1v2p5l0/what_is_the_job_market_like_for_international_nus/ "Reddit Singapore NUS MiM job market discussion"
 [70]: https://www.reddit.com/r/Indians_StudyAbroad/top/?t=month "Reddit r/Indians_StudyAbroad monthly top feed"
-[71]: https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin/2026/visa-bulletin-for-july-2026.html#_Employment-based_Number_Use "State Department July 2026 India EB-2 limit"
 [72]: https://www.welcomebc.ca/Immigrate-to-B-C/BC-PNP-Skills-Immigration "BC PNP Master's stream rules 2025/2026"
 [73]: https://www.sfu.ca/computing/prospective-students/graduate-students/professional-programs.html "SFU Professional MSc in Computer Science"
 [74]: https://masterds.ubc.ca/ "UBC Master of Data Science"
@@ -931,14 +649,4 @@ All monetary values in this document are displayed strictly in Indian Rupees (IN
 [92]: https://www.aut.ac.nz/study/study-options/engineering-computer-and-mathematical-sciences/courses/master-of-computer-and-information-sciences "AUT Master of Computer and Information Sciences"
 [93]: https://www.otago.ac.nz/courses/qualifications/masc.html "University of Otago Master of Applied Science"
 [94]: https://www.massey.ac.nz/study/all-qualifications-and-degrees/master-of-information-sciences-MINSC/ "Massey University Master of Information Sciences"
-[95]: https://www.birmingham.ac.uk/postgraduate/courses/taught/computer-science/advanced-computer-science "University of Birmingham MSc Advanced Computer Science"
-[96]: https://www.sheffield.ac.uk/postgraduate/taught/courses/2026/advanced-computer-science-msc "University of Sheffield MSc Advanced Computer Science"
-[97]: https://courses.leeds.ac.uk/g313/advanced-computer-science-msc "University of Leeds MSc Advanced Computer Science"
-[98]: https://www.ed.ac.uk/studying/postgraduate/degrees/index.php?r=site/view&id=107 "University of Edinburgh MSc Computer Science"
-[99]: https://www.cc.gatech.edu/ms-computer-science "Georgia Tech MS in Computer Science"
-[100]: https://cs.illinois.edu/academics/graduate/professional-mcs-program "UIUC Master of Computer Science"
-[101]: https://www.csc.ncsu.edu/academics/graduate/degrees/mscs.php "NC State Master of Computer Science"
-[102]: https://cse.ucsd.edu/graduate/degree-programs/ms-program "UC San Diego MS in Computer Science"
-[103]: https://sv.cmu.edu/academics/ms-se.html "Carnegie Mellon MS in Software Engineering"
 [104]: https://hea.ie/policy/internationalisation/goi-ies/ "Government of Ireland International Education Scholarship"
-[105]: https://www.chevening.org/ "UK Chevening Scholarships"
