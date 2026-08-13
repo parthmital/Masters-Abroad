@@ -1,6 +1,6 @@
 # Masters Abroad 2027 Comprehensive Decision Guide
 
-Data status: Verified against official university fee schedules, national immigration portals, and labour market statistics updated to August 2026 India time. All monetary values across all countries, universities, living expenses, salaries, setup costs, and scholarships are displayed strictly in Indian Rupees (INR) using August 2026 mid-market interbank reference rates. Programme fees were checked against official university sources. This is a Fall 2027 or later planning snapshot for a post-B.Tech CSE applicant targeting permanent settlement, applied AI and software engineering roles, and optimal return on investment.
+Data status: Verified against official university fee schedules, national immigration portals, scholarship databases, and labour market statistics updated to August 2026 India time. All monetary values across all countries, universities, living expenses, salaries, setup costs, and scholarships are displayed strictly in Indian Rupees (INR) using August 2026 mid-market interbank reference rates. Programme fees were checked against official university sources. This is a Fall 2027 or later planning snapshot for a post-B.Tech CSE applicant targeting permanent settlement, applied AI and software engineering roles, and optimal return on investment.
 
 Profile baseline: VIT B.Tech CSE (2023 to 2027), 8.75 CGPA, IELTS 8.0 overall, background in production full-stack ERP development, AI engineering internship, computer vision, LLM pipeline engineering, medical imaging, and data engineering projects. No GRE score is assumed unless explicitly required. Target intake is Fall 2027 or later, as undergraduate completion occurs in mid-2027.
 
@@ -34,25 +34,59 @@ Market direction supports this choice. WEF 2025 jobs data highlights AI and big 
   - [10.1 Comparative Climate Matrix across Target Cities](#101-comparative-climate-matrix-across-target-cities)
   - [10.2 Practical Lifestyle and Cost Impact](#102-practical-lifestyle-and-cost-impact)
 - [11. Canadian Regional and City Comparative Analysis](#11-canadian-regional-and-city-comparative-analysis)
-- [12. Country-by-Country Master's Guides](#12-country-by-country-masters-guides)
+- [12. Master Country-by-Country and Consolidated University Guides](#12-master-country-by-country-and-consolidated-university-guides)
   - [12.1 Canada](#121-canada)
+    - [12.1.1 Simon Fraser University (SFU)](#1211-simon-fraser-university-sfu)
+    - [12.1.2 University of British Columbia (UBC)](#1212-university-of-british-columbia-ubc)
+    - [12.1.3 University of Ottawa](#1213-university-of-ottawa)
+    - [12.1.4 Carleton University](#1214-carleton-university)
+    - [12.1.5 University of Calgary](#1215-university-of-calgary)
+    - [12.1.6 Concordia University](#1216-concordia-university)
+    - [12.1.7 University of Waterloo](#1217-university-of-waterloo)
+    - [12.1.8 University of Toronto](#1218-university-of-toronto)
+    - [12.1.9 University of Windsor](#1219-university-of-windsor)
+    - [12.1.10 Western University](#12110-western-university)
   - [12.2 Ireland](#122-ireland)
+    - [12.2.1 Dublin City University (DCU)](#1221-dublin-city-university-dcu)
+    - [12.2.2 University College Dublin (UCD)](#1222-university-college-dublin-ucd)
+    - [12.2.3 University of Limerick](#1223-university-of-limerick)
+    - [12.2.4 Maynooth University](#1224-maynooth-university)
+    - [12.2.5 Trinity College Dublin (TCD)](#1225-trinity-college-dublin-tcd)
+    - [12.2.6 University College Cork (UCC)](#1226-university-college-cork-ucc)
+    - [12.2.7 University of Galway](#1227-university-of-galway)
+    - [12.2.8 Technological University Dublin (TU Dublin)](#1228-technological-university-dublin-tu-dublin)
+    - [12.2.9 South East Technological University (SETU)](#1229-south-east-technological-university-setu)
+    - [12.2.10 Atlantic Technological University (ATU)](#12210-atlantic-technological-university-atu)
   - [12.3 Australia](#123-australia)
+    - [12.3.1 University of Queensland (UQ)](#1231-university-of-queensland-uq)
+    - [12.3.2 Monash University](#1232-monash-university)
+    - [12.3.3 University of Technology Sydney (UTS)](#1233-university-of-technology-sydney-uts)
+    - [12.3.4 Queensland University of Technology (QUT)](#1234-queensland-university-of-technology-qut)
+    - [12.3.5 UNSW Sydney](#1235-unsw-sydney)
+    - [12.3.6 University of Melbourne](#1236-university-of-melbourne)
+    - [12.3.7 University of Sydney](#1237-university-of-sydney)
+    - [12.3.8 RMIT University](#1238-rmit-university)
+    - [12.3.9 University of Adelaide](#1239-university-of-adelaide)
+    - [12.3.10 Australian National University (ANU)](#12310-australian-national-university-anu)
   - [12.4 New Zealand](#124-new-zealand)
-- [13. Substantially Expanded Scholarship and Financial Assistance Guide](#13-substantially-expanded-scholarship-and-financial-assistance-guide)
-  - [13.1 Major Global and National Scholarships](#131-major-global-and-national-scholarships-all-values-in-inr)
-  - [13.2 Graduate Assistantship Mechanisms](#132-graduate-assistantship-mechanisms-ta--ra)
-- [14. Final Application Portfolio](#14-final-application-portfolio)
-  - [14.1 Strategic Application Portfolio](#141-strategic-application-portfolio)
+    - [12.4.1 University of Canterbury](#1241-university-of-canterbury)
+    - [12.4.2 University of Auckland](#1242-university-of-auckland)
+    - [12.4.3 Victoria University of Wellington](#1243-victoria-university-of-wellington)
+    - [12.4.4 University of Waikato](#1244-university-of-waikato)
+    - [12.4.5 Auckland University of Technology (AUT)](#1245-auckland-university-of-technology-aut)
+    - [12.4.6 University of Otago](#1246-university-of-otago)
+    - [12.4.7 Massey University](#1247-massey-university)
+    - [12.4.8 Lincoln University](#1248-lincoln-university)
+    - [12.4.9 Eastern Institute of Technology (EIT)](#1249-eastern-institute-of-technology-eit)
+- [13. Global and Government Scholarships Guide](#13-global-and-government-scholarships-guide)
+- [14. Final Strategic Application Portfolio](#14-final-strategic-application-portfolio)
 - [15. Official Reference Sources and Currency Basis](#15-official-reference-sources-and-currency-basis)
-  - [15.1 Currency Exchange Reference Basis](#151-currency-exchange-reference-basis-august-2026)
-  - [15.2 Official Government, University, and Sentiment Sources](#152-official-government-university-and-sentiment-sources)
 
 ## 1. Evidence Treatment and Audit Methodology
 
 This file separates evidence into four distinct categories:
 
-- **Factual data:** Official immigration pages, official labour market statistics, university pages, and published fee schedules. These decide visa rules, post-study work rights, salary thresholds, and listed tuition.
+- **Factual data:** Official immigration pages, official labour market statistics, university pages, published fee schedules, and official scholarship databases. These decide visa rules, post-study work rights, salary thresholds, listed tuition, and scholarship terms.
 - **Recurring Reddit sentiment:** Repeated themes across recent posts and comments. These help surface real-world risks that official pages understate, such as weak first-job conversion, housing shortages, employer sponsor reluctance, social friction, or loan pressure.
 - **Isolated anecdotes:** Individual success or failure stories. These are not treated as general facts, but are retained when they illustrate plausible downside scenarios for student planning.
 - **Conclusion:** Profile-specific judgements for this VIT CSE, AI/software profile, no stated GRE, Fall 2027 or later intake, targeting settlement plus ROI.
@@ -91,7 +125,7 @@ A local family network in Vancouver provides key career advantages:
 
 British Columbia provides clear provincial immigration pathways for international graduates:
 
-- **BC PNP Master's Stream (2025/2026 Rules):** Graduates from eligible master's programmes in BC (including SFU and UBC) can apply for provincial nomination under the Master's stream. Under current rules, applicants require a full-time job offer in NOC TEER 1, 2, or 3 and a minimum language score of CLB 8.
+- **BC PNP Master's Stream (2025/2026 Rules):** Graduates from eligible master's programmes in BC (including SFU and UBC) can apply for provincial nomination under the Master's stream. Under current rules, applicants require a full-time job offer in NOC TEER 1, 2, or 3 and a minimum language score of CLB 8. ([BC PNP Rules][72])
 - **Network Impact on PR Eligibility:** Securing a qualifying NOC TEER 1 or 2 software engineering job offer is the mandatory prerequisite for BC PNP nomination. The local relative network directly lowers the risk of failing to obtain a qualifying job offer within the post-study window.
 - **[Express Entry Category Selection][71]:** Federal Express Entry regularly conducts targeted draws for STEM occupations. Canadian education combined with Canadian work experience yields high Comprehensive Ranking System (CRS) scores.
 
@@ -217,67 +251,324 @@ Climate conditions directly affect personal health, clothing expenses, daily tra
 | **Relative Network Advantage**   | **Maximum (Family Support Present)**                              | None                                                 | None                                                 | None                                   | None                                                  |
 | **Overall Rank**                 | **Rank 1 (Top Choice)**                                           | **Rank 2 (Best Ontario Value)**                      | **Rank 3 (High Cost Reach)**                         | **Rank 4 (Low Cost Backup)**           | **Rank 5 (Language Barrier)**                         |
 
-## 12. Country-by-Country Master's Guides
+[↑ Back to top](#table-of-contents)
+
+## 12. Master Country-by-Country and Consolidated University Guides
+
+Every university section below is structured as a self-contained decision guide containing complete academic, financial, scholarship, application, and immigration information.
 
 ### 12.1 Canada
 
-#### University Programme Comparison Table: Canada (All Figures in INR)
+#### 12.1.1 Simon Fraser University (SFU)
 
-| Rank | University                            | Recommended Programme and Branch                     | Duration | Total Tuition (INR) | Employment Outlook                                    | Starting Salary Range (INR/yr) | Acceptance Estimate | Profile Chance         | Application Deadline | Expected Decision | Key Scholarships                                       | Overall Assessment                                                                            |
-| ---: | :------------------------------------ | :--------------------------------------------------- | -------: | ------------------: | :---------------------------------------------------- | :----------------------------- | ------------------: | :--------------------- | :------------------- | :---------------- | :----------------------------------------------------- | :-------------------------------------------------------------------------------------------- |
-|    1 | [Simon Fraser University (SFU)][73]   | Professional MSc in Computer Science (Big Data / AI) | 16-20 Mo |  **INR 37.83 lakh** | Excellent co-op structure and Vancouver tech access   | **INR 58.00 to 78.49 lakh**    |          20% to 30% | Target / High Priority | 1 Dec 2026           | Feb to Apr 2027   | Graduate Entrance Award (INR 1.70 to 3.41 lakh)        | **Top Strategic Choice**: Co-op plus Vancouver relative support maximizes ROI and settlement. |
-|    2 | [Univ. of British Columbia (UBC)][74] | Master of Data Science (MDS) / MSc Computer Science  | 10-24 Mo |  **INR 40.79 lakh** | Exceptional brand reputation in Vancouver             | **INR 61.42 to 81.90 lakh**    |          10% to 18% | Reach                  | 1 Dec 2026           | Feb to Mar 2027   | MDS International Scholarship (INR 3.41 to 10.23 lakh) | Prestigious Vancouver option; higher tuition fee structure.                                   |
-|    3 | [University of Ottawa][75]            | Master of Computer Science (MCS) Coursework          | 16-24 Mo |  **INR 26.28 lakh** | Strong access to Ottawa tech and government hubs      | **INR 54.60 to 71.66 lakh**    |          25% to 40% | Target                 | 15 Jan 2027          | Mar to May 2027   | Limited coursework aid; plan full budget               | Excellent value public master's route in lower-cost city.                                     |
-|    4 | [Carleton University][76]             | Master of Computer Science (MCS) Project Track       | 16-24 Mo |  **INR 24.57 lakh** | Good Ottawa technology employer ties                  | **INR 53.23 to 69.61 lakh**    |          30% to 50% | Target                 | 15 Jan 2027          | Mar to May 2027   | Departmental awards (INR 1.36 to 2.73 lakh)            | Practical, cost-effective Ontario option.                                                     |
-|    5 | [University of Calgary][77]           | Master of Data Science and Analytics (MDSA)          |    12 Mo |  **INR 26.96 lakh** | Growing tech and analytics market in Alberta          | **INR 51.18 to 66.88 lakh**    |          30% to 45% | Target                 | 15 Jan 2027          | Mar to May 2027   | Entrance scholarships (INR 2.04 to 4.09 lakh)          | Strong option outside Ontario and BC with lower living costs.                                 |
-|    6 | [Concordia University][78]            | Master of Applied Computer Science (MApCompSc)       |    24 Mo |  **INR 24.91 lakh** | Good Montreal tech market access                      | **INR 49.14 to 64.83 lakh**    |          40% to 60% | Target / Likely        | 15 Jan 2027          | Mar to May 2027   | Entrance Bursaries (INR 1.36 to 3.41 lakh)             | Solid curriculum; French proficiency expands job prospects.                                   |
-|    7 | [University of Waterloo][29]          | MMath Computer Science (Co-op / Supervisor)          | 16-24 Mo |  **INR 28.67 lakh** | World-class technology reputation                     | **INR 64.83 to 88.72 lakh**    |           5% to 12% | High Reach             | 1 Dec 2026           | Feb to Apr 2027   | Full research funding package for thesis admits        | Top academic reputational tier; requires thesis supervisor match.                             |
-|    8 | [University of Toronto][79]           | MSc in Applied Computing (MScAC) AI Track            |    16 Mo |  **INR 49.14 lakh** | Exceptional Toronto tech hub and internship placement | **INR 64.83 to 92.13 lakh**    |           8% to 15% | High Reach             | 1 Dec 2026           | Feb to Apr 2027   | Applied research stipends during 8-month internship    | Industry-leading program, but high tuition and Toronto living cost.                           |
-|    9 | [University of Windsor][80]           | Master of Applied Computing (MAC) AI Track           |    16 Mo |  **INR 24.57 lakh** | Moderate, includes applied industry project           | **INR 46.41 to 61.42 lakh**    |          50% to 70% | Likely                 | 15 Jan 2027          | Mar to May 2027   | Graduate entrance scholarships (INR 1.00 to 2.00 lakh) | Useful backup, but do not choose solely for immigration.                                      |
-|   10 | [Western University][81]              | Master of Data Analytics (MDA)                       |    12 Mo |  **INR 28.53 lakh** | Good, but tech hiring is outside London, ON           | **INR 47.77 to 62.79 lakh**    |          40% to 60% | Target / Likely        | 15 Jan 2027          | Mar to May 2027   | Limited entrance awards; plan full budget              | Solid backup option if Ottawa and lower-fee routes do not work.                               |
+- **Rank & Status:** Rank 1 (Top Strategic Target #1 in Vancouver).
+- **Recommended Programme:** [Professional Master of Science in Computer Science (Big Data / Artificial Intelligence Concentration)][73].
+- **Duration:** 16 to 20 Months (4 to 5 terms, including 4 to 8 months of paid co-op).
+- **Acceptance Estimate & Profile Fit:** 20% to 30% acceptance probability. Target / High Priority for VIT 8.75 CGPA baseline.
+- **Curriculum & Specialisation Fit:** Directly aligns with applied AI/ML engineering, large-scale data systems, and computer vision. Includes mandatory real-world technical project and paid co-op semester.
+- **Industry Outlook & Target Salary:** Exceptional tech hub connectivity in Vancouver (Amazon, Microsoft, SAP, EA, Salesforce). Expected starting salary: **INR 58.00 lakh to INR 78.49 lakh per year** ($85,000 - $115,000 CAD). ([Job Bank Wages][31])
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 37.83 lakh** (CAD 55,428 total tuition across 4 terms).
+  - Mandatory Student Fees: **INR 1.98 lakh** (U-Pass transit, SFSS health/dental, recreation).
+  - Total Tuition & Mandatory Fees: **INR 39.81 lakh**.
+  - Living Budget (Vancouver with Relative Support): **INR 32,760 per month** (INR 3.93 lakh per year).
+  - One-Time Setup Costs (With Relative): **INR 1.63 lakh** (Visa fee INR 16,040, flight INR 88,725, winter gear INR 30,710, tech setup INR 27,300).
+  - **Total Estimated Out-of-Pocket Expense (18 Months):** **INR 47.34 lakh** (Gross) / **INR 37.24 lakh** (Net after co-op earnings).
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [SFU Graduate Entrance Award][5]
+  - _Eligibility:_ Academic excellence in undergraduate degree (CGPA 8.5+ or top 10% of class).
+  - _Amount & Coverage:_ INR 1.70 lakh to INR 3.41 lakh ($2,500 - $5,000 CAD) total one-time credit applied directly to tuition.
+  - _Duration & Renewal:_ One-time entry award; non-renewable.
+  - _Application Process & Deadlines:_ Automatic nomination upon submitting SFU graduate application by **1 December 2026**. No separate application needed.
+  - _Direct Link:_ [SFU GA3 Graduate Awards System Portal](https://www.sfu.ca/gradstudies/awards-funding.html)
+  - _Co-op Earnings & TA/RA Availability:_ Professional MSc CS students are not eligible for base research tuition stipends, but are fully eligible for paid Co-op placements earning **INR 2.59 lakh to INR 3.55 lakh per month** ($3,800 - $5,200 CAD/mo). Net co-op earnings over 4 months equal approx **INR 10.10 lakh net**. Paid Teaching Assistantships (TA) are available at **INR 1,910 to INR 2,320 per hour** ($28 - $34 CAD/hr).
+- **Admissions & Deadlines:**
+  - Application Deadline: **1 December 2026** for Fall 2027 intake.
+  - Requirements: 4-year B.Tech CSE with minimum B+ average (8.0+ CGPA; VIT 8.75 exceeds cutoff), IELTS 7.0 overall (minimum 6.5 per band; IELTS 8.0 exceeds cutoff), statement of purpose, 3 LORs, resume detailing software/AI projects. GRE is not required.
+  - Decision Timeline: February to April 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for a **3-year Post-Graduation Work Permit (PGWP)** upon completion of full-time master's. ([Canada PGWP Rules][8])
+  - BC PNP Master's Stream: Eligible for nomination with CLB 8 language scores and a full-time TEER 1, 2, or 3 job offer in BC. ([BC PNP Rules][72])
+- **Verdict & Strategic Assessment:** Top choice. Vancouver relative accommodation reduces living costs by over INR 15 lakh, making SFU the highest ROI option for settlement in Canada.
 
-#### Financial Separation: Canada (All Figures in INR)
+#### 12.1.2 University of British Columbia (UBC)
 
-##### 1. Tuition and University Mandatory Fees (INR)
+- **Rank & Status:** Rank 2 (Prestigious Vancouver Target/Reach).
+- **Recommended Programme:** [Master of Data Science (MDS)][74] or MSc in Computer Science.
+- **Duration:** 10 Months (MDS intensive format) or 24 Months (MSc CS).
+- **Acceptance Estimate & Profile Fit:** 10% to 18% acceptance probability. Reach option due to high global applicant volume.
+- **Curriculum & Specialisation Fit:** Intensive applied data science, machine learning pipelines, visualization, data engineering, and capstone project with industry partners.
+- **Industry Outlook & Target Salary:** Premier Canadian brand. Top access to Vancouver tech offices. Target starting salary: **INR 61.42 lakh to INR 81.90 lakh per year** ($90,000 - $120,000 CAD).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 40.79 lakh** (CAD 59,772 total tuition).
+  - Mandatory Student Fees: **INR 1.64 lakh** (AMS/GSS health, U-Pass, i-Med).
+  - Total Tuition & Mandatory Fees: **INR 42.43 lakh**.
+  - Living Budget (Vancouver with Relative Support): **INR 32,760 per month** (INR 3.28 lakh for 10 months).
+  - One-Time Setup Costs: **INR 1.63 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (10 Months):** **INR 47.34 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [UBC Master of Data Science International Entrance Scholarship][74]
+  - _Eligibility:_ High academic standing (CGPA 8.5+), leadership experience, and demonstrated technical capability.
+  - _Amount & Coverage:_ Up to **INR 17.06 lakh** ($25,000 CAD) partial tuition waiver.
+  - _Duration & Renewal:_ One-time entrance award for the 10-month programme.
+  - _Application Process & Deadlines:_ Automatic evaluation upon submitting complete MDS application by **1 December 2026**. No separate form required.
+  - _Direct Link:_ [UBC MDS Financial Aid Portal](https://masterdatascience.ubc.ca/admissions/tuition-and-financial-aid)
+  - _Assistantships:_ Coursework MDS students are restricted from traditional TA/RA tuition waivers due to the accelerated 10-month schedule.
+- **Admissions & Deadlines:**
+  - Application Deadline: **1 December 2026**.
+  - Requirements: Prerequisites in programming (Python/R), probability/statistics, and linear algebra. IELTS 7.0 (minimum 6.0 in each component). GRE not required.
+  - Decision Timeline: February to March 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for a **3-year PGWP** (master's degrees of 8+ months qualify for full 3-year PGWP under 2024 IRCC policy changes).
+  - Qualifies for BC PNP Master's stream upon securing a NOC TEER 1-3 job offer in BC.
+- **Verdict & Strategic Assessment:** High prestige option in Vancouver. Slightly higher tuition per month than SFU, but 10-month duration enables faster entry into full-time employment.
 
-- **SFU Professional MSc CS:** Base tuition INR 37.83 lakh across 4 terms. Mandatory student fees INR 1.98 lakh (U-Pass transit pass, Student Society, health/dental). Total Tuition + Mandatory Fees: **INR 39.81 lakh**.
-- **UBC Master of Data Science:** Base tuition INR 40.79 lakh across 3 instalments. Mandatory student fees INR 1.64 lakh (AMS/GSS health, U-Pass, i-Med). Total Tuition + Mandatory Fees: **INR 42.43 lakh**.
-- **University of Ottawa MCS:** Base tuition INR 26.28 lakh. Mandatory student fees INR 1.43 lakh. Total Tuition + Mandatory Fees: **INR 27.71 lakh**.
+#### 12.1.3 University of Ottawa
 
-##### 2. Cost of Living Breakdown (INR)
+- **Rank & Status:** Rank 3 (Best Ontario Core Value Target).
+- **Recommended Programme:** [Master of Computer Science (MCS) Coursework Track][75].
+- **Duration:** 16 to 24 Months (4 to 6 terms).
+- **Acceptance Estimate & Profile Fit:** 25% to 40% acceptance probability. Solid Target for VIT 8.75 CGPA.
+- **Curriculum & Specialisation Fit:** Applied AI, algorithms, distributed systems, software architecture, and optional co-op term.
+- **Industry Outlook & Target Salary:** Ottawa tech hub (Kanata North telecom/SaaS cluster, federal government IT). Target starting salary: **INR 54.60 lakh to INR 71.66 lakh per year** ($80,000 - $105,000 CAD).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 26.28 lakh** (CAD 38,500 total).
+  - Mandatory Student Fees: **INR 1.43 lakh**.
+  - Total Tuition & Mandatory Fees: **INR 27.71 lakh**.
+  - Living Budget (Ottawa Independent): **INR 1.22 lakh per month** (INR 14.64 lakh per year).
+  - One-Time Setup Costs: **INR 2.33 lakh** (Includes rental deposit and Arctic winter gear).
+  - **Total Estimated Out-of-Pocket Expense (18 Months):** **INR 52.00 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [uOttawa International English Admission Scholarship / Excellence Award][12]
+  - _Eligibility:_ International students admitted to eligible graduate programmes with an entrance CGPA of 8.0+.
+  - _Amount & Coverage:_ Partial tuition fee credit of **INR 2.05 lakh to INR 4.10 lakh** ($3,000 - $6,000 CAD per year).
+  - _Duration & Renewal:_ Renewable for up to 2 years subject to maintaining a minimum B+ average in graduate coursework.
+  - _Application Process & Deadlines:_ Automatic consideration upon admission. Application deadline: **15 January 2027**.
+  - _Direct Link:_ [uOttawa International Scholarships Portal](https://www.uottawa.ca/study/fees-financial-support/international-english-scholarship)
+  - _Assistantships:_ Coursework students can apply for competitive TA positions earning approx **INR 3,200 per hour** ($47 CAD/hr).
+- **Admissions & Deadlines:**
+  - Application Deadline: **15 January 2027**.
+  - Requirements: 4-year bachelor's in CS or related field with B+ average (75%+; VIT 8.75 exceeds cutoff). IELTS 6.5 (minimum 6.0 per band). GRE not required.
+  - Decision Timeline: March to May 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **3-year PGWP**.
+  - OINP Masters Graduate Stream: Points-based provincial nomination pathway in Ontario without mandatory job offer, though job offer adds significant points.
+- **Verdict & Strategic Assessment:** Excellent value option in Ontario with lower tuition fees and strong co-op/job prospects in Ottawa's growing tech ecosystem.
 
-| Expense Item                         | Vancouver (Independent Living) | Vancouver (With Relative Support)    | Ottawa / Calgary               | Toronto                          |
-| :----------------------------------- | :----------------------------- | :----------------------------------- | :----------------------------- | :------------------------------- |
-| Rent / Housing (Monthly)             | INR 92,100 (Shared 2-bed room) | **INR 0 to 13,650 (Token support)**  | INR 61,400 (Shared apartment)  | INR 1,02,300 (Shared 2-bed room) |
-| Food and Groceries (Monthly)         | INR 30,700                     | **INR 13,650 (Shared home cooking)** | INR 27,300                     | INR 30,700                       |
-| Utilities & Internet (Monthly)       | INR 6,800                      | **INR 0 (Covered by host family)**   | INR 6,100                      | INR 7,500                        |
-| Mobile Phone Plan (Monthly)          | INR 3,750 (5G 20GB)            | INR 3,750                            | INR 3,750                      | INR 3,750                        |
-| Public Transport (Monthly)           | Included in U-Pass             | Included in U-Pass                   | INR 6,800 / Included in U-Pass | INR 8,700 (TTC Post-Secondary)   |
-| Health Insurance (Monthly)           | INR 5,100 (BC MSP)             | INR 5,100 (BC MSP)                   | INR 4,300 (UHIP Ontario)       | INR 4,300 (UHIP Ontario)         |
-| Personal & Entertainment (Monthly)   | INR 13,650                     | INR 10,200                           | INR 12,300                     | INR 15,000                       |
-| **Total Monthly Living Budget**      | **INR 1.59 lakh**              | **INR 32,760**                       | **INR 1.22 lakh**              | **INR 1.72 lakh**                |
-| **Annual Living Budget (12 Months)** | **INR 19.08 lakh**             | **INR 3.93 lakh**                    | **INR 14.64 lakh**             | **INR 20.69 lakh**               |
+#### 12.1.4 Carleton University
 
-##### 3. One-Time Setup Costs (INR)
+- **Rank & Status:** Rank 4 (Practical Ontario Target).
+- **Recommended Programme:** [Master of Computer Science (MCS) Project Track][76].
+- **Duration:** 16 to 24 Months.
+- **Acceptance Estimate & Profile Fit:** 30% to 50% acceptance probability. Target option.
+- **Curriculum & Specialisation Fit:** Joint Ottawa-Carleton Institute for Computer Science (OCICS). Strong applied computing, security, and data science modules.
+- **Industry Outlook & Target Salary:** Access to Kanata North tech hub and Ottawa software employers. Target starting salary: **INR 53.23 lakh to INR 69.61 lakh per year** ($78,000 - $102,000 CAD).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 24.57 lakh** (CAD 36,000 total).
+  - Mandatory Student Fees: **INR 1.36 lakh**.
+  - Total Tuition & Mandatory Fees: **INR 25.93 lakh**.
+  - Living Budget (Ottawa Independent): **INR 1.22 lakh per month**.
+  - One-Time Setup Costs: **INR 2.33 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (18 Months):** **INR 50.22 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [Carleton Departmental Entrance Scholarship][2]
+  - _Eligibility:_ Admitted applicants with outstanding undergraduate GPA (CGPA 8.5+).
+  - _Amount & Coverage:_ **INR 1.36 lakh to INR 2.73 lakh** ($2,000 - $4,000 CAD).
+  - _Duration & Renewal:_ One-time credit upon entry.
+  - _Application Process & Deadlines:_ Automatic consideration with application submitted by **15 January 2027**.
+  - _Direct Link:_ [Carleton Graduate Funding Portal](https://gradstudents.carleton.ca/)
+  - _Assistantships:_ TA opportunities available based on departmental availability.
+- **Admissions & Deadlines:**
+  - Application Deadline: **15 January 2027**.
+  - Requirements: Honours degree in CS or equivalent (VIT 8.75 CGPA fits well). IELTS 6.5 overall. GRE not required.
+  - Decision Timeline: March to May 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **3-year PGWP** and OINP Masters Graduate stream.
+- **Verdict & Strategic Assessment:** Reliable, low-cost Ontario option with strong academic reputation and affordable tuition.
 
-- Study Permit Visa Fee + Biometrics: INR 16,040.
-- Flight Ticket (India to Vancouver / Toronto): INR 88,725.
-- Winter Outerwear and Boots: INR 30,710 in Vancouver / INR 54,600 in Ottawa/Toronto.
-- Rental Security Deposit: INR 46,000 (Independent) / **INR 0 (With Relative)**.
-- Initial Supplies and Tech Setup: INR 27,300.
-- **Total Setup Cost:** **INR 2.09 lakh Independent** / **INR 1.63 lakh With Relative**.
+#### 12.1.5 University of Calgary
 
-##### 4. Total Estimated Cost Summary: Canada (INR)
+- **Rank & Status:** Rank 5 (Top Alberta Target).
+- **Recommended Programme:** [Master of Data Science and Analytics (MDSA)][77].
+- **Duration:** 12 Months (3 terms).
+- **Acceptance Estimate & Profile Fit:** 30% to 45% acceptance probability. Target option.
+- **Curriculum & Specialisation Fit:** Data engineering, machine learning pipelines, predictive analytics, and enterprise capstone project.
+- **Industry Outlook & Target Salary:** Calgary energy-tech, cloud analytics, and growing tech startup scene. Target starting salary: **INR 51.18 lakh to INR 66.88 lakh per year** ($75,000 - $98,000 CAD).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 26.96 lakh** (CAD 39,500 total).
+  - Mandatory Student Fees: **INR 1.20 lakh**.
+  - Total Tuition & Mandatory Fees: **INR 28.16 lakh**.
+  - Living Budget (Calgary Independent): **INR 1.15 lakh per month** (Lower rent than Toronto/Vancouver).
+  - One-Time Setup Costs: **INR 2.10 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (12 Months):** **INR 44.06 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [UCalgary Graduate International Entrance Award][3]
+  - _Eligibility:_ International master's students with entrance CGPA 8.5+.
+  - _Amount & Coverage:_ **INR 2.04 lakh to INR 4.09 lakh** ($3,000 - $6,000 CAD).
+  - _Duration & Renewal:_ One-time entry award.
+  - _Application Process & Deadlines:_ Automatic consideration upon applying by **15 January 2027**.
+  - _Direct Link:_ [UCalgary Awards Search](https://ucalgary.ca/registrar/awards)
+  - _Assistantships:_ Coursework MDSA students have limited TA access due to 12-month program intensity.
+- **Admissions & Deadlines:**
+  - Application Deadline: **15 January 2027**.
+  - Requirements: Bachelor's degree with minimum 3.0/4.0 GPA (VIT 8.75 CGPA well above). Course prerequisites in programming and statistics. IELTS 7.0. GRE not required.
+  - Decision Timeline: March to May 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **3-year PGWP** (all master's programs of 8+ months qualify for 3 years).
+  - AAIP (Alberta Advantage Immigration Program) Express Entry Stream: Low CRS thresholds for Alberta graduates with local tech job offers.
+- **Verdict & Strategic Assessment:** 1-year duration reduces living expense burden. Calgary provides a lower cost of living and favorable Alberta provincial PR pathways.
 
-- **SFU MSc CS (Vancouver - With Relative Support):** Tuition INR 39.81 lakh + Living (18 Mo) INR 5.90 lakh + Setup INR 1.63 lakh = **INR 47.34 lakh**.
-- **SFU MSc CS (Vancouver - Independent):** Tuition INR 39.81 lakh + Living (18 Mo) INR 28.62 lakh + Setup INR 2.09 lakh = **INR 70.52 lakh**.
-- **University of Ottawa MCS (Ottawa - Independent):** Tuition INR 27.71 lakh + Living (18 Mo) INR 21.96 lakh + Setup INR 2.33 lakh = **INR 52.00 lakh**.
+#### 12.1.6 Concordia University
 
-##### 5. Immigration and Settlement Pathway
+- **Rank & Status:** Rank 6 (Montreal Target Option).
+- **Recommended Programme:** [Master of Applied Computer Science (MApCompSc)][78].
+- **Duration:** 24 Months.
+- **Acceptance Estimate & Profile Fit:** 40% to 60% acceptance probability. Target / Likely option.
+- **Curriculum & Specialisation Fit:** Software engineering, AI algorithms, database systems, web services, and optional co-op term.
+- **Industry Outlook & Target Salary:** Montreal tech hub (MILA AI research institute, gaming tech, computer vision). Target starting salary: **INR 49.14 lakh to INR 64.83 lakh per year** ($72,000 - $95,000 CAD). Note: French language proficiency is increasingly required for long-term Quebec employment.
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 24.91 lakh** (CAD 36,500 total).
+  - Mandatory Student Fees: **INR 1.30 lakh**.
+  - Total Tuition & Mandatory Fees: **INR 26.21 lakh**.
+  - Living Budget (Montreal Independent): **INR 1.10 lakh per month** (Affordable rent).
+  - One-Time Setup Costs: **INR 2.10 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (24 Months):** **INR 54.71 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [Concordia Graduate Entrance Bursary][6]
+  - _Eligibility:_ Admitted international master's students demonstrating academic excellence.
+  - _Amount & Coverage:_ **INR 1.36 lakh to INR 3.41 lakh** ($2,000 - $5,000 CAD).
+  - _Duration & Renewal:_ One-time entry award. Institutional aid for coursework students is limited.
+  - _Application Process & Deadlines:_ Automatic nomination with application submitted by **15 January 2027**.
+  - _Direct Link:_ [Concordia Graduate Funding](https://www.concordia.ca/admissions/graduate.html)
+  - _Assistantships:_ Hourly grading and lab demonstrator jobs available on campus.
+- **Admissions & Deadlines:**
+  - Application Deadline: **15 January 2027**.
+  - Requirements: Bachelor's degree in CS or related discipline with B average (VIT 8.75 CGPA fits easily). IELTS 6.5 overall. GRE not required.
+  - Decision Timeline: March to May 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **3-year PGWP**.
+  - Quebec Immigration (PEQ / QSWP): Requires Level 7 oral French proficiency for provincial PR nomination. Federal Express Entry outside Quebec is an alternative.
+- **Verdict & Strategic Assessment:** Solid low-tuition 2-year program in a major AI hub, but Quebec language regulations add friction for PR unless French is learned.
 
-- **PGWP Rights:** A 3-year Post-Graduation Work Permit (PGWP) is granted to graduates of eligible master's degrees of 8 months or longer. Requires maintaining CLB 7 language scores across all four skills.
-- **BC PNP Master's Stream (2025/2026 Rules):** Requires graduation from an eligible BC master's programme within 3 years, a full-time job offer in NOC TEER 1, 2, or 3, and CLB 8 language proficiency.
-- **[Express Entry][71]:** Federal Express Entry rewards candidates with Canadian master's degrees and Canadian work experience with high CRS points, alongside targeted STEM draws.
+#### 12.1.7 University of Waterloo
+
+- **Rank & Status:** Rank 7 (Top Tier Academic High Reach).
+- **Recommended Programme:** [Master of Mathematics (MMath) in Computer Science][29].
+- **Duration:** 16 to 24 Months.
+- **Acceptance Estimate & Profile Fit:** 5% to 12% acceptance probability. High Reach due to mandatory supervisor match.
+- **Curriculum & Specialisation Fit:** World-renowned computer science research faculty, AI/ML theory, algorithms, quantum computing, and thesis research.
+- **Industry Outlook & Target Salary:** Top Canadian brand globally. Preferred hiring target for Silicon Valley and Toronto tech labs. Target starting salary: **INR 64.83 lakh to INR 88.72 lakh per year** ($95,000 - $130,000 CAD).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 28.67 lakh** (CAD 42,000 total gross).
+  - Guaranteed Research Funding Package: **Full tuition waiver + living stipend** for thesis admits.
+  - Total Tuition & Mandatory Fees: **INR 0 out-of-pocket** if admitted to funded MMath thesis track.
+  - Living Budget (Waterloo Independent): **INR 1.18 lakh per month**.
+  - One-Time Setup Costs: **INR 2.20 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (18 Months):** **INR 3.00 lakh - 6.00 lakh net** (Fully offset by funding package).
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [Waterloo MMath Graduate Funding Package (TA/RA/GRS)][30]
+  - _Eligibility:_ All admitted full-time thesis-based MMath CS students.
+  - _Amount & Coverage:_ Guaranteed minimum funding of approx **INR 17.06 lakh per year** ($25,000 CAD/yr) covering full tuition plus living stipend.
+  - _Duration & Renewal:_ Guaranteed for 2 years (6 terms) subject to satisfactory academic progress.
+  - _Application Process & Deadlines:_ Application deadline **1 December 2026**. Must secure a faculty supervisor match.
+  - _Direct Link:_ [Waterloo CS Graduate Funding Portal](https://uwaterloo.ca/computer-science/future-graduate-students/funding-and-awards)
+- **Admissions & Deadlines:**
+  - Application Deadline: **1 December 2026**.
+  - Requirements: 4-year honours degree in CS or Math, minimum 85% average (VIT 8.75 CGPA meets cutoff), IELTS 7.5 overall (7.0 writing/speaking). GRE General recommended for international applicants.
+  - Decision Timeline: February to April 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **3-year PGWP** and OINP Masters Graduate stream.
+- **Verdict & Strategic Assessment:** Premier academic reputation and full funding, but extremely competitive entry requiring prior thesis advisor agreement.
+
+#### 12.1.8 University of Toronto
+
+- **Rank & Status:** Rank 8 (High-Cost Industry Reach).
+- **Recommended Programme:** [Master of Science in Applied Computing (MScAC) AI Concentration][79].
+- **Duration:** 16 Months (8 months coursework + 8 months paid industry internship).
+- **Acceptance Estimate & Profile Fit:** 8% to 15% acceptance probability. High Reach.
+- **Curriculum & Specialisation Fit:** Industry-standard applied AI curriculum developed with Vector Institute. 8-month paid research internship in Toronto tech firms.
+- **Industry Outlook & Target Salary:** Premier Canadian technology hub access (Toronto financial AI, Vector Institute partners, Google, Uber ATG). Target starting salary: **INR 64.83 lakh to INR 92.13 lakh per year** ($95,000 - $135,000 CAD).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 49.14 lakh** (CAD 72,000 total tuition).
+  - Mandatory Student Fees: **INR 1.70 lakh**.
+  - Total Tuition & Mandatory Fees: **INR 50.84 lakh**.
+  - Living Budget (Toronto Independent): **INR 1.72 lakh per month** (Highest rent in Canada).
+  - One-Time Setup Costs: **INR 2.50 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (16 Months):** **INR 78.00 lakh** (Gross) / **INR 53.00 lakh** (Net after 8-month internship earnings of approx INR 25.00 lakh).
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [UofT MScAC Internship Applied Research Stipend][79]
+  - _Eligibility:_ All students participating in the mandatory 8-month industry internship.
+  - _Amount & Coverage:_ Minimum guaranteed monthly stipend of **INR 2.73 lakh to INR 3.41 lakh per month** ($4,000 - $5,000 CAD/mo), yielding **INR 21.84 lakh to INR 27.30 lakh total** over 8 months.
+  - _Duration & Renewal:_ Covers the 8-month internship phase.
+  - _Application Process & Deadlines:_ Integrated into programme structure; matches arranged via UofT MScAC interview showcase. Application deadline **1 December 2026**.
+  - _Direct Link:_ [UofT MScAC Programme Portal](https://mscac.utoronto.ca/)
+  - _Entrance Scholarships:_ Institutional entrance tuition waivers are minimal for MScAC coursework admits.
+- **Admissions & Deadlines:**
+  - Application Deadline: **1 December 2026**.
+  - Requirements: B+ average in final two years (VIT 8.75 CGPA exceeds cutoff), strong programming background, IELTS 7.0. GRE not required.
+  - Decision Timeline: February to April 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **3-year PGWP** and OINP Masters Graduate stream.
+- **Verdict & Strategic Assessment:** Industry-leading program quality and internship earnings, but very high initial tuition and Toronto housing costs make it a High-Cost Stretch option.
+
+#### 12.1.9 University of Windsor
+
+- **Rank & Status:** Rank 9 (Likely Core Budget Backup).
+- **Recommended Programme:** [Master of Applied Computing (MAC) AI Stream][80].
+- **Duration:** 16 Months (4 terms).
+- **Acceptance Estimate & Profile Fit:** 50% to 70% acceptance probability. Likely / Backup option.
+- **Curriculum & Specialisation Fit:** Practical software engineering, web development, applied AI, and team industry project.
+- **Industry Outlook & Target Salary:** Moderate job market depth in Windsor; most graduates relocate to Toronto or Kitchener-Waterloo. Target starting salary: **INR 46.41 lakh to INR 61.42 lakh per year** ($68,000 - $90,000 CAD).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 24.57 lakh** (CAD 36,000 total).
+  - Mandatory Student Fees: **INR 1.10 lakh**.
+  - Total Tuition & Mandatory Fees: **INR 25.67 lakh**.
+  - Living Budget (Windsor Independent): **INR 95,000 per month** (Lowest living cost in Ontario).
+  - One-Time Setup Costs: **INR 1.90 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (16 Months):** **INR 42.77 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Status:_ [Graduate Entrance Scholarships Notice][10]
+  - _Eligibility Note:_ The Master of Applied Computing (MAC) professional programme is **explicitly ineligible** for UWindsor Graduate Entrance Scholarships.
+  - _Verification Details:_ Official university policy explicitly excludes professional fee-based master's degrees from general entrance award funding. Full tuition budget must be planned out-of-pocket.
+  - _Direct Link:_ [UWindsor Graduate Funding Policy](https://www.uwindsor.ca/graduate-studies/345/scholarships-and-awards)
+- **Admissions & Deadlines:**
+  - Application Deadline: **15 January 2027**.
+  - Requirements: 70%+ in undergraduate CS degree (VIT 8.75 CGPA easily exceeds). IELTS 6.5 overall. GRE not required.
+  - Decision Timeline: March to May 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **3-year PGWP** and OINP Masters Graduate stream.
+- **Verdict & Strategic Assessment:** Reliable low-cost admission backup in Ontario, but coursework format offers zero entrance scholarships and location has smaller local tech employer presence.
+
+#### 12.1.10 Western University
+
+- **Rank & Status:** Rank 10 (Ontario Backup Target).
+- **Recommended Programme:** [Master of Data Analytics (MDA)][81].
+- **Duration:** 12 Months (1 year intensive format including co-op term).
+- **Acceptance Estimate & Profile Fit:** 40% to 60% acceptance probability. Target / Likely option.
+- **Curriculum & Specialisation Fit:** Data analytics, machine learning, statistical modeling, data management, and 4-month industry co-op placement.
+- **Industry Outlook & Target Salary:** London, Ontario local market and broader Toronto GTA analytics job market. Target starting salary: **INR 47.77 lakh to INR 62.79 lakh per year** ($70,000 - $92,000 CAD).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 28.53 lakh** (CAD 41,800 total).
+  - Mandatory Student Fees: **INR 1.25 lakh**.
+  - Total Tuition & Mandatory Fees: **INR 29.78 lakh**.
+  - Living Budget (London Independent): **INR 1.05 lakh per month**.
+  - One-Time Setup Costs: **INR 2.00 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (12 Months):** **INR 44.38 lakh** (Gross) / **INR 36.38 lakh** (Net after co-op earnings).
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [Western MDA Industry & Entrance Awards][15]
+  - _Eligibility:_ Merit-based evaluation of admitted MDA candidates (CGPA 8.5+).
+  - _Amount & Coverage:_ **INR 3.41 lakh to INR 11.94 lakh** ($5,000 - $17,500 CAD) partial tuition reduction.
+  - _Duration & Renewal:_ One-time entry award.
+  - _Application Process & Deadlines:_ Assessed automatically during admission review. Application deadline: **15 January 2027**.
+  - _Direct Link:_ [Western MDA Programme & Financial Portal](https://www.mda.uwo.ca/)
+  - _Co-op Earnings:_ 4-month mandatory co-op placement yields average total earnings of **INR 8.00 lakh** ($11,700 CAD).
+- **Admissions & Deadlines:**
+  - Application Deadline: **15 January 2027**.
+  - Requirements: 4-year degree with computer science, statistics, or mathematics background. IELTS 7.0. GRE not required.
+  - Decision Timeline: March to May 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **3-year PGWP** and OINP Masters Graduate stream.
+- **Verdict & Strategic Assessment:** Solid 1-year analytics option with structured co-op and good entrance scholarship potential, serving as a clean Ontario backup.
 
 [↑ Back to top](#table-of-contents)
 
@@ -285,60 +576,307 @@ Climate conditions directly affect personal health, clothing expenses, daily tra
 
 ### 12.2 Ireland
 
-#### University Programme Comparison Table: Ireland (All Figures in INR)
+#### 12.2.1 Dublin City University (DCU)
 
-| Rank | University                            | Recommended Programme and Branch               | Duration | Total Tuition (INR) | Employment Outlook                        | Starting Salary Range (INR/yr) | Acceptance Estimate | Profile Chance | Application Deadline | Expected Decision    | Key Scholarships                                  | Overall Assessment                                   |
-| ---: | :------------------------------------ | :--------------------------------------------- | -------: | ------------------: | :---------------------------------------- | :----------------------------- | ------------------: | :------------- | :------------------- | :------------------- | :------------------------------------------------ | :--------------------------------------------------- |
-|    1 | [Dublin City University (DCU)][5]     | MSc in Computing (AI Pathway)                  |   1 Year |  **INR 27.54 lakh** | Strong industry orientation in Dublin     | **INR 46.26 to 63.88 lakh**    |          30% to 45% | Target         | 15 Nov 2026          | Dec 2026 to Feb 2027 | Faculty Merit Award (INR 3.30 to 6.61 lakh)       | Best Irish value target; practical AI curriculum.    |
-|    2 | [University College Dublin (UCD)][4]  | MSc Computer Science (Negotiated Learning)     |   1 Year |  **INR 35.02 lakh** | Excellent Dublin employer network         | **INR 49.56 to 68.29 lakh**    |          18% to 30% | Target / Reach | 15 Nov 2026          | Dec 2026 to Feb 2027 | UCD Global Excellence (50% to 100% Tuition)       | Strongest Irish brand ROI if scholarship is secured. |
-|    3 | [University of Limerick][82]          | MSc Software Engineering (AI & MLOps Track)    |   1 Year |  **INR 23.68 lakh** | Good industry links in Midwest tech hub   | **INR 41.85 to 57.27 lakh**    |          45% to 60% | Likely         | 15 Nov 2026          | Dec 2026 to Feb 2027 | International Scholarship (INR 2.20 to 4.41 lakh) | Cost-effective software engineering master's.        |
-|    4 | [Maynooth University][25]             | MSc Computer Science (Software Engineering)    |   1 Year |  **INR 19.83 lakh** | Access to Dublin commuter job market      | **INR 41.85 to 58.37 lakh**    |          45% to 65% | Likely         | 15 Nov 2026          | Dec 2026 to Feb 2027 | Taught Master's Award (INR 2.20 lakh)             | Lowest fee taught CS option with Dublin access.      |
-|    5 | [Trinity College Dublin (TCD)][22]    | MSc Computer Science (Intelligent Systems)     |   1 Year |  **INR 30.62 lakh** | High prestige, strong academic network    | **INR 48.46 to 68.29 lakh**    |          10% to 18% | Reach          | 15 Nov 2026          | Jan to Mar 2027      | Global Excellence Award (INR 2.20 to 5.51 lakh)   | High academic status, but Dublin housing adds cost.  |
-|    6 | [University College Cork (UCC)][24]   | MSc Computing Science (AI Track)               |   1 Year |  **INR 30.80 lakh** | Good, with Cork tech and pharma employers | **INR 43.00 to 59.50 lakh**    |          30% to 45% | Target         | 15 Nov 2026          | Dec 2026 to Feb 2027 | International Merit Award (INR 1.50 to 5.00 lakh) | Useful AI/software option if Dublin costs are high.  |
-|    7 | [University of Galway][6]             | MSc Computer Science (Artificial Intelligence) |   1 Year |  **INR 31.50 lakh** | Good, smaller regional market             | **INR 41.85 to 58.37 lakh**    |          35% to 50% | Target         | 15 Nov 2026          | Jan to Mar 2027      | Programme Merit Award (INR 1.00 to 3.00 lakh)     | Strong AI curriculum; higher fee for smaller market. |
-|    8 | [Technological Univ Dublin (TUD)][83] | MSc Computer Science (Advanced Software Dev)   | 1-1.5 Yr |  **INR 23.90 lakh** | Applied curriculum and Dublin access      | **INR 40.75 to 57.27 lakh**    |          50% to 70% | Likely         | 15 Nov 2026          | Dec 2026 to Feb 2027 | International Merit Award (INR 1.00 to 3.00 lakh) | Practical Dublin backup for software engineering.    |
-|    9 | [South East Tech Univ (SETU)][49]     | MSc Applied Artificial Intelligence            |   1 Year |  **INR 15.40 lakh** | Moderate, regional employer network       | **INR 38.25 to 54.20 lakh**    |          60% to 80% | Very Likely    | 15 Jan 2027          | Feb to Apr 2027      | SETU Entry Award (INR 1.21 to 4.85 lakh)          | Cheap AI backup, but employer depth is lower.        |
-|   10 | [Atlantic Tech Univ (ATU)][51]        | MSc Computing (Big Data Analytics & AI)        |   1 Year |  **INR 15.40 lakh** | Regional job market in Donegal            | **INR 37.00 to 53.00 lakh**    |          65% to 85% | Very Likely    | 15 Jan 2027          | Feb to Apr 2027      | Entry Award (INR 1.00 to 2.00 lakh)               | Low-cost backup; location limits employer depth.     |
+- **Rank & Status:** Rank 1 (Top Irish Value Target #1).
+- **Recommended Programme:** [MSc in Computing (Artificial Intelligence Pathway)][5].
+- **Duration:** 1 Year (12 months full-time).
+- **Acceptance Estimate & Profile Fit:** 30% to 45% acceptance probability. Target option for VIT 8.75 CGPA.
+- **Curriculum & Specialisation Fit:** Deep learning, computer vision, natural language processing, data analytics, and master's practicum project with Dublin tech partners.
+- **Industry Outlook & Target Salary:** Direct access to Dublin European tech headquarters (Google, Meta, Microsoft, AWS, Stripe). Target starting salary: **INR 46.26 lakh to INR 63.88 lakh per year** (EUR 42,000 - EUR 58,000). ([Critical Skills Employment Permit Threshold][26])
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 27.54 lakh** (EUR 25,000 total tuition).
+  - Mandatory Student Levy: **INR 30,840** (EUR 280).
+  - Total Tuition & Mandatory Fees: **INR 27.84 lakh**.
+  - Living Budget (Dublin Independent): **INR 1.76 lakh per month** (INR 21.08 lakh per year).
+  - One-Time Setup Costs: **INR 2.49 lakh** (Visa fee INR 6,608, IRP card INR 33,042, flight INR 71,590, Dublin rental deposit INR 93,600).
+  - **Total Estimated Out-of-Pocket Expense (1 Year):** **INR 51.41 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [DCU International Faculty Merit Scholarship][4]
+  - _Eligibility:_ Non-EU fee-paying applicants holding an unconditional offer with CGPA 8.5+ (VIT 8.75 CGPA qualifies).
+  - _Amount & Coverage:_ **INR 3.30 lakh to INR 6.61 lakh** (EUR 3,000 - EUR 6,000) direct tuition fee reduction.
+  - _Duration & Renewal:_ One-time tuition credit for the 1-year programme.
+  - _Application Process & Deadlines:_ Automatically assessed upon application submission by **15 November 2026**.
+  - _Direct Link:_ [DCU International Scholarships Portal](https://www.dcu.ie/international/scholarships)
+  - _National Scholarship Upgrade:_ Fully eligible to apply for the **Government of Ireland International Education Scholarship (GOI-IES)**, providing 100% full tuition waiver plus **INR 11.01 lakh** (EUR 10,000) living stipend. Net cost with GOI-IES drops to **INR 9.90 lakh total**. ([GOI-IES Portal][104])
+- **Admissions & Deadlines:**
+  - Application Deadline: **15 November 2026** (Early application strongly advised for non-EU visa processing).
+  - Requirements: Second Class Upper (2.1) honours degree in Computer Science (VIT 8.75 CGPA easily exceeds), IELTS 6.5 (minimum 6.0 in all bands). GRE not required.
+  - Decision Timeline: December 2026 to February 2027.
+- **Immigration & Post-Study Pathway:**
+  - **Stamp 1G Post-Study Work Visa:** 24 months (12 months initial + 12 months renewal) of open work authorization in Ireland. ([Irish Immigration Stamp 1G][26])
+  - PR Pathway: Must secure a Critical Skills Employment Permit (CSEP) with a minimum salary of **INR 41.85 lakh per year** (EUR 38,000/yr), leading to Stamp 4 permanent residency after 2 years on CSEP.
+- **Verdict & Strategic Assessment:** Best Irish value option overall. 1-year fast-track format in Dublin's tech ecosystem with 2-year post-study work visa.
 
-#### Financial Separation: Ireland (All Figures in INR)
+#### 12.2.2 University College Dublin (UCD)
 
-##### 1. Tuition and University Mandatory Fees (INR)
+- **Rank & Status:** Rank 2 (Top Irish Brand Reach/Target).
+- **Recommended Programme:** [MSc Computer Science (Negotiated Learning)][4].
+- **Duration:** 1 Year (12 months).
+- **Acceptance Estimate & Profile Fit:** 18% to 30% acceptance probability. Target / Reach option.
+- **Curriculum & Specialisation Fit:** Customizable 90-ECTS curriculum allowing complete focus on AI, deep learning, computer vision, software engineering, and cloud architecture.
+- **Industry Outlook & Target Salary:** Strongest university brand recognition in Ireland among Dublin hiring managers. Target starting salary: **INR 49.56 lakh to INR 68.29 lakh per year** (EUR 45,000 - EUR 62,000).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 35.02 lakh** (EUR 31,800 total).
+  - Mandatory Student Levy: **INR 27,975** (EUR 254).
+  - Total Tuition & Mandatory Fees: **INR 35.30 lakh**.
+  - Living Budget (Dublin Independent): **INR 1.76 lakh per month** (INR 21.08 lakh per year).
+  - One-Time Setup Costs: **INR 2.49 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (1 Year):** **INR 58.87 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [UCD Global Excellence Scholarship][7]
+  - _Eligibility:_ Highly competitive international non-EU applicants with top academic standing (CGPA 8.75+).
+  - _Amount & Coverage:_ **50% or 100% Full Tuition Fee Waiver** (Saves **INR 17.51 lakh to INR 35.02 lakh**).
+  - _Duration & Renewal:_ Covers the full 1-year master's programme duration.
+  - _Application Process & Deadlines:_ Requires separate online application including candidate statement and academic CV by **28 February 2027**. Must hold a conditional/unconditional course offer.
+  - _Direct Link:_ [UCD Global Scholarships Portal](https://www.ucd.ie/global/scholarships)
+- **Admissions & Deadlines:**
+  - Application Deadline: **15 November 2026** (Course application); **28 February 2027** (Global Excellence Scholarship application).
+  - Requirements: Upper Second Class Honours (2.1) degree in CS (VIT 8.75 CGPA qualifies), IELTS 6.5 (minimum 6.0 per section). GRE not required.
+  - Decision Timeline: December 2026 to February 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **24-month Stamp 1G** post-study work visa and CSEP pathway to Stamp 4 PR.
+- **Verdict & Strategic Assessment:** Exceptional brand value in Dublin. High total out-of-pocket cost without aid, but securing the 50% or 100% Global Excellence scholarship makes UCD the single highest ROI option in Europe.
 
-- **DCU MSc Computing:** Base tuition INR 27.54 lakh. Student levy INR 30,840. Total Tuition + Fees: **INR 27.84 lakh**.
-- **UCD MSc Computer Science:** Base tuition INR 35.02 lakh. Student centre levy INR 27,975. Total Tuition + Fees: **INR 35.30 lakh**.
+#### 12.2.3 University of Limerick
 
-##### 2. Cost of Living Breakdown (INR)
+- **Rank & Status:** Rank 3 (Best Irish Regional Value Target).
+- **Recommended Programme:** [MSc Software Engineering (AI & MLOps Track)][82].
+- **Duration:** 1 Year (12 months).
+- **Acceptance Estimate & Profile Fit:** 45% to 60% acceptance probability. Likely / Target option.
+- **Curriculum & Specialisation Fit:** Applied software engineering, MLOps, software architecture, automated testing, and industry thesis project.
+- **Industry Outlook & Target Salary:** Midwest Ireland tech cluster (Analog Devices, Dell, Johnson & Johnson, software firms). Target starting salary: **INR 41.85 lakh to INR 57.27 lakh per year** (EUR 38,000 - EUR 52,000).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 23.68 lakh** (EUR 21,500 total).
+  - Mandatory Student Levy: **INR 22,000** (EUR 200).
+  - Total Tuition & Mandatory Fees: **INR 23.90 lakh**.
+  - Living Budget (Limerick Regional): **INR 1.29 lakh per month** (INR 15.53 lakh per year; 26% cheaper rent than Dublin).
+  - One-Time Setup Costs: **INR 2.16 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (1 Year):** **INR 41.59 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [UL Faculty of Science & Engineering International Merit Scholarship][15]
+  - _Eligibility:_ Non-EU fee-paying students admitted with CGPA 8.0+.
+  - _Amount & Coverage:_ **INR 2.20 lakh to INR 4.41 lakh** (EUR 2,000 - EUR 4,000) direct tuition fee reduction.
+  - _Duration & Renewal:_ Applied directly to tuition for the 1-year degree.
+  - _Application Process & Deadlines:_ Automatic evaluation upon application. No separate application form needed. Application deadline: **15 November 2026**.
+  - _Direct Link:_ [UL International Scholarships Portal](https://www.ul.ie/international/scholarships)
+- **Admissions & Deadlines:**
+  - Application Deadline: **15 November 2026**.
+  - Requirements: First Class or Upper Second Class degree in CS or Software Engineering (VIT 8.75 CGPA meets requirement), IELTS 6.5. GRE not required.
+  - Decision Timeline: December 2026 to February 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **24-month Stamp 1G** post-study work visa usable anywhere in Ireland (including Dublin).
+- **Verdict & Strategic Assessment:** Outstanding cost-effective software engineering option. Lower regional living expenses reduce loan burden while keeping full 2-year Irish post-study work rights intact.
 
-| Expense Item                         | Dublin (Monthly)              | Regional (Limerick / Maynooth) |
-| :----------------------------------- | :---------------------------- | :----------------------------- |
-| Rent / Housing (Shared Room)         | INR 93,600                    | INR 60,600                     |
-| Food and Groceries                   | INR 35,200                    | INR 30,800                     |
-| Utilities & Heating                  | INR 12,100                    | INR 9,900                      |
-| Mobile Phone Plan                    | INR 2,200                     | INR 2,200                      |
-| Local Transportation                 | INR 7,700 (Student Leap Card) | INR 5,500                      |
-| Health Insurance (Mandatory)         | INR 5,000                     | INR 5,000                      |
-| Personal & Entertainment             | INR 19,800                    | INR 15,400                     |
-| **Total Monthly Living Budget**      | **INR 1.76 lakh**             | **INR 1.29 lakh**              |
-| **Annual Living Budget (12 Months)** | **INR 21.08 lakh**            | **INR 15.53 lakh**             |
+#### 12.2.4 Maynooth University
 
-##### 3. One-Time Setup Costs (INR)
+- **Rank & Status:** Rank 4 (Lowest Fee Taught CS Option).
+- **Recommended Programme:** [MSc Computer Science (Software Engineering)][25].
+- **Duration:** 1 Year (12 months).
+- **Acceptance Estimate & Profile Fit:** 45% to 65% acceptance probability. Likely Target option.
+- **Curriculum & Specialisation Fit:** Advanced software engineering, cloud computing, artificial intelligence, software testing, and practical industry project.
+- **Industry Outlook & Target Salary:** Maynooth is located within Dublin's tech commuting belt (30 minutes to Dublin city centre), allowing access to Dublin hiring managers at lower housing costs. Target starting salary: **INR 41.85 lakh to INR 58.37 lakh per year** (EUR 38,000 - EUR 53,000).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 19.83 lakh** (EUR 18,000 total tuition; lowest non-EU CS fee in Ireland).
+  - Mandatory Student Levy: **INR 30,840** (EUR 280).
+  - Total Tuition & Mandatory Fees: **INR 20.14 lakh**.
+  - Living Budget (Maynooth Commuter Region): **INR 1.29 lakh per month** (INR 15.53 lakh per year).
+  - One-Time Setup Costs: **INR 2.16 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (1 Year):** **INR 37.83 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [Maynooth Taught Master's Academic Award][23]
+  - _Eligibility:_ International non-EU applicants holding an offer with entrance CGPA 8.5+.
+  - _Amount & Coverage:_ **INR 2.20 lakh** (EUR 2,000) tuition deduction.
+  - _Duration & Renewal:_ One-time entry award.
+  - _Application Process & Deadlines:_ Automatic consideration upon course application by **15 November 2026**.
+  - _Direct Link:_ [Maynooth International Fees & Awards Portal](https://www.maynoothuniversity.ie/international)
+- **Admissions & Deadlines:**
+  - Application Deadline: **15 November 2026**.
+  - Requirements: 2.1 honours degree in CS or IT (VIT 8.75 CGPA easily qualifies), IELTS 6.5. GRE not required.
+  - Decision Timeline: December 2026 to February 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **24-month Stamp 1G** post-study work visa and CSEP pathway.
+- **Verdict & Strategic Assessment:** The most affordable taught CS master's degree in Ireland. Sub-INR 38 lakh total expense provides the lowest financial risk entry into the Irish tech market.
 
-- Student Visa Fee: INR 6,608.
-- Irish Residence Permit (IRP Card): INR 33,042.
-- Flight Ticket (India to Dublin): INR 71,590.
-- Warm Outerwear and Initial Setup: INR 44,056.
-- Rental Deposit: INR 93,600 (Dublin) / INR 60,600 (Regional).
-- **Total Setup Cost:** **INR 2.49 lakh Dublin** / **INR 2.16 lakh Regional**.
+#### 12.2.5 Trinity College Dublin (TCD)
 
-##### 4. Total Estimated Cost Summary: Ireland (INR)
+- **Rank & Status:** Rank 5 (High Status Reach Option).
+- **Recommended Programme:** [MSc Computer Science (Intelligent Systems Pathway)][22].
+- **Duration:** 1 Year (12 months).
+- **Acceptance Estimate & Profile Fit:** 10% to 18% acceptance probability. Reach option due to high competitive cutoff.
+- **Curriculum & Specialisation Fit:** Artificial intelligence, computer vision, natural language processing, information retrieval, and thesis research project.
+- **Industry Outlook & Target Salary:** Highest academic status in Ireland. Preferred access to Dublin research labs and global tech headquarters. Target starting salary: **INR 48.46 lakh to INR 68.29 lakh per year** (EUR 44,000 - EUR 62,000).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 30.62 lakh** (EUR 27,800 total).
+  - Mandatory Student Fees: **INR 30,840** (EUR 280).
+  - Total Tuition & Mandatory Fees: **INR 30.93 lakh**.
+  - Living Budget (Dublin Independent): **INR 1.76 lakh per month** (INR 21.08 lakh per year).
+  - One-Time Setup Costs: **INR 2.49 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (1 Year):** **INR 54.50 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [TCD Global Excellence Postgraduate Award][14]
+  - _Eligibility:_ Non-EU fee-paying master's candidates demonstrating outstanding academic achievement (CGPA 8.75+).
+  - _Amount & Coverage:_ **INR 2.20 lakh to INR 5.51 lakh** (EUR 2,000 - EUR 5,000) partial tuition credit.
+  - _Duration & Renewal:_ One-time entry award for 1-year master's.
+  - _Application Process & Deadlines:_ Requires separate online application submission including 200-word statement by **31 March 2027**. Course application must be submitted by **15 November 2026**.
+  - _Direct Link:_ [Trinity International Study Portal](https://www.tcd.ie/study/international)
+- **Admissions & Deadlines:**
+  - Application Deadline: **15 November 2026**.
+  - Requirements: First Class Honours (1.1) or high 2.1 in CS or related quantitative discipline (VIT 8.75 CGPA meets cutoff), IELTS 6.5 (no band below 6.0). C programming background required. GRE not required.
+  - Decision Timeline: January to March 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **24-month Stamp 1G** post-study work visa.
+- **Verdict & Strategic Assessment:** Top academic status in Ireland. Strong curriculum for AI, but high total living and tuition costs require careful budget planning unless a major scholarship is obtained.
 
-- **DCU MSc Computing (Dublin - 1 Year):** Tuition INR 27.84 lakh + Living INR 21.08 lakh + Setup INR 2.49 lakh = **INR 51.41 lakh**.
-- **Maynooth MSc CS (Regional - 1 Year):** Tuition INR 20.14 lakh + Living INR 15.53 lakh + Setup INR 2.16 lakh = **INR 37.83 lakh**.
+#### 12.2.6 University College Cork (UCC)
 
-##### 5. Immigration and Settlement Pathway
+- **Rank & Status:** Rank 6 (Regional Target Option).
+- **Recommended Programme:** [MSc Computing Science (Artificial Intelligence Track)][24].
+- **Duration:** 1 Year (12 months).
+- **Acceptance Estimate & Profile Fit:** 30% to 45% acceptance probability. Target option.
+- **Curriculum & Specialisation Fit:** Applied AI, data mining, software engineering, complex systems, and industry-sponsored dissertation.
+- **Industry Outlook & Target Salary:** Cork technology and pharmaceutical hub (Apple European HQ, Dell, Qualcomm, Johnson & Johnson). Target starting salary: **INR 43.00 lakh to INR 59.50 lakh per year** (EUR 39,000 - EUR 54,000).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 30.80 lakh** (EUR 27,960 total).
+  - Mandatory Student Fees: **INR 25,000** (EUR 227).
+  - Total Tuition & Mandatory Fees: **INR 31.05 lakh**.
+  - Living Budget (Cork Regional): **INR 1.45 lakh per month** (INR 17.40 lakh per year).
+  - One-Time Setup Costs: **INR 2.25 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (1 Year):** **INR 50.70 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [UCC International Student Merit Award][9]
+  - _Eligibility:_ Automatically awarded to non-EU applicants based on undergraduate CGPA.
+  - _Amount & Coverage:_ Tiered fee reductions: 20% tuition reduction for First Class Honours (CGPA 8.5+; saves **INR 6.16 lakh**), 10% reduction for 2.1 Honours (saves **INR 3.08 lakh**).
+  - _Duration & Renewal:_ One-time entry award.
+  - _Application Process & Deadlines:_ Automatic consideration upon course offer issuance. Deadline **15 November 2026**.
+  - _Direct Link:_ [UCC International Scholarships Portal](https://www.ucc.ie/en/international/studyatucc/scholarships)
+- **Admissions & Deadlines:**
+  - Application Deadline: **15 November 2026**.
+  - Requirements: 2.1 honours degree in CS (VIT 8.75 CGPA easily qualifies), IELTS 6.5. GRE not required.
+  - Decision Timeline: December 2026 to February 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **24-month Stamp 1G** post-study work visa and CSEP pathway.
+- **Verdict & Strategic Assessment:** Strong regional option with automatic 20% merit scholarship for VIT 8.75 CGPA baseline, bringing effective tuition down to INR 24.64 lakh.
 
-- **Post-Study Work Rights:** Stamp 1G provides 24 months of post-study work authorization for Level 9 master's graduates.
-- **Employment Gate:** Transition to permanent residence (Stamp 4) requires a Critical Skills Employment Permit (CSEP) meeting minimum salary thresholds (INR 41.85 lakh per year).
+#### 12.2.7 University of Galway
+
+- **Rank & Status:** Rank 7 (Regional AI Target).
+- **Recommended Programme:** [MSc Computer Science (Artificial Intelligence)][6].
+- **Duration:** 1 Year (12 months).
+- **Acceptance Estimate & Profile Fit:** 35% to 50% acceptance probability. Target option.
+- **Curriculum & Specialisation Fit:** Deep learning, natural language processing, autonomous agents, computer vision, and research capstone with Insight Centre for Data Analytics.
+- **Industry Outlook & Target Salary:** Galway tech and medtech cluster (Boston Scientific, Medtronic, SAP, HPE). Target starting salary: **INR 41.85 lakh to INR 58.37 lakh per year** (EUR 38,000 - EUR 53,000).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 31.50 lakh** (EUR 28,600 total).
+  - Mandatory Student Fees: **INR 24,000** (EUR 218).
+  - Total Tuition & Mandatory Fees: **INR 31.74 lakh**.
+  - Living Budget (Galway Regional): **INR 1.40 lakh per month** (INR 16.80 lakh per year).
+  - One-Time Setup Costs: **INR 2.20 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (1 Year):** **INR 50.74 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [Galway Postgraduate International Merit Scholarship][11]
+  - _Eligibility:_ Non-EU applicants admitted with CGPA 8.0+.
+  - _Amount & Coverage:_ **INR 1.10 lakh to INR 4.41 lakh** (EUR 1,000 - EUR 4,000) tuition waiver.
+  - _Duration & Renewal:_ Applied directly to 1-year tuition.
+  - _Application Process & Deadlines:_ Evaluated upon course application submission by **15 November 2026**.
+  - _Direct Link:_ [Galway International Fees & Scholarships](https://www.universityofgalway.ie/international/fees-scholarships)
+- **Admissions & Deadlines:**
+  - Application Deadline: **15 November 2026**.
+  - Requirements: First Class Honours degree in CS or software engineering (VIT 8.75 CGPA qualifies), IELTS 6.5. GRE not required.
+  - Decision Timeline: January to March 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **24-month Stamp 1G** post-study work visa and CSEP pathway.
+- **Verdict & Strategic Assessment:** Premier academic research fit in AI via Insight Centre, but base tuition is slightly high for a smaller regional city.
+
+#### 12.2.8 Technological University Dublin (TU Dublin)
+
+- **Rank & Status:** Rank 8 (Applied Dublin Backup).
+- **Recommended Programme:** [MSc Computer Science (Advanced Software Development)][83].
+- **Duration:** 1 to 1.5 Years (12 to 16 months).
+- **Acceptance Estimate & Profile Fit:** 50% to 70% acceptance probability. Likely / Backup option.
+- **Curriculum & Specialisation Fit:** Applied software development, cloud architecture, enterprise systems, security, and industrial software project.
+- **Industry Outlook & Target Salary:** Direct access to Dublin technology employer ecosystem. Target starting salary: **INR 40.75 lakh to INR 57.27 lakh per year** (EUR 37,000 - EUR 52,000).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 23.90 lakh** (EUR 21,700 total).
+  - Mandatory Student Fees: **INR 25,000** (EUR 227).
+  - Total Tuition & Mandatory Fees: **INR 24.15 lakh**.
+  - Living Budget (Dublin Independent): **INR 1.76 lakh per month**.
+  - One-Time Setup Costs: **INR 2.49 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (1 Year):** **INR 47.72 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [TU Dublin Global Excellence Award][17]
+  - _Eligibility:_ Non-EU applicants admitted with CGPA 8.0+.
+  - _Amount & Coverage:_ **INR 1.10 lakh to INR 3.30 lakh** (EUR 1,000 - EUR 3,000) tuition deduction.
+  - _Duration & Renewal:_ One-time entry award.
+  - _Application Process & Deadlines:_ Automatic consideration upon applying by **15 November 2026**.
+  - _Direct Link:_ [TU Dublin International Portal](https://www.tudublin.ie/study/international)
+- **Admissions & Deadlines:**
+  - Application Deadline: **15 November 2026**.
+  - Requirements: 2.1 honours degree in CS (VIT 8.75 CGPA fits easily), IELTS 6.5. GRE not required.
+  - Decision Timeline: December 2026 to Feb 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **24-month Stamp 1G** post-study work visa.
+- **Verdict & Strategic Assessment:** Practical applied software backup in Dublin with moderate tuition fees.
+
+#### 12.2.9 South East Technological University (SETU)
+
+- **Rank & Status:** Rank 9 (Budget Regional AI Backup).
+- **Recommended Programme:** [MSc in Applied Artificial Intelligence][49].
+- **Duration:** 1 Year (12 months).
+- **Acceptance Estimate & Profile Fit:** 60% to 80% acceptance probability. Very Likely backup option.
+- **Curriculum & Specialisation Fit:** Practical machine learning, natural language processing, computer vision, data engineering, and applied research project.
+- **Industry Outlook & Target Salary:** Regional Southeast Ireland tech market (Waterford/Carlow) and Dublin job market. Target starting salary: **INR 38.25 lakh to INR 54.20 lakh per year** (EUR 34,700 - EUR 49,200).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 15.40 lakh** (EUR 13,980 total tuition; lowest AI fee in Ireland).
+  - Mandatory Student Fees: **INR 20,000** (EUR 182).
+  - Total Tuition & Mandatory Fees: **INR 15.60 lakh**.
+  - Living Budget (SETU Regional): **INR 1.15 lakh per month** (INR 13.80 lakh per year; affordable rent).
+  - One-Time Setup Costs: **INR 2.00 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (1 Year):** **INR 31.40 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [SETU Global International Academic Scholarship][19]
+  - _Eligibility:_ Non-EU master's applicants with CGPA 8.0+.
+  - _Amount & Coverage:_ **INR 1.21 lakh to INR 4.85 lakh** (EUR 1,100 - EUR 4,400) tuition reduction.
+  - _Duration & Renewal:_ Applied to 1-year tuition.
+  - _Application Process & Deadlines:_ Automatic assessment upon course application by **15 January 2027**.
+  - _Direct Link:_ [SETU International Portal](https://www.setu.ie/international)
+- **Admissions & Deadlines:**
+  - Application Deadline: **15 January 2027**.
+  - Requirements: 2.2 or higher in CS or related technical degree (VIT 8.75 CGPA easily exceeds), IELTS 6.0 overall (minimum 6.0 in all bands). GRE not required.
+  - Decision Timeline: February to April 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **24-month Stamp 1G** post-study work visa.
+- **Verdict & Strategic Assessment:** Ultra-low-cost AI backup in Ireland. Sub-INR 32 lakh total cost minimizes financial risk completely.
+
+#### 12.2.10 Atlantic Technological University (ATU)
+
+- **Rank & Status:** Rank 10 (Budget Regional Data Backup).
+- **Recommended Programme:** [MSc in Computing (Big Data Analytics & AI)][51].
+- **Duration:** 1 Year (12 months).
+- **Acceptance Estimate & Profile Fit:** 65% to 85% acceptance probability. Very Likely backup option.
+- **Curriculum & Specialisation Fit:** Big data pipelines, practical machine learning, cloud analytics, data visualization, and applied industry project.
+- **Industry Outlook & Target Salary:** Regional Northwest Ireland job market (Donegal/Galway/Sligo). Target starting salary: **INR 37.00 lakh to INR 53.00 lakh per year** (EUR 33,600 - EUR 48,100).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 15.40 lakh** (EUR 13,980 total).
+  - Mandatory Student Fees: **INR 20,000** (EUR 182).
+  - Total Tuition & Mandatory Fees: **INR 15.60 lakh**.
+  - Living Budget (ATU Regional): **INR 1.10 lakh per month** (INR 13.20 lakh per year).
+  - One-Time Setup Costs: **INR 2.00 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (1 Year):** **INR 30.80 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [ATU Global Entry Award][21]
+  - _Eligibility:_ International applicants with entry CGPA 7.5+.
+  - _Amount & Coverage:_ **INR 1.00 lakh to INR 2.00 lakh** (EUR 900 - EUR 1,800) tuition deduction.
+  - _Duration & Renewal:_ One-time entry award.
+  - _Application Process & Deadlines:_ Automatic consideration upon applying by **15 January 2027**.
+  - _Direct Link:_ [ATU International Portal](https://www.atu.ie/international)
+- **Admissions & Deadlines:**
+  - Application Deadline: **15 January 2027**.
+  - Requirements: Bachelor's degree in computing or related quantitative field. IELTS 6.0. GRE not required.
+  - Decision Timeline: February to April 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **24-month Stamp 1G** post-study work visa.
+- **Verdict & Strategic Assessment:** Low-cost safety backup for computing and big data analytics in Ireland.
 
 [↑ Back to top](#table-of-contents)
 
@@ -346,60 +884,306 @@ Climate conditions directly affect personal health, clothing expenses, daily tra
 
 ### 12.3 Australia
 
-#### University Programme Comparison Table: Australia (All Figures in INR)
+#### 12.3.1 University of Queensland (UQ)
 
-| Rank | University                          | Recommended Programme and Branch      |  Duration | Total Tuition (INR) | Employment Outlook                   | Starting Salary Range (INR/yr) | Acceptance Estimate | Profile Chance  | Application Deadline | Expected Decision | Key Scholarships                                  | Overall Assessment                                                 |
-| ---: | :---------------------------------- | :------------------------------------ | --------: | ------------------: | :----------------------------------- | :----------------------------- | ------------------: | :-------------- | :------------------- | :---------------- | :------------------------------------------------ | :----------------------------------------------------------------- |
-|    1 | [Univ. of Queensland (UQ)][16]      | Master of Computer Science (ML Track) | 1.5 Years |  **INR 39.15 lakh** | Strong Brisbane tech market access   | **INR 55.15 to 72.64 lakh**    |          35% to 55% | Target          | 30 Sep 2027          | Oct to Nov 2027   | UQ High Achievers Award (20% Tuition Reduction)   | Best Australian ROI if admitted to 1.5-year prior-degree stream.   |
-|    2 | [Monash University][15]             | Master of Information Technology      | 1.5-2 Yrs |  **INR 50.11 lakh** | Very good Melbourne employer network | **INR 57.17 to 75.33 lakh**    |          35% to 55% | Target          | 30 Sep 2027          | Oct to Nov 2027   | Monash Study Grant (INR 3.36 to 6.72 lakh)        | Strong program structure if 1.5-year route is granted.             |
-|    3 | [Univ. of Tech Sydney (UTS)][84]    | Master of Information Technology      |   2 Years |  **INR 61.88 lakh** | High industry connectivity in Sydney | **INR 57.17 to 77.35 lakh**    |          45% to 65% | Target / Likely | 30 Sep 2027          | Oct to Nov 2027   | UTS Academic Excellence (20% to 25% Tuition)      | High Sydney cost, but strong practical industry links.             |
-|    4 | [Queensland Univ of Tech (QUT)][18] | Master of Information Technology      |   2 Years |  **INR 57.84 lakh** | Good practical software focus        | **INR 53.80 to 70.62 lakh**    |          55% to 75% | Likely          | 30 Sep 2027          | Oct to Nov 2027   | QUT Merit Scholarship (25% Tuition)               | Practical option; Brisbane living costs lower than Sydney.         |
-|    5 | [UNSW Sydney][2]                    | Master of Info Tech (AI Track)        |   2 Years |  **INR 87.90 lakh** | Excellent Sydney employer access     | **INR 61.42 to 84.07 lakh**    |          20% to 35% | Reach           | 31 Aug 2027          | Sep to Oct 2027   | Scientia Coursework Scholarship (20-100% Tuition) | Top technical option, but low ROI without major aid.               |
-|    6 | [Univ. of Melbourne][14]            | Master of Computer Science (AI Track) |   2 Years |  **INR 84.80 lakh** | Excellent research & reputation      | **INR 60.00 to 82.00 lakh**    |          12% to 25% | Reach           | 31 Aug 2027          | Sep to Nov 2027   | Faculty awards (INR 1.00 to 4.00 lakh)            | Research-oriented; annual fee revisions add cost.                  |
-|    7 | [Univ. of Sydney][85]               | Master of Computer Science (AI Track) |   2 Years |  **INR 76.00 lakh** | Excellent Sydney employer access     | **INR 61.42 to 84.07 lakh**    |          25% to 40% | Reach / Target  | 31 Aug 2027          | Sep to Nov 2027   | Sydney Student Award (20% Tuition)                | Strong brand, but high Sydney living cost increases payback time.  |
-|    8 | [RMIT University][86]               | Master of Information Technology      |   2 Years |  **INR 56.00 lakh** | Good applied employment focus        | **INR 55.00 to 72.00 lakh**    |          55% to 75% | Likely          | 30 Sep 2027          | Oct to Dec 2027   | Future Leaders Scholarship (20% Tuition)          | Good practical backup in Melbourne.                                |
-|    9 | [Adelaide University][17]           | Master of Info Tech (AI Track)        |   2 Years |  **INR 71.80 lakh** | Good, smaller tech market            | **INR 52.40 to 68.90 lakh**    |          50% to 70% | Likely          | 30 Sep 2027          | Oct to Nov 2027   | Merit awards (INR 1.00 to 6.00 lakh)              | Smaller market and high fee reduce ROI despite regional points.    |
-|   10 | [Australian National Univ][87]      | Master of Computing (ML/Data)         |   2 Years |  **INR 68.00 lakh** | Strong government & research focus   | **INR 57.17 to 75.33 lakh**    |          25% to 40% | Target          | 31 Aug 2027          | Sep to Nov 2027   | ANU Chancellor's Award (25% to 50% Tuition)       | Good academic fit, but less direct ROI for non-citizen job search. |
+- **Rank & Status:** Rank 1 (Top Australian Value Target #1).
+- **Recommended Programme:** [Master of Computer Science (ML / Data Science Track)][16].
+- **Duration:** 1.5 Years (3 semesters format for prior CS degree holders).
+- **Acceptance Estimate & Profile Fit:** 35% to 55% acceptance probability. Target option for VIT 8.75 CGPA.
+- **Curriculum & Specialisation Fit:** Machine learning theory, advanced algorithms, computer vision, data engineering, and real-world research project.
+- **Industry Outlook & Target Salary:** Brisbane technology ecosystem and broader East Coast tech market. Target starting salary: **INR 55.15 lakh to INR 72.64 lakh per year** ($82,000 - $108,000 AUD). ([Jobs & Skills Australia][21])
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 39.15 lakh** (AUD 58,200 total for 1.5-year 24-unit stream).
+  - Student Services & Amenities Fee (SSAF): **INR 23,600**.
+  - Total Tuition & Mandatory Fees: **INR 39.39 lakh**.
+  - Living Budget (Brisbane Independent): **INR 1.31 lakh per month** (INR 15.74 lakh per year).
+  - One-Time Setup Costs: **INR 3.84 lakh** (Visa fee INR 1.08 lakh, OSHC health cover INR 94,164, flight INR 73,986, rental deposit INR 67,300).
+  - **Total Estimated Out-of-Pocket Expense (1.5 Years / 18 Months):** **INR 66.84 lakh** (Gross) / **INR 59.01 lakh** (Net after 20% scholarship).
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [UQ International High Achievers Award][2]
+  - _Eligibility:_ Citizens of India enrolled full-time in an eligible postgraduate coursework programme with academic score 85%+ (VIT 8.75 CGPA meets requirement).
+  - _Amount & Coverage:_ **20% Tuition Fee Reduction** across the entire degree (Saves **INR 7.83 lakh** total).
+  - _Duration & Renewal:_ Maintained for full 1.5-year degree duration subject to passing all enrolled courses.
+  - _Application Process & Deadlines:_ Assessed automatically during admission review. No separate application form required. Application deadline: **30 September 2027** for February 2028 intake (or **30 April 2027** for July 2027 intake).
+  - _Direct Link:_ [UQ Scholarships Portal](https://scholarships.uq.edu.au/)
+- **Admissions & Deadlines:**
+  - Application Deadline: **30 September 2027** (Feb intake) / **30 April 2027** (July intake).
+  - Requirements: Bachelor's degree in CS or related field with GPA equivalent to 5.0/7.0 (VIT 8.75 CGPA easily exceeds), IELTS 6.5 (minimum 6.0 in all bands). GRE not required.
+  - Decision Timeline: October to November 2027.
+- **Immigration & Post-Study Pathway:**
+  - **3-Year Subclass 485 Post-Study Work Visa:** Granted to Indian master's graduates under the AI-ECTA bilateral agreement (age cap 35). ([Australia Subclass 485 Visa][19])
+  - PR Pathway: Points-based General Skilled Migration (Subclass 189/190/491) for software programmers. Regional study points apply in Brisbane.
+- **Verdict & Strategic Assessment:** Best Australian ROI option. 1.5-year prior-degree stream cuts tuition and living costs by 25% compared to standard 2-year Australian master's degrees.
 
-#### Financial Separation: Australia (All Figures in INR)
+#### 12.3.2 Monash University
 
-##### 1. Tuition and University Mandatory Fees (INR)
+- **Rank & Status:** Rank 2 (Top Melbourne Target/Stretch).
+- **Recommended Programme:** [Master of Information Technology (AI Track)][15].
+- **Duration:** 1.5 to 2 Years (1.5-year waiver granted for 4-year B.Tech CSE background).
+- **Acceptance Estimate & Profile Fit:** 35% to 55% acceptance probability. Target option.
+- **Curriculum & Specialisation Fit:** Artificial intelligence, data science, software engineering, mobile systems, and industry capstone project.
+- **Industry Outlook & Target Salary:** Melbourne technology hub (finance, retail tech, enterprise software). Target starting salary: **INR 57.17 lakh to INR 75.33 lakh per year** ($85,000 - $112,000 AUD).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 50.11 lakh** (AUD 74,500 total for 1.5-year stream).
+  - Mandatory SSAF Fee: **INR 23,600**.
+  - Total Tuition & Mandatory Fees: **INR 50.35 lakh**.
+  - Living Budget (Melbourne Independent): **INR 1.68 lakh per month** (INR 20.18 lakh per year).
+  - One-Time Setup Costs: **INR 4.11 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (1.5 Years):** **INR 84.73 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [Monash International Leadership / Merit Scholarship][7]
+  - _Eligibility:_ High-achieving international candidates (CGPA 8.75+).
+  - _Amount & Coverage:_ **INR 3.36 lakh to INR 6.72 lakh per year** ($5,000 - $10,000 AUD/yr) or up to 100% full tuition waiver for top global recipients.
+  - _Duration & Renewal:_ Renewable for programme duration subject to maintaining a High Distinction (80%+) average.
+  - _Application Process & Deadlines:_ Requires separate scholarship application submission by **15 October 2027**. Course application must be submitted by **30 September 2027**.
+  - _Direct Link:_ [Monash Fees & Scholarships Portal](https://www.monash.edu/study/fees-scholarships/scholarships)
+- **Admissions & Deadlines:**
+  - Application Deadline: **30 September 2027**.
+  - Requirements: 4-year bachelor's degree in CS (VIT 8.75 CGPA qualifies for 1.5-year advanced standing), IELTS 6.5 (minimum 6.0 per band). GRE not required.
+  - Decision Timeline: October to November 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **3-year Subclass 485** post-study work visa under AI-ECTA.
+- **Verdict & Strategic Assessment:** Strong curriculum and 1.5-year fast-track path, but higher Melbourne tuition fees require securing the Monash Merit award to optimize ROI.
 
-- **UQ Master of CS (1.5 Years):** Total tuition INR 39.15 lakh. SSAF fee INR 23,600. Total Tuition + Mandatory Fees: **INR 39.39 lakh**.
-- **UTS Master of IT (2 Years):** Total tuition INR 61.88 lakh. SSAF fee INR 47,200. Total Tuition + Mandatory Fees: **INR 62.35 lakh**.
+#### 12.3.3 University of Technology Sydney (UTS)
 
-##### 2. Cost of Living Breakdown (INR)
+- **Rank & Status:** Rank 3 (Sydney Practical Target).
+- **Recommended Programme:** [Master of Information Technology][84].
+- **Duration:** 2 Years (4 semesters).
+- **Acceptance Estimate & Profile Fit:** 45% to 65% acceptance probability. Target / Likely option.
+- **Curriculum & Specialisation Fit:** Practical software development, data analytics, cybersecurity, interactive media, and UTS industry studio project.
+- **Industry Outlook & Target Salary:** Located in Sydney's Tech Central district (Atlassian HQ, Canva, Salesforce). Target starting salary: **INR 57.17 lakh to INR 77.35 lakh per year** ($85,000 - $115,000 AUD).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 61.88 lakh** (AUD 92,000 total across 2 years).
+  - Mandatory SSAF Fee: **INR 47,200**.
+  - Total Tuition & Mandatory Fees: **INR 62.35 lakh**.
+  - Living Budget (Sydney Independent): **INR 1.68 lakh per month** (INR 20.18 lakh per year).
+  - One-Time Setup Costs: **INR 4.11 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (2 Years):** **INR 106.82 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [UTS Academic Excellence International Scholarship][9]
+  - _Eligibility:_ International master's coursework admits with entrance CGPA 8.5+.
+  - _Amount & Coverage:_ **20% to 30% Tuition Fee Reduction** across full degree (Saves **INR 12.38 lakh to INR 18.56 lakh**).
+  - _Duration & Renewal:_ Maintained for 2 years subject to passing all subjects with a Credit average.
+  - _Application Process & Deadlines:_ Automatic consideration upon course offer issuance. Application deadline: **30 September 2027**.
+  - _Direct Link:_ [UTS International Scholarships Portal](https://www.uts.edu.au/study/international/scholarships)
+- **Admissions & Deadlines:**
+  - Application Deadline: **30 September 2027**.
+  - Requirements: Bachelor's degree in IT/CS (VIT 8.75 CGPA qualifies easily), IELTS 6.5 (minimum 6.0 in writing). GRE not required.
+  - Decision Timeline: October to November 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **3-year Subclass 485** post-study work visa under AI-ECTA.
+- **Verdict & Strategic Assessment:** Prime location in Sydney's tech precinct with strong industry projects, though high Sydney living costs require budget control.
 
-| Expense Item                         | Sydney / Melbourne (Monthly) | Brisbane (Monthly) |
-| :----------------------------------- | :--------------------------- | :----------------- |
-| Rent / Housing (Shared Room)         | INR 94,200                   | INR 67,300         |
-| Food and Groceries                   | INR 30,300                   | INR 26,900         |
-| Utilities & Internet                 | INR 9,400                    | INR 8,100          |
-| Mobile Phone Plan                    | INR 3,000                    | INR 3,000          |
-| Public Transport                     | INR 10,800                   | INR 8,100          |
-| OSHC Health Cover (Mandatory)        | INR 4,400                    | INR 4,400          |
-| Personal & Entertainment             | INR 16,100                   | INR 13,500         |
-| **Total Monthly Living Budget**      | **INR 1.68 lakh**            | **INR 1.31 lakh**  |
-| **Annual Living Budget (12 Months)** | **INR 20.18 lakh**           | **INR 15.74 lakh** |
+#### 12.3.4 Queensland University of Technology (QUT)
 
-##### 3. One-Time Setup Costs (INR)
+- **Rank & Status:** Rank 4 (Practical Brisbane Target).
+- **Recommended Programme:** [Master of Information Technology][18].
+- **Duration:** 2 Years.
+- **Acceptance Estimate & Profile Fit:** 55% to 75% acceptance probability. Likely Target option.
+- **Curriculum & Specialisation Fit:** Applied computer science, software architecture, data science, wireless networks, and practical industry project.
+- **Industry Outlook & Target Salary:** Brisbane software development companies and government IT sector. Target starting salary: **INR 53.80 lakh to INR 70.62 lakh per year** ($80,000 - $105,000 AUD).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 57.84 lakh** (AUD 86,000 total).
+  - Mandatory SSAF Fee: **INR 47,200**.
+  - Total Tuition & Mandatory Fees: **INR 58.31 lakh**.
+  - Living Budget (Brisbane Independent): **INR 1.31 lakh per month** (INR 15.74 lakh per year).
+  - One-Time Setup Costs: **INR 3.84 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (2 Years):** **INR 93.63 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [QUT International Merit Scholarship][10]
+  - _Eligibility:_ International applicants with undergraduate score meeting 80%+ (VIT 8.75 CGPA qualifies).
+  - _Amount & Coverage:_ **25% Tuition Fee Coverage** for the entire course (Saves **INR 14.46 lakh**).
+  - _Duration & Renewal:_ Maintained for full degree duration subject to minimum GPA 5.5/7.0.
+  - _Application Process & Deadlines:_ Assessed automatically upon applying for admission. Application deadline: **30 September 2027**.
+  - _Direct Link:_ [QUT Scholarships Finder Portal](https://www.qut.edu.au/study/fees-and-scholarships/scholarships)
+- **Admissions & Deadlines:**
+  - Application Deadline: **30 September 2027**.
+  - Requirements: Bachelor's degree in any discipline (CS background grants advanced placement), IELTS 6.5. GRE not required.
+  - Decision Timeline: October to November 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **3-year Subclass 485** visa and Brisbane regional points boost.
+- **Verdict & Strategic Assessment:** Solid practical alternative in Brisbane. Automatic 25% merit scholarship reduces total tuition to INR 43.38 lakh.
 
-- Subclass 500 Visa Fee: INR 1.08 lakh.
-- OSHC Health Cover (Upfront): INR 94,164.
-- Flight Ticket (India to Australia): INR 73,986.
-- Rental Deposit (Bond): INR 94,200 (Sydney) / INR 67,300 (Brisbane).
-- Setup & Initial Supplies: INR 40,356.
-- **Total Setup Cost:** **INR 4.11 lakh Sydney** / **INR 3.84 lakh Brisbane**.
+#### 12.3.5 UNSW Sydney
 
-##### 4. Total Estimated Cost Summary: Australia (INR)
+- **Rank & Status:** Rank 5 (High-Cost Sydney Reach).
+- **Recommended Programme:** [Master of Information Technology (AI Specialisation)][2].
+- **Duration:** 2 Years.
+- **Acceptance Estimate & Profile Fit:** 20% to 35% acceptance probability. Reach option.
+- **Curriculum & Specialisation Fit:** Deep neural networks, machine learning, computer vision, algorithms, database systems, and master's capstone project.
+- **Industry Outlook & Target Salary:** Top technical brand in Sydney tech ecosystem. Target starting salary: **INR 61.42 lakh to INR 84.07 lakh per year** ($91,000 - $125,000 AUD).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 87.90 lakh** (AUD 130,680 total across 2 years).
+  - Mandatory SSAF Fee: **INR 47,200**.
+  - Total Tuition & Mandatory Fees: **INR 88.37 lakh**.
+  - Living Budget (Sydney Independent): **INR 1.68 lakh per month** (INR 20.18 lakh per year).
+  - One-Time Setup Costs: **INR 4.11 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (2 Years):** **INR 132.84 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [UNSW International Student Award / Scientia Scholarship][12]
+  - _Eligibility:_ International coursework admits with top academic standing (CGPA 8.75+).
+  - _Amount & Coverage:_ **15% to 20% Tuition Fee Reduction** (Saves **INR 13.18 lakh to INR 17.58 lakh**) or Full Tuition Waiver for Scientia recipients.
+  - _Duration & Renewal:_ Maintained for full degree duration.
+  - _Application Process & Deadlines:_ Automatic consideration for International Student Award upon applying by **31 August 2027**.
+  - _Direct Link:_ [UNSW Scholarships Search Portal](https://www.scholarships.unsw.edu.au/)
+- **Admissions & Deadlines:**
+  - Application Deadline: **31 August 2027**.
+  - Requirements: Bachelor's degree in engineering/CS with minimum 75% average (VIT 8.75 CGPA qualifies easily), IELTS 6.5. GRE not required.
+  - Decision Timeline: September to October 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **3-year Subclass 485** post-study work visa under AI-ECTA.
+- **Verdict & Strategic Assessment:** World-class technical curriculum and brand, but extreme tuition and Sydney living expenses cap ROI unless substantial scholarship aid is awarded.
 
-- **UQ Master of CS (Brisbane - 1.5 Years):** Tuition INR 39.39 lakh + Living (18 Mo) INR 23.61 lakh + Setup INR 3.84 lakh = **INR 66.84 lakh**.
-- **UTS Master of IT (Sydney - 2 Years):** Tuition INR 62.35 lakh + Living (24 Mo) INR 40.36 lakh + Setup INR 4.11 lakh = **INR 106.82 lakh**.
+#### 12.3.6 University of Melbourne
 
-##### 5. Immigration and Settlement Pathway
+- **Rank & Status:** Rank 6 (Top Global Brand Reach).
+- **Recommended Programme:** [Master of Computer Science (AI Track)][14].
+- **Duration:** 2 Years.
+- **Acceptance Estimate & Profile Fit:** 12% to 25% acceptance probability. High Reach option.
+- **Curriculum & Specialisation Fit:** Advanced computer science research, machine learning theory, natural language processing, distributed computing, and thesis project.
+- **Industry Outlook & Target Salary:** Premier global brand recognition. Top access to Australian and international research labs. Target starting salary: **INR 60.00 lakh to INR 82.00 lakh per year** ($89,000 - $122,000 AUD).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 84.80 lakh** (AUD 126,080 total).
+  - Mandatory SSAF Fee: **INR 47,200**.
+  - Total Tuition & Mandatory Fees: **INR 85.27 lakh**.
+  - Living Budget (Melbourne Independent): **INR 1.68 lakh per month**.
+  - One-Time Setup Costs: **INR 4.11 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (2 Years):** **INR 129.74 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [Melbourne International Graduate Excellence Scholarship][14]
+  - _Eligibility:_ High-achieving international graduate coursework applicants (CGPA 8.75+).
+  - _Amount & Coverage:_ **INR 6.72 lakh to INR 13.45 lakh** ($10,000 - $20,000 AUD) total tuition reduction or up to 50% fee waiver.
+  - _Duration & Renewal:_ One-time or multi-year entry award.
+  - _Application Process & Deadlines:_ Assessed automatically upon applying for admission by **31 August 2027**.
+  - _Direct Link:_ [UniMelb Scholarships Portal](https://scholarships.unimelb.edu.au/)
+- **Admissions & Deadlines:**
+  - Application Deadline: **31 August 2027**.
+  - Requirements: Undergraduate CS major with 75%+ average (VIT 8.75 CGPA meets cutoff), prerequisite course mastery, IELTS 6.5. GRE not required.
+  - Decision Timeline: September to November 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **3-year Subclass 485** visa.
+- **Verdict & Strategic Assessment:** Highest academic status in Australia, but very high total tuition makes it a High-Cost Stretch option.
 
-- **Post-Study Work Rights:** 3-year Subclass 485 post-study work visa for Indian master's graduates under AI-ECTA (age cap 35).
-- **PR Pathway:** Points-based General Skilled Migration (Subclass 189/190/491) requires high points totals in software occupations, supported by regional study points.
+#### 12.3.7 University of Sydney
+
+- **Rank & Status:** Rank 7 (Sydney Prestigious Target/Reach).
+- **Recommended Programme:** [Master of Computer Science (AI Track)][85].
+- **Duration:** 2 Years.
+- **Acceptance Estimate & Profile Fit:** 25% to 40% acceptance probability. Target / Reach option.
+- **Curriculum & Specialisation Fit:** Artificial intelligence, algorithms, machine learning, data engineering, and practical capstone project.
+- **Industry Outlook & Target Salary:** High prestige in Sydney employer market. Target starting salary: **INR 61.42 lakh to INR 84.07 lakh per year** ($91,000 - $125,000 AUD).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 76.00 lakh** (AUD 113,000 total).
+  - Mandatory SSAF Fee: **INR 47,200**.
+  - Total Tuition & Mandatory Fees: **INR 76.47 lakh**.
+  - Living Budget (Sydney Independent): **INR 1.68 lakh per month**.
+  - One-Time Setup Costs: **INR 4.11 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (2 Years):** **INR 120.94 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [Sydney Vice-Chancellor's International Scholarship][16]
+  - _Eligibility:_ International coursework applicants with outstanding undergraduate GPA (CGPA 8.75+).
+  - _Amount & Coverage:_ Tiered awards: **INR 3.36 lakh to INR 26.90 lakh** ($5,000 - $40,000 AUD total value).
+  - _Duration & Renewal:_ Disbursed across degree terms based on academic progress.
+  - _Application Process & Deadlines:_ Automatic consideration upon course offer issuance by **31 August 2027**.
+  - _Direct Link:_ [USyd Scholarships Portal](https://www.sydney.edu.au/scholarships/)
+- **Admissions & Deadlines:**
+  - Application Deadline: **31 August 2027**.
+  - Requirements: Bachelor's degree in CS or quantitative discipline with 65%+ equivalent (VIT 8.75 CGPA qualifies easily), IELTS 6.5. GRE not required.
+  - Decision Timeline: September to November 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **3-year Subclass 485** visa.
+- **Verdict & Strategic Assessment:** Strong Sydney brand, but high combined cost requires securing a Vice-Chancellor's tier scholarship.
+
+#### 12.3.8 RMIT University
+
+- **Rank & Status:** Rank 8 (Melbourne Applied Target).
+- **Recommended Programme:** [Master of Information Technology][86].
+- **Duration:** 2 Years.
+- **Acceptance Estimate & Profile Fit:** 55% to 75% acceptance probability. Likely Target option.
+- **Curriculum & Specialisation Fit:** Hands-on software development, cloud computing, AI systems, mobile development, and industry placement.
+- **Industry Outlook & Target Salary:** Excellent practical connections with Melbourne software employers. Target starting salary: **INR 55.00 lakh to INR 72.00 lakh per year** ($81,000 - $107,000 AUD).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 56.00 lakh** (AUD 83,240 total).
+  - Mandatory SSAF Fee: **INR 47,200**.
+  - Total Tuition & Mandatory Fees: **INR 56.47 lakh**.
+  - Living Budget (Melbourne Independent): **INR 1.68 lakh per month**.
+  - One-Time Setup Costs: **INR 4.11 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (2 Years):** **INR 90.94 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [RMIT Future Leaders International Scholarship][17]
+  - _Eligibility:_ International students commencing eligible master's degrees with CGPA 8.0+.
+  - _Amount & Coverage:_ **20% Tuition Fee Reduction** across full degree duration (Saves **INR 11.20 lakh**).
+  - _Duration & Renewal:_ Maintained for 2 years subject to passing all courses.
+  - _Application Process & Deadlines:_ Automatically assessed upon application. Deadline **30 September 2027**.
+  - _Direct Link:_ [RMIT Scholarships Portal](https://www.rmit.edu.au/study/scholarships)
+- **Admissions & Deadlines:**
+  - Application Deadline: **30 September 2027**.
+  - Requirements: Bachelor's degree in any discipline (CS background enables advanced standing), IELTS 6.5. GRE not required.
+  - Decision Timeline: October to December 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **3-year Subclass 485** post-study work visa.
+- **Verdict & Strategic Assessment:** Practical applied curriculum in Melbourne. 20% scholarship reduces base tuition to INR 44.80 lakh.
+
+#### 12.3.9 University of Adelaide
+
+- **Rank & Status:** Rank 9 (Regional Points Target).
+- **Recommended Programme:** [Master of Information Technology (AI Track)][17].
+- **Duration:** 2 Years.
+- **Acceptance Estimate & Profile Fit:** 50% to 70% acceptance probability. Target / Likely option.
+- **Curriculum & Specialisation Fit:** Artificial intelligence, software engineering, cybersecurity, data science, and practical research project.
+- **Industry Outlook & Target Salary:** Adelaide regional tech hub (Australian Centre for Robotic Vision, defense tech). Target starting salary: **INR 52.40 lakh to INR 68.90 lakh per year** ($78,000 - $102,000 AUD).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 71.80 lakh** (AUD 106,750 total).
+  - Mandatory SSAF Fee: **INR 47,200**.
+  - Total Tuition & Mandatory Fees: **INR 72.27 lakh**.
+  - Living Budget (Adelaide Regional): **INR 1.25 lakh per month** (INR 15.00 lakh per year; 25% cheaper rent than Sydney).
+  - One-Time Setup Costs: **INR 3.70 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (2 Years):** **INR 105.97 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [Adelaide Global Academic Excellence International Scholarship][19]
+  - _Eligibility:_ Highly competitive applicants with CGPA 8.75+ (VIT 8.75 CGPA meets benchmark).
+  - _Amount & Coverage:_ **50% Full Tuition Fee Waiver** (Saves **INR 35.90 lakh** total).
+  - _Duration & Renewal:_ Maintained for 2 years subject to maintaining minimum GPA 6.0/7.0.
+  - _Application Process & Deadlines:_ Automatic assessment upon course application submission by **30 September 2027**.
+  - _Direct Link:_ [Adelaide University Scholarships Portal](https://www.adelaide.edu.au/scholarships/)
+- **Admissions & Deadlines:**
+  - Application Deadline: **30 September 2027**.
+  - Requirements: Bachelor's degree in CS or equivalent, IELTS 6.5. GRE not required.
+  - Decision Timeline: October to November 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **3-year Subclass 485** visa plus 1 additional year regional post-study extension (Total 4 years post-study work visa in Adelaide).
+- **Verdict & Strategic Assessment:** High base tuition, but 50% Global Academic Excellence scholarship plus 4 years of regional post-study work rights make Adelaide an attractive settlement option.
+
+#### 12.3.10 Australian National University (ANU)
+
+- **Rank & Status:** Rank 10 (Government / Capital Target).
+- **Recommended Programme:** [Master of Computing (Machine Learning / Data Track)][87].
+- **Duration:** 2 Years.
+- **Acceptance Estimate & Profile Fit:** 25% to 40% acceptance probability. Target option.
+- **Curriculum & Specialisation Fit:** Artificial intelligence theory, machine learning, software engineering, statistics, and capstone research project.
+- **Industry Outlook & Target Salary:** Canberra government IT, defense technology, and research institutions. Target starting salary: **INR 57.17 lakh to INR 75.33 lakh per year** ($85,000 - $112,000 AUD). Note: Many federal government security roles require Australian citizenship.
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 68.00 lakh** (AUD 101,100 total).
+  - Mandatory SSAF Fee: **INR 47,200**.
+  - Total Tuition & Mandatory Fees: **INR 68.47 lakh**.
+  - Living Budget (Canberra Independent): **INR 1.45 lakh per month** (INR 17.40 lakh per year).
+  - One-Time Setup Costs: **INR 3.90 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (2 Years):** **INR 107.17 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [ANU Chancellor's International Scholarship][20]
+  - _Eligibility:_ International coursework applicants with entrance CGPA 8.5+.
+  - _Amount & Coverage:_ **25% to 50% Tuition Fee Reduction** (Saves **INR 17.00 lakh to INR 34.00 lakh**).
+  - _Duration & Renewal:_ Maintained for full degree duration.
+  - _Application Process & Deadlines:_ Automatically assessed upon submitting ANU course application by **31 August 2027**.
+  - _Direct Link:_ [ANU Scholarships Portal](https://www.anu.edu.au/study/scholarships)
+- **Admissions & Deadlines:**
+  - Application Deadline: **31 August 2027**.
+  - Requirements: Bachelor's degree in CS or related field with 70%+ average (VIT 8.75 CGPA qualifies easily), IELTS 6.5. GRE not required.
+  - Decision Timeline: September to November 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **3-year Subclass 485** visa and ACT regional nomination pathway.
+- **Verdict & Strategic Assessment:** Strong academic institution in Canberra, but private commercial tech opportunities are fewer compared to Sydney or Melbourne.
 
 [↑ Back to top](#table-of-contents)
 
@@ -407,65 +1191,276 @@ Climate conditions directly affect personal health, clothing expenses, daily tra
 
 ### 12.4 New Zealand
 
-#### University Programme Comparison Table: New Zealand (All Figures in INR)
+#### 12.4.1 University of Canterbury
 
-| Rank | University                      | Recommended Programme and Branch       |  Duration | Total Tuition (INR) | Employment Outlook                           | Starting Salary Range (INR/yr) | Acceptance Estimate | Profile Chance | Application Deadline | Expected Decision | Key Scholarships                               | Overall Assessment                                            |
-| ---: | :------------------------------ | :------------------------------------- | --------: | ------------------: | :------------------------------------------- | :----------------------------- | ------------------: | :------------- | :------------------- | :---------------- | :--------------------------------------------- | :------------------------------------------------------------ |
-|    1 | [Univ. of Canterbury][88]       | Master of Applied Data Science         |  1-1.5 Yr |  **INR 31.88 lakh** | Good regional market in Christchurch         | **INR 40.40 to 53.30 lakh**    |          45% to 60% | Target         | 30 Sep 2027          | Oct to Nov 2027   | UC Dean's Award (INR 2.80 to 5.61 lakh)        | Best NZ ROI; manageable fee structure and applied focus.      |
-|    2 | [Univ. of Auckland][89]         | Master of Info Tech (180-point)        | 1.5 Years |  **INR 40.41 lakh** | Best employer access in NZ (Auckland hub)    | **INR 42.09 to 56.12 lakh**    |          35% to 50% | Target         | 31 Aug 2027          | Sep to Oct 2027   | Intl Student Award (INR 5.61 lakh)             | Premier NZ brand; higher tuition and living expenses.         |
-|    3 | [Victoria Univ. Wellington][90] | Master of Computer Science             | 1.5 Years |  **INR 38.16 lakh** | Access to government IT and Wellington firms | **INR 40.40 to 53.87 lakh**    |          40% to 60% | Target         | 30 Sep 2027          | Oct to Nov 2027   | Tongarewa Award (INR 2.80 to 5.61 lakh)        | Solid computing master's with Wellington industry access.     |
-|    4 | [Univ. of Waikato][91]          | Master of Info Tech (180-point)        |  1-1.5 Yr |  **INR 38.90 lakh** | Moderate, includes an internship             | **INR 36.50 to 50.50 lakh**    |          55% to 75% | Likely         | 30 Sep 2027          | Oct to Nov 2027   | VC International Award (INR 2.80 to 5.61 lakh) | Internship helps offset smaller market risk.                  |
-|    5 | [Auckland Univ of Tech][92]     | Master of Computer & Info Sciences     | 1.5 Years |  **INR 38.70 lakh** | Good Auckland access; research focus         | **INR 37.00 to 51.00 lakh**    |          55% to 75% | Likely         | 30 Sep 2027          | Oct to Nov 2027   | AUT International Award (INR 2.80 lakh)        | Auckland access helps; research route must map to job market. |
-|    6 | [Univ. of Auckland][89]         | Master of Data Science (180-point)     | 1.5 Years |  **INR 47.00 lakh** | Strongest local data market                  | **INR 42.09 to 57.24 lakh**    |          30% to 45% | Reach / Target | 31 Aug 2027          | Sep to Oct 2027   | Faculty awards (INR 2.00 to 5.00 lakh)         | Strong AI/ML fit, but high fee for a small market.            |
-|    7 | [Univ. of Otago][93]            | Master of Applied Science (CS)         |    1 Year |  **INR 42.00 lakh** | Moderate, geographically smaller market      | **INR 36.50 to 49.38 lakh**    |          50% to 70% | Likely         | 30 Sep 2027          | Oct to Nov 2027   | Faculty awards (INR 1.00 to 4.00 lakh)         | Good academic fit, but weaker employer access.                |
-|    8 | [Massey University][94]         | Master of Info Sciences (Data Science) | 1.5 Years |  **INR 38.80 lakh** | Moderate, campus location matters            | **INR 36.50 to 49.38 lakh**    |          55% to 75% | Likely         | 30 Sep 2027          | Oct to Dec 2027   | Postgraduate awards (INR 1.50 to 3.00 lakh)    | Better as a backup than a first-choice AI option.             |
-|    9 | [Lincoln University][52]        | Master of Applied Computing            |  1-1.5 Yr |  **INR 35.40 lakh** | Limited general technology market            | **INR 34.10 to 47.14 lakh**    |          65% to 85% | Very Likely    | 30 Sep 2027          | Oct to Dec 2027   | Fee waiver is domestic only; plan full fee     | Admission backup; content overlaps undergraduate study.       |
-|   10 | [Eastern Institute of Tech][53] | Master of Information Technology       | 1.5 Years |  **INR 21.90 lakh** | Limited employer depth                       | **INR 33.00 to 44.89 lakh**    |          70% to 90% | Very Likely    | 30 Sep 2027          | Oct to Dec 2027   | Net fee after scholarship INR 21.90 lakh       | Admission backup only; not a career-first choice.             |
+- **Rank & Status:** Rank 1 (Top New Zealand Value Target #1).
+- **Recommended Programme:** [Master of Applied Data Science (MADS)][88].
+- **Duration:** 1 to 1.5 Years (12 to 18 months, 180 points).
+- **Acceptance Estimate & Profile Fit:** 45% to 60% acceptance probability. Target option for VIT 8.75 CGPA.
+- **Curriculum & Specialisation Fit:** Applied data science, machine learning, data engineering, visualization, and real-world industry internship project.
+- **Industry Outlook & Target Salary:** Christchurch tech cluster (software, electronics, agricultural tech). Target starting salary: **INR 40.40 lakh to INR 53.30 lakh per year** ($72,000 - $95,000 NZD). ([Tahatu NZ Pay Data][33])
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 31.88 lakh** (NZD 56,800 total tuition).
+  - Mandatory Student Services Levy: **INR 51,600** (NZD 920).
+  - Total Tuition & Mandatory Fees: **INR 32.40 lakh**.
+  - Living Budget (Christchurch Independent): **INR 89,500 per month** (INR 10.74 lakh per year; lowest rent among top NZ cities).
+  - One-Time Setup Costs: **INR 1.51 lakh** (Visa fee INR 24,130, flight INR 67,344, rental deposit INR 31,400, setup INR 28,060).
+  - **Total Estimated Out-of-Pocket Expense (1.5 Years / 18 Months):** **INR 50.02 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [UC International College / Dean's Award][88]
+  - _Eligibility:_ International students commencing postgraduate study with CGPA 8.5+.
+  - _Amount & Coverage:_ **INR 2.80 lakh to INR 5.61 lakh** ($5,000 - $10,000 NZD) tuition deduction.
+  - _Duration & Renewal:_ One-time entry award for the 180-point master's.
+  - _Application Process & Deadlines:_ Assessed automatically upon submitting course application by **30 September 2027**.
+  - _Direct Link:_ [UC Scholarships Database Portal](https://www.canterbury.ac.nz/get-started/scholarships/)
+- **Admissions & Deadlines:**
+  - Application Deadline: **30 September 2027** for February 2028 intake.
+  - Requirements: Bachelor's degree in any quantitative field (CS/B.Tech qualifies directly), B average (VIT 8.75 CGPA exceeds cutoff), IELTS 6.5 (no band below 6.0). GRE not required.
+  - Decision Timeline: October to November 2027.
+- **Immigration & Post-Study Pathway:**
+  - **3-Year Post Study Work Visa (PSWV):** Granted to master's graduates completing at least 30 weeks of full-time study in NZ. ([New Zealand Post-Study Work Visa][32])
+  - PR Pathway: Skilled Migrant Category (SMC) or Green List software role requiring a job offer from an accredited NZ employer.
+- **Verdict & Strategic Assessment:** Best NZ value option overall. Manageable tuition, low regional living costs in Christchurch, and a 3-year post-study work visa.
 
-#### Financial Separation: New Zealand (All Figures in INR)
+#### 12.4.2 University of Auckland
 
-##### 1. Tuition and University Mandatory Fees (INR)
+- **Rank & Status:** Rank 2 (Top NZ Brand Target).
+- **Recommended Programme:** [Master of Information Technology (MIT 180-point)][89].
+- **Duration:** 1.5 Years (18 months).
+- **Acceptance Estimate & Profile Fit:** 35% to 50% acceptance probability. Target option.
+- **Curriculum & Specialisation Fit:** Advanced software development, cloud computing, enterprise architecture, machine learning, and 10-week industry internship.
+- **Industry Outlook & Target Salary:** Auckland technology hub (hosts over 60% of New Zealand's tech software employers). Target starting salary: **INR 42.09 lakh to INR 56.12 lakh per year** ($75,000 - $100,000 NZD).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 40.41 lakh** (NZD 72,000 total).
+  - Mandatory Student Services Fee: **INR 58,900**.
+  - Total Tuition & Mandatory Fees: **INR 41.00 lakh**.
+  - Living Budget (Auckland Independent): **INR 1.17 lakh per month** (INR 14.04 lakh per year).
+  - One-Time Setup Costs: **INR 1.66 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (1.5 Years):** **INR 63.72 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [University of Auckland International Student Excellence Scholarship][89]
+  - _Eligibility:_ High-achieving international postgraduate coursework admits (CGPA 8.5+).
+  - _Amount & Coverage:_ Up to **INR 5.61 lakh** ($10,000 NZD) tuition reduction.
+  - _Duration & Renewal:_ One-time entry award.
+  - _Application Process & Deadlines:_ Requires separate online scholarship application by **21 November 2027**. Course application due **31 August 2027**.
+  - _Direct Link:_ [UoA Postgraduate Scholarships Portal](https://www.auckland.ac.nz/en/study/scholarships-and-awards.html)
+- **Admissions & Deadlines:**
+  - Application Deadline: **31 August 2027**.
+  - Requirements: Bachelor's degree in CS or IT with B average (VIT 8.75 CGPA exceeds), IELTS 6.5 (minimum 6.0 per band). GRE not required.
+  - Decision Timeline: September to October 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **3-year PSWV** and Green List PR pathway.
+- **Verdict & Strategic Assessment:** Highest brand recognition in New Zealand with maximum access to local Auckland software firms, but living and tuition costs are higher.
 
-- **Canterbury MADS:** Base tuition INR 31.88 lakh. Student services levy INR 51,600. Total Tuition + Fees: **INR 32.40 lakh**.
-- **Auckland MIT:** Base tuition INR 40.41 lakh. Student services fee INR 58,900. Total Tuition + Fees: **INR 41.00 lakh**.
+#### 12.4.3 Victoria University of Wellington
 
-##### 2. Cost of Living Breakdown (INR)
+- **Rank & Status:** Rank 3 (Wellington Government/Tech Target).
+- **Recommended Programme:** [Master of Computer Science (MCompSc)][90].
+- **Duration:** 1.5 Years (18 months, 180 points).
+- **Acceptance Estimate & Profile Fit:** 40% to 60% acceptance probability. Target option.
+- **Curriculum & Specialisation Fit:** Artificial intelligence, graphics, computer vision, network security, and practical research project.
+- **Industry Outlook & Target Salary:** Wellington tech hub (Xero HQ, Weta Digital, government IT contracts). Target starting salary: **INR 40.40 lakh to INR 53.87 lakh per year** ($72,000 - $96,000 NZD).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 38.16 lakh** (NZD 68,000 total).
+  - Mandatory Student Levy: **INR 50,000**.
+  - Total Tuition & Mandatory Fees: **INR 38.66 lakh**.
+  - Living Budget (Wellington Independent): **INR 1.10 lakh per month** (INR 13.20 lakh per year).
+  - One-Time Setup Costs: **INR 1.60 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (1.5 Years):** **INR 58.46 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [Wellington Tongarewa International Scholarship][90]
+  - _Eligibility:_ International students commencing undergraduate or postgraduate study with academic excellence (CGPA 8.5+).
+  - _Amount & Coverage:_ **INR 2.80 lakh to INR 5.61 lakh** ($5,000 - $10,000 NZD) fee waiver.
+  - _Duration & Renewal:_ One-time entry award.
+  - _Application Process & Deadlines:_ Requires online scholarship application submission by **30 November 2027**. Course application deadline **30 September 2027**.
+  - _Direct Link:_ [Victoria Wellington International Scholarships](https://www.wgtn.ac.nz/international/scholarships)
+- **Admissions & Deadlines:**
+  - Application Deadline: **30 September 2027**.
+  - Requirements: Bachelor's degree in CS with B average (VIT 8.75 CGPA meets requirements), IELTS 6.5. GRE not required.
+  - Decision Timeline: October to November 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **3-year PSWV** and Green List PR pathway.
+- **Verdict & Strategic Assessment:** Solid computing master's in NZ's capital city with good connections to Wellington digital animation and SaaS firms.
 
-| Expense Item                         | Auckland (Monthly) | Christchurch (Monthly) |
-| :----------------------------------- | :----------------- | :--------------------- |
-| Rent / Housing (Shared Room)         | INR 61,700         | INR 42,100             |
-| Food and Groceries                   | INR 23,600         | INR 21,300             |
-| Utilities & Internet                 | INR 6,700          | INR 5,600              |
-| Mobile Phone Plan                    | INR 2,500          | INR 2,500              |
-| Public Transport                     | INR 7,900          | INR 5,600              |
-| Health Insurance (Student Safe)      | INR 3,400          | INR 3,400              |
-| Personal & Entertainment             | INR 11,200         | INR 9,000              |
-| **Total Monthly Living Budget**      | **INR 1.17 lakh**  | **INR 89,500**         |
-| **Annual Living Budget (12 Months)** | **INR 14.04 lakh** | **INR 10.74 lakh**     |
+#### 12.4.4 University of Waikato
 
-##### 3. One-Time Setup Costs (INR)
+- **Rank & Status:** Rank 4 (Internship-Focused Target).
+- **Recommended Programme:** [Master of Information Technology (180-point)][91].
+- **Duration:** 1 to 1.5 Years (12 to 18 months).
+- **Acceptance Estimate & Profile Fit:** 55% to 75% acceptance probability. Likely Target option.
+- **Curriculum & Specialisation Fit:** Software engineering, cybersecurity, machine learning, and mandatory 10-week industry internship.
+- **Industry Outlook & Target Salary:** Hamilton tech hub and Auckland commuter market. Target starting salary: **INR 36.50 lakh to INR 50.50 lakh per year** ($65,000 - $90,000 NZD).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 38.90 lakh** (NZD 69,300 total).
+  - Mandatory Student Fees: **INR 45,000**.
+  - Total Tuition & Mandatory Fees: **INR 39.35 lakh**.
+  - Living Budget (Hamilton Independent): **INR 95,000 per month** (Lower rent than Auckland).
+  - One-Time Setup Costs: **INR 1.55 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (1.5 Years):** **INR 55.15 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [University of Waikato Vice-Chancellor's International Excellence Award][91]
+  - _Eligibility:_ International students demonstrating academic achievement (CGPA 8.0+).
+  - _Amount & Coverage:_ **INR 2.80 lakh to INR 5.61 lakh** ($5,000 - $10,000 NZD) tuition waiver.
+  - _Duration & Renewal:_ Applied directly to first-year tuition.
+  - _Application Process & Deadlines:_ Evaluated upon course application submission by **30 September 2027**.
+  - _Direct Link:_ [Waikato Scholarships Finder](https://www.waikato.ac.nz/scholarships/)
+- **Admissions & Deadlines:**
+  - Application Deadline: **30 September 2027**.
+  - Requirements: Bachelor's degree in CS/IT (VIT 8.75 CGPA meets requirements), IELTS 6.5. GRE not required.
+  - Decision Timeline: October to November 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **3-year PSWV**.
+- **Verdict & Strategic Assessment:** Integrated 10-week industry internship helps mitigate the risk of entering a smaller graduate job market.
 
-- Student Visa Fee: INR 24,130.
-- Flight Ticket (India to Auckland): INR 67,344.
-- Rental Deposit (3 Weeks Rent): INR 46,300 (Auckland) / INR 31,400 (Christchurch).
-- Setup & Outerwear: INR 28,060.
-- **Total Setup Cost:** **INR 1.66 lakh Auckland** / **INR 1.51 lakh Christchurch**.
+#### 12.4.5 Auckland University of Technology (AUT)
 
-##### 4. Total Estimated Cost Summary: New Zealand (INR)
+- **Rank & Status:** Rank 5 (Auckland Applied Target).
+- **Recommended Programme:** [Master of Computer and Information Sciences][92].
+- **Duration:** 1.5 Years (18 months, 180 points).
+- **Acceptance Estimate & Profile Fit:** 55% to 75% acceptance probability. Likely Target option.
+- **Curriculum & Specialisation Fit:** Applied computer science, AI, data mining, cybersecurity, and research thesis.
+- **Industry Outlook & Target Salary:** Direct access to Auckland software employers. Target starting salary: **INR 37.00 lakh to INR 51.00 lakh per year** ($66,000 - $91,000 NZD).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 38.70 lakh** (NZD 69,000 total).
+  - Mandatory Student Fees: **INR 50,000**.
+  - Total Tuition & Mandatory Fees: **INR 39.20 lakh**.
+  - Living Budget (Auckland Independent): **INR 1.17 lakh per month**.
+  - One-Time Setup Costs: **INR 1.66 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (1.5 Years):** **INR 61.92 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [AUT International Student Academic Excellence Award][92]
+  - _Eligibility:_ Non-NZ citizens commencing full-time master's study with CGPA 8.0+.
+  - _Amount & Coverage:_ **INR 2.80 lakh** ($5,000 NZD) tuition deduction.
+  - _Duration & Renewal:_ One-time entry award.
+  - _Application Process & Deadlines:_ Assessed automatically upon applying for course admission by **30 September 2027**.
+  - _Direct Link:_ [AUT Scholarships Database](https://www.aut.ac.nz/study/fees-and-fees-protection/scholarships-and-awards)
+- **Admissions & Deadlines:**
+  - Application Deadline: **30 September 2027**.
+  - Requirements: Bachelor's degree in CS or related field with B average (VIT 8.75 CGPA meets), IELTS 6.5. GRE not required.
+  - Decision Timeline: October to November 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **3-year PSWV**.
+- **Verdict & Strategic Assessment:** Practical coursework alternative in Auckland, serving as a reliable backup to UoA.
 
-- **Canterbury MADS (Christchurch - 1.5 Years):** Tuition INR 32.40 lakh + Living (18 Mo) INR 16.11 lakh + Setup INR 1.51 lakh = **INR 50.02 lakh**.
-- **Auckland MIT (Auckland - 1.5 Years):** Tuition INR 41.00 lakh + Living (18 Mo) INR 21.06 lakh + Setup INR 1.66 lakh = **INR 63.72 lakh**.
+#### 12.4.6 University of Otago
 
-##### 5. Immigration and Settlement Pathway
+- **Rank & Status:** Rank 6 (Regional Applied Science Option).
+- **Recommended Programme:** [Master of Applied Science (MAppSc) in Computer Science][93].
+- **Duration:** 1 Year (12 months, 180 points).
+- **Acceptance Estimate & Profile Fit:** 50% to 70% acceptance probability. Target / Likely option.
+- **Curriculum & Specialisation Fit:** Applied computer science, software engineering, graphics, AI, and project placement.
+- **Industry Outlook & Target Salary:** Dunedin regional market and national NZ tech ecosystem. Target starting salary: **INR 36.50 lakh to INR 49.38 lakh per year** ($65,000 - $88,000 NZD).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 42.00 lakh** (NZD 74,800 total).
+  - Mandatory Student Fees: **INR 45,000**.
+  - Total Tuition & Mandatory Fees: **INR 42.45 lakh**.
+  - Living Budget (Dunedin Regional): **INR 90,000 per month** (INR 10.80 lakh per year).
+  - One-Time Setup Costs: **INR 1.50 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (1 Year):** **INR 54.75 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [Otago International Master's Award][93]
+  - _Eligibility:_ International coursework master's applicants demonstrating strong academic record (CGPA 8.5+).
+  - _Amount & Coverage:_ **INR 5.61 lakh** ($10,000 NZD) tuition reduction.
+  - _Duration & Renewal:_ Applied to 1-year master's tuition.
+  - _Application Process & Deadlines:_ Automatic consideration upon course offer by **30 September 2027**.
+  - _Direct Link:_ [Otago Postgraduate Scholarships](https://www.otago.ac.nz/study/scholarships)
+- **Admissions & Deadlines:**
+  - Application Deadline: **30 September 2027**.
+  - Requirements: Bachelor's degree in CS with B average, IELTS 6.5. GRE not required.
+  - Decision Timeline: October to November 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **3-year PSWV**.
+- **Verdict & Strategic Assessment:** 1-year format speeds up completion, but tuition is relatively high for a smaller Dunedin job market.
 
-- **Post-Study Work Rights:** 3-year Post Study Work Visa for master's graduates completing at least 30 weeks of full-time study.
-- **PR Pathway:** Skilled Migrant Category or Green List roles requiring a qualifying job offer from an accredited employer.
+#### 12.4.7 Massey University
+
+- **Rank & Status:** Rank 7 (Data Science Option).
+- **Recommended Programme:** [Master of Information Sciences (Data Science)][94].
+- **Duration:** 1.5 Years (18 months).
+- **Acceptance Estimate & Profile Fit:** 55% to 75% acceptance probability. Likely option.
+- **Curriculum & Specialisation Fit:** Big data, data analytics, machine learning, database engineering, and practical research thesis.
+- **Industry Outlook & Target Salary:** Palmerston North / Auckland campuses tech access. Target starting salary: **INR 36.50 lakh to INR 49.38 lakh per year** ($65,000 - $88,000 NZD).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 38.80 lakh** (NZD 69,150 total).
+  - Mandatory Student Fees: **INR 45,000**.
+  - Total Tuition & Mandatory Fees: **INR 39.25 lakh**.
+  - Living Budget (Independent): **INR 1.00 lakh per month**.
+  - One-Time Setup Costs: **INR 1.55 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (1.5 Years):** **INR 55.80 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [Massey University International Postgraduate Excellence Award][94]
+  - _Eligibility:_ International students with entry CGPA 8.0+.
+  - _Amount & Coverage:_ **INR 1.68 lakh to INR 2.80 lakh** ($3,000 - $5,000 NZD) tuition deduction.
+  - _Duration & Renewal:_ One-time entry award.
+  - _Application Process & Deadlines:_ Assessed upon course application submission by **30 September 2027**.
+  - _Direct Link:_ [Massey Scholarships Portal](https://www.massey.ac.nz/study/scholarships/)
+- **Admissions & Deadlines:**
+  - Application Deadline: **30 September 2027**.
+  - Requirements: Bachelor's degree in quantitative discipline, IELTS 6.5. GRE not required.
+  - Decision Timeline: October to December 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **3-year PSWV**.
+- **Verdict & Strategic Assessment:** Solid backup option for data science, best evaluated if Auckland campus option is selected.
+
+#### 12.4.8 Lincoln University
+
+- **Rank & Status:** Rank 8 (Budget Backup Option).
+- **Recommended Programme:** [Master of Applied Computing][52].
+- **Duration:** 1 to 1.5 Years (12 to 18 months).
+- **Acceptance Estimate & Profile Fit:** 65% to 85% acceptance probability. Very Likely backup option.
+- **Curriculum & Specialisation Fit:** Applied computing, software development, web systems, database design, and practical industry project.
+- **Industry Outlook & Target Salary:** Christchurch regional software market. Target starting salary: **INR 34.10 lakh to INR 47.14 lakh per year** ($60,800 - $84,000 NZD).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 35.40 lakh** (NZD 63,000 total).
+  - Mandatory Student Fees: **INR 40,000**.
+  - Total Tuition & Mandatory Fees: **INR 35.80 lakh**.
+  - Living Budget (Christchurch Regional): **INR 89,500 per month**.
+  - One-Time Setup Costs: **INR 1.50 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (1.5 Years):** **INR 53.42 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Status:_ Fee waiver scholarships at Lincoln are restricted to domestic New Zealand citizens. International students must plan for full fee payment.
+  - _Direct Link:_ [Lincoln Scholarships Database](https://www.lincoln.ac.nz/study/scholarships/)
+- **Admissions & Deadlines:**
+  - Application Deadline: **30 September 2027**.
+  - Requirements: Undergraduate degree in any field (VIT 8.75 CGPA easily exceeds), IELTS 6.5. GRE not required.
+  - Decision Timeline: October to December 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **3-year PSWV**.
+- **Verdict & Strategic Assessment:** Admission safety backup, but course content overlaps significantly with undergraduate study.
+
+#### 12.4.9 Eastern Institute of Technology (EIT)
+
+- **Rank & Status:** Rank 9 (Ultra-Budget Safety Backup).
+- **Recommended Programme:** [Master of Information Technology][53].
+- **Duration:** 1.5 Years (18 months).
+- **Acceptance Estimate & Profile Fit:** 70% to 90% acceptance probability. Very Likely backup option.
+- **Curriculum & Specialisation Fit:** Practical IT development, software management, data analytics, and applied project.
+- **Industry Outlook & Target Salary:** Regional NZ market (Hawke's Bay / Auckland). Target starting salary: **INR 33.00 lakh to INR 44.89 lakh per year** ($58,800 - $80,000 NZD).
+- **Financial Breakdown (INR):**
+  - Base Tuition: **INR 21.90 lakh** (NZD 39,000 total net fee after international discount).
+  - Mandatory Student Fees: **INR 35,000**.
+  - Total Tuition & Mandatory Fees: **INR 22.25 lakh**.
+  - Living Budget (Regional Independent): **INR 85,000 per month**.
+  - One-Time Setup Costs: **INR 1.45 lakh**.
+  - **Total Estimated Out-of-Pocket Expense (1.5 Years):** **INR 39.00 lakh**.
+- **Complete Scholarship & Funding Details:**
+  - _Scholarship Name:_ [EIT International Programme Fee Subsidy][53]
+  - _Eligibility:_ Automatically applied to all non-NZ international master's applicants.
+  - _Amount & Coverage:_ **INR 3.36 lakh to INR 5.61 lakh** ($6,000 - $10,000 NZD total fee discount).
+  - _Duration & Renewal:_ Incorporated into published net international tuition fee (INR 21.90 lakh total).
+  - _Application Process & Deadlines:_ Automatic upon application by **30 September 2027**.
+  - _Direct Link:_ [EIT Scholarships Page](https://www.eit.ac.nz/students/scholarships/)
+- **Admissions & Deadlines:**
+  - Application Deadline: **30 September 2027**.
+  - Requirements: Bachelor's degree in computing or IT, IELTS 6.5. GRE not required.
+  - Decision Timeline: October to December 2027.
+- **Immigration & Post-Study Pathway:**
+  - Eligible for **3-year PSWV**.
+- **Verdict & Strategic Assessment:** Ultra-low-cost admission safety backup in New Zealand.
 
 [↑ Back to top](#table-of-contents)
 
----
-
-## 13. Substantially Expanded Scholarship and Financial Assistance Guide
+## 13. Global and Government Scholarships Guide
 
 ### 13.1 Major Global and National Scholarships (All Values in INR)
 
@@ -486,7 +1481,7 @@ Climate conditions directly affect personal health, clothing expenses, daily tra
 - **Application Deadline:** 1 December 2026.
 - **Award Value:** Entrance awards range from **INR 1.70 lakh to INR 3.41 lakh**. Paid co-op terms (4 to 8 months) earn **INR 2.59 lakh to INR 3.55 lakh per month**.
 - **Co-op Earnings Math:** 4 months co-op @ INR 3.07 lakh/month = INR 12.28 lakh gross (approx. **INR 10.10 lakh net** after taxes).
-- **Net Cost Impact:** **Reduces SFU net cost with Vancouver relative support from INR 47.34 lakh down to INR 35.54 lakh total out-of-pocket**.
+- **Net Cost Impact:** **Reduces SFU net cost with Vancouver relative support from INR 47.34 lakh down to INR 37.24 lakh total out-of-pocket**.
 
 #### 3. UQ International High Achievers Award (Australia)
 
@@ -504,7 +1499,7 @@ Climate conditions directly affect personal health, clothing expenses, daily tra
 
 [↑ Back to top](#table-of-contents)
 
-## 14. Final Application Portfolio
+## 14. Final Strategic Application Portfolio
 
 ### 14.1 Strategic Application Portfolio
 
@@ -566,6 +1561,7 @@ All monetary values in this document are displayed strictly in Indian Rupees (IN
 - **[66]** [Reddit Ireland student visa timeline discussion][66]
 - **[67]** [Reddit TCD and UCD Ireland loan risk discussion][67]
 - **[70]** [Reddit r/Indians_StudyAbroad monthly top feed][70]
+- **[71]** [Canada Express Entry STEM category selection][71]
 - **[72]** [BC PNP Master's stream rules 2025/2026][72]
 - **[73]** [SFU Professional MSc in Computer Science][73]
 - **[74]** [UBC Master of Data Science][74]
@@ -626,9 +1622,10 @@ All monetary values in this document are displayed strictly in Indian Rupees (IN
 [66]: https://www.reddit.com/r/Indians_StudyAbroad/comments/1v344kk/ireland_student_visa_processing_time_submitted/ "Reddit Ireland student visa timeline discussion"
 [67]: https://www.reddit.com/r/Indians_StudyAbroad/comments/1v2tejp/business_analytics_and_ai_from_tcd_experience/ "Reddit TCD and UCD Ireland loan risk discussion"
 [70]: https://www.reddit.com/r/Indians_StudyAbroad/top/?t=month "Reddit r/Indians_StudyAbroad monthly top feed"
+[71]: https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/submit-profile/rounds-invitations/category-based-selection.html "Canada Express Entry STEM category selection"
 [72]: https://www.welcomebc.ca/Immigrate-to-B-C/BC-PNP-Skills-Immigration "BC PNP Master's stream rules 2025/2026"
 [73]: https://www.sfu.ca/computing/prospective-students/graduate-students/professional-programs.html "SFU Professional MSc in Computer Science"
-[74]: https://masterds.ubc.ca/ "UBC Master of Data Science"
+[74]: https://masterdatascience.ubc.ca/ "UBC Master of Data Science"
 [75]: https://www.uottawa.ca/faculty-engineering/graduate-studies/programs/computer-science "University of Ottawa Master of Computer Science"
 [76]: https://carleton.ca/scs/future-students/graduate-students/ "Carleton University Master of Computer Science"
 [77]: https://science.ucalgary.ca/data-science "University of Calgary Data Science and Analytics"
