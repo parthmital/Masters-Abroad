@@ -282,6 +282,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Application Process & Deadlines:_ Automatic nomination upon submitting SFU graduate application by **1 December 2026**. No separate application needed.
   - _Direct Link:_ [SFU GA3 Graduate Awards System Portal](https://www.sfu.ca/gradstudies/awards-funding.html)
   - _Co-op Earnings & TA/RA Availability:_ Professional MSc CS students are not eligible for base research tuition stipends, but are fully eligible for paid Co-op placements earning **INR 2.59 lakh to INR 3.55 lakh per month** ($3,800 - $5,200 CAD/mo). Net co-op earnings over 4 months equal approx **INR 10.10 lakh net**. Paid Teaching Assistantships (TA) are available at **INR 1,910 to INR 2,320 per hour** ($28 - $34 CAD/hr).
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Teaching Assistantships (TA), Marking Assistants, Computer Lab Demonstrators, Student IT Helpdesk Staff, and Campus Recreation/Library Assistants.
+  - _Eligibility Requirements:_ Minimum B+ average (VIT 8.75 CGPA baseline qualifies), strong grade in target computing module, and active full-time student status.
+  - _Approximate Pay & Stipend:_ **INR 1,910 to INR 2,320 per hour** ($28 - $34 CAD/hr) for TA roles; **INR 1,230 to INR 1,640 per hour** ($18 - $24 CAD/hr) for general campus student jobs.
+  - _Expected Working Hours:_ Up to **10 to 15 hours per week** during academic terms; up to **40 hours per week** during official scheduled breaks.
+  - _Cost Offset Potential:_ Term-time earnings of **INR 76,400 to INR 1,25,000 per month** cover **100%+** of Vancouver relative-supported monthly living expenses (INR 32,760/mo) and leave surplus for tuition contribution.
+  - _International Student Work Regulations:_ Full-time study permit holders can work unlimited hours on-campus and up to **24 hours per week** off-campus during regular academic terms without a separate work permit under IRCC regulations.
 - **Admissions & Deadlines:**
   - Application Deadline: **1 December 2026** for Fall 2027 intake.
   - Requirements: 4-year B.Tech CSE with minimum B+ average (8.0+ CGPA; VIT 8.75 exceeds cutoff), IELTS 7.0 overall (minimum 6.5 per band; IELTS 8.0 exceeds cutoff), statement of purpose, 3 LORs, resume detailing software/AI projects. GRE is not required.
@@ -314,6 +321,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Application Process & Deadlines:_ Automatic evaluation upon submitting complete MDS application by **1 December 2026**. No separate form required.
   - _Direct Link:_ [UBC MDS Financial Aid Portal](https://masterdatascience.ubc.ca/admissions/tuition-and-financial-aid)
   - _Assistantships:_ Coursework MDS students are restricted from traditional TA/RA tuition waivers due to the accelerated 10-month schedule.
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Coursework Graders, Student Peer Tutors, Library Service Officers, Campus Event Staff, and IT Service Desk Assistants (traditional TA/RA tuition waivers restricted due to intensive 10-month MDS schedule).
+  - _Eligibility Requirements:_ CGPA 8.5+ (VIT 8.75 CGPA baseline easily qualifies), prerequisite mastery in Python/R and stats, and study permit compliance.
+  - _Approximate Pay & Stipend:_ **INR 1,700 to INR 2,180 per hour** ($25 - $32 CAD/hr) for tutoring/grading; **INR 1,230 to INR 1,500 per hour** ($18 - $22 CAD/hr) for general campus jobs.
+  - _Expected Working Hours:_ Capped at **10 to 12 hours per week** to prevent academic overburden during the fast-paced 10-month curriculum.
+  - _Cost Offset Potential:_ Earnings of **INR 68,000 to INR 95,000 per month** cover **100%** of Vancouver relative-supported monthly living budget (INR 32,760/mo) with savings.
+  - _International Student Work Regulations:_ Full-time study permit holders can work unlimited hours on-campus and up to **24 hours per week** off-campus during regular academic sessions under IRCC rules.
 - **Admissions & Deadlines:**
   - Application Deadline: **1 December 2026**.
   - Requirements: Prerequisites in programming (Python/R), probability/statistics, and linear algebra. IELTS 7.0 (minimum 6.0 in each component). GRE not required.
@@ -346,6 +360,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Application Process & Deadlines:_ Automatic consideration upon admission. Application deadline: **15 January 2027**.
   - _Direct Link:_ [uOttawa International Scholarships Portal](https://www.uottawa.ca/study/fees-financial-support/international-english-scholarship)
   - _Assistantships:_ Coursework students can apply for competitive TA positions earning approx **INR 3,200 per hour** ($47 CAD/hr).
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Teaching Assistantships (CUPE 2626 unionized), Lab Demonstrators, Marker/Graders, and Campus Library/IT Support Officers.
+  - _Eligibility Requirements:_ Entrance CGPA 8.0+ (VIT 8.75 CGPA baseline qualifies), strong domain competence in CS, and English proficiency (IELTS 8.0).
+  - _Approximate Pay & Stipend:_ **INR 3,200 per hour** ($47 CAD/hr) for CUPE unionized TA positions; **INR 1,230 to INR 1,640 per hour** ($18 - $24 CAD/hr) for general campus student roles.
+  - _Expected Working Hours:_ Standard TA workload is **10 hours per week** (130 hours per 13-week term); campus jobs allow up to **20 hours per week** during study terms.
+  - _Cost Offset Potential:_ TA earnings of approx **INR 1,28,000 per month** offset **85% to 100%** of Ottawa independent monthly living budget (INR 1.22 lakh/mo).
+  - _International Student Work Regulations:_ IRCC rules permit unlimited on-campus work hours and up to **24 hours per week** off-campus during study terms.
 - **Admissions & Deadlines:**
   - Application Deadline: **15 January 2027**.
   - Requirements: 4-year bachelor's in CS or related field with B+ average (75%+; VIT 8.75 exceeds cutoff). IELTS 6.5 (minimum 6.0 per band). GRE not required.
@@ -378,6 +399,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Application Process & Deadlines:_ Automatic consideration with application submitted by **15 January 2027**.
   - _Direct Link:_ [Carleton Graduate Funding Portal](https://gradstudents.carleton.ca/)
   - _Assistantships:_ TA opportunities available based on departmental availability.
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Teaching Assistantships (CUPE 4600), Course Markers, Joint OCICS Computer Lab Assistants, and Student Library Staff.
+  - _Eligibility Requirements:_ B+ average (VIT 8.75 CGPA fits well), departmental recommendation, and full-time registration.
+  - _Approximate Pay & Stipend:_ **INR 2,390 to INR 2,870 per hour** ($35 - $42 CAD/hr) for TA/markers; **INR 1,230 to INR 1,500 per hour** ($18 - $22 CAD/hr) for general campus jobs.
+  - _Expected Working Hours:_ Capped at **10 hours per week** for TAs; up to **20 hours per week** for general campus positions during terms.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 95,000 to INR 1,15,000** offset **75% to 95%** of Ottawa independent monthly living expenses (INR 1.22 lakh/mo).
+  - _International Student Work Regulations:_ IRCC study permit allows unlimited on-campus employment and up to **24 hours per week** off-campus during regular academic terms.
 - **Admissions & Deadlines:**
   - Application Deadline: **15 January 2027**.
   - Requirements: Honours degree in CS or equivalent (VIT 8.75 CGPA fits well). IELTS 6.5 overall. GRE not required.
@@ -409,6 +437,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Application Process & Deadlines:_ Automatic consideration upon applying by **15 January 2027**.
   - _Direct Link:_ [UCalgary Awards Search](https://ucalgary.ca/registrar/awards)
   - _Assistantships:_ Coursework MDSA students have limited TA access due to 12-month program intensity.
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Coursework Graders, Student Peer Tutors, Computer Lab Assistants, Library Assistants, and Campus Facility Staff.
+  - _Eligibility Requirements:_ CGPA 8.0+, course prerequisites, and valid study permit.
+  - _Approximate Pay & Stipend:_ **INR 1,360 to INR 1,770 per hour** ($20 - $26 CAD/hr) for student assistance and lab roles.
+  - _Expected Working Hours:_ **10 to 12 hours per week** recommended due to 12-month intensive MDSA schedule; up to 40 hrs/wk during break terms.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 55,000 to INR 85,000** offset **50% to 75%** of Calgary independent monthly living budget (INR 1.15 lakh/mo).
+  - _International Student Work Regulations:_ Full-time study permit holders qualify for unlimited on-campus work and up to **24 hours per week** off-campus work during terms.
 - **Admissions & Deadlines:**
   - Application Deadline: **15 January 2027**.
   - Requirements: Bachelor's degree with minimum 3.0/4.0 GPA (VIT 8.75 CGPA well above). Course prerequisites in programming and statistics. IELTS 7.0. GRE not required.
@@ -441,6 +476,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Application Process & Deadlines:_ Automatic nomination with application submitted by **15 January 2027**.
   - _Direct Link:_ [Concordia Graduate Funding](https://www.concordia.ca/admissions/graduate.html)
   - _Assistantships:_ Hourly grading and lab demonstrator jobs available on campus.
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Hourly Grading Assistants, Computer Lab Demonstrators, Campus Library Assistants, and Student Union Support Officers.
+  - _Eligibility Requirements:_ Minimum B average (VIT 8.75 CGPA qualifies), completion of first-term coursework, and study permit compliance.
+  - _Approximate Pay & Stipend:_ **INR 1,640 to INR 2,050 per hour** ($24 - $30 CAD/hr) for grading/lab demonstrators; **INR 1,160 to INR 1,430 per hour** ($17 - $21 CAD/hr) for general campus jobs.
+  - _Expected Working Hours:_ **10 to 15 hours per week** during study terms; up to **40 hours per week** during official university breaks.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 65,000 to INR 1,10,000** offset **60% to 100%** of Montreal independent monthly living expenses (INR 1.10 lakh/mo).
+  - _International Student Work Regulations:_ IRCC regulations permit unlimited on-campus work and up to **24 hours per week** off-campus employment during academic terms.
 - **Admissions & Deadlines:**
   - Application Deadline: **15 January 2027**.
   - Requirements: Bachelor's degree in CS or related discipline with B average (VIT 8.75 CGPA fits easily). IELTS 6.5 overall. GRE not required.
@@ -472,6 +514,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ Guaranteed for 2 years (6 terms) subject to satisfactory academic progress.
   - _Application Process & Deadlines:_ Application deadline **1 December 2026**. Must secure a faculty supervisor match.
   - _Direct Link:_ [Waterloo CS Graduate Funding Portal](https://uwaterloo.ca/computer-science/future-graduate-students/funding-and-awards)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Guaranteed Teaching Assistantships (TA), Research Assistantships (RA), and Graduate Research Student (GRS) appointments for thesis MMath CS admits.
+  - _Eligibility Requirements:_ Admission to funded thesis MMath CS track and prior supervisor match.
+  - _Approximate Pay & Stipend:_ Guaranteed package of approx **INR 17.06 lakh per year** ($25,000 CAD/yr) comprising TA/RA stipends and tuition waivers.
+  - _Expected Working Hours:_ TA duties capped at **10 hours per week** (average 130 hours per term).
+  - _Cost Offset Potential:_ **100% full offset** of tuition and 100% of Waterloo living costs (net out-of-pocket expense near zero).
+  - _International Student Work Regulations:_ Full-time study permit covers required TA/RA contracts and permits up to **24 hours per week** off-campus employment.
 - **Admissions & Deadlines:**
   - Application Deadline: **1 December 2026**.
   - Requirements: 4-year honours degree in CS or Math, minimum 85% average (VIT 8.75 CGPA meets cutoff), IELTS 7.5 overall (7.0 writing/speaking). GRE General recommended for international applicants.
@@ -503,6 +552,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Application Process & Deadlines:_ Integrated into programme structure; matches arranged via UofT MScAC interview showcase. Application deadline **1 December 2026**.
   - _Direct Link:_ [UofT MScAC Programme Portal](https://mscac.utoronto.ca/)
   - _Entrance Scholarships:_ Institutional entrance tuition waivers are minimal for MScAC coursework admits.
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Paid 8-Month Applied Research Internship (MScAC), Departmental Grading Assistants, Lab Tutors, and Vector Institute Student Project Assistants.
+  - _Eligibility Requirements:_ Admission to MScAC AI track; academic standing (VIT 8.75 CGPA baseline); match via UofT MScAC showcase.
+  - _Approximate Pay & Stipend:_ Internship pays minimum **INR 2.73 lakh to INR 3.41 lakh per month** ($4,000 - $5,000 CAD/mo, total **INR 21.84 to INR 27.30 lakh** over 8 months); term-time grading pays **INR 3,270 per hour** ($48 CAD/hr).
+  - _Expected Working Hours:_ **8 to 10 hours per week** during 8-month coursework phase; full-time **40 hours per week** during 8-month industry internship.
+  - _Cost Offset Potential:_ Internship earnings of **INR 21.84 lakh to INR 27.30 lakh** cover **100%** of Toronto living expenses during the internship phase and significantly offset base tuition.
+  - _International Student Work Regulations:_ Co-op Work Permit covers mandatory 8-month research internship; standard study permit rules apply during coursework terms (up to 24 hrs/wk off-campus).
 - **Admissions & Deadlines:**
   - Application Deadline: **1 December 2026**.
   - Requirements: B+ average in final two years (VIT 8.75 CGPA exceeds cutoff), strong programming background, IELTS 7.0. GRE not required.
@@ -531,6 +587,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Eligibility Note:_ The Master of Applied Computing (MAC) professional programme is **explicitly ineligible** for UWindsor Graduate Entrance Scholarships.
   - _Verification Details:_ Official university policy explicitly excludes professional fee-based master's degrees from general entrance award funding. Full tuition budget must be planned out-of-pocket.
   - _Direct Link:_ [UWindsor Graduate Funding Policy](https://www.uwindsor.ca/graduate-studies/345/scholarships-and-awards)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ MAC Coursework Graders, Computer Lab Demonstrators, Student IT Helpdesk Staff, and Campus Recreation Assistants.
+  - _Eligibility Requirements:_ Undergraduate CGPA 75%+ (VIT 8.75 CGPA easily exceeds), department application, valid study permit.
+  - _Approximate Pay & Stipend:_ **INR 1,230 to INR 1,640 per hour** ($18 - $24 CAD/hr) for grading and campus roles.
+  - _Expected Working Hours:_ **10 to 15 hours per week** during study terms; up to **40 hours per week** during scheduled breaks.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 50,000 to INR 85,000** offset **52% to 89%** of Windsor independent monthly living budget (INR 95,000/mo).
+  - _International Student Work Regulations:_ Full-time study permit allows unlimited on-campus work and up to **24 hours per week** off-campus work during academic terms.
 - **Admissions & Deadlines:**
   - Application Deadline: **15 January 2027**.
   - Requirements: 70%+ in undergraduate CS degree (VIT 8.75 CGPA easily exceeds). IELTS 6.5 overall. GRE not required.
@@ -562,6 +625,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Application Process & Deadlines:_ Assessed automatically during admission review. Application deadline: **15 January 2027**.
   - _Direct Link:_ [Western MDA Programme & Financial Portal](https://www.mda.uwo.ca/)
   - _Co-op Earnings:_ 4-month mandatory co-op placement yields average total earnings of **INR 8.00 lakh** ($11,700 CAD).
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Mandatory 4-Month Paid Co-op Placement, MDA Grading Assistants, Student Peer Tutors, and Campus Event Officers.
+  - _Eligibility Requirements:_ Enrolled in MDA program; CGPA 8.0+; co-op job interview match.
+  - _Approximate Pay & Stipend:_ Co-op placement yields average total earnings of **INR 8.00 lakh** ($11,700 CAD over 4 months); term-time campus jobs pay **INR 1,500 to INR 1,910 per hour** ($22 - $28 CAD/hr).
+  - _Expected Working Hours:_ **10 to 12 hours per week** during study terms; full-time **40 hours per week** during 4-month co-op.
+  - _Cost Offset Potential:_ Co-op earnings of **INR 8.00 lakh** cover **63%** of total annual living budget (INR 12.60 lakh/yr); term-time jobs offset 50%+ of monthly living expenses.
+  - _International Student Work Regulations:_ Co-op Work Permit covers 4-month placement; standard study permit rules apply during academic terms (up to 24 hrs/wk off-campus).
 - **Admissions & Deadlines:**
   - Application Deadline: **15 January 2027**.
   - Requirements: 4-year degree with computer science, statistics, or mathematics background. IELTS 7.0. GRE not required.
@@ -599,6 +669,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Application Process & Deadlines:_ Automatically assessed upon application submission by **15 November 2026**.
   - _Direct Link:_ [DCU International Scholarships Portal](https://www.dcu.ie/international/scholarships)
   - _National Scholarship Upgrade:_ Fully eligible to apply for the **Government of Ireland International Education Scholarship (GOI-IES)**, providing 100% full tuition waiver plus **INR 11.01 lakh** (EUR 10,000) living stipend. Net cost with GOI-IES drops to **INR 9.90 lakh total**. ([GOI-IES Portal][104])
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ MSc AI Lab Demonstrators, Coursework Graders, Student Ambassadors, and Campus Library/IT Support Assistants.
+  - _Eligibility Requirements:_ First Class or 2.1 Honours (VIT 8.75 CGPA baseline easily qualifies), prerequisite mastery in AI/CS modules, and valid Stamp 2 registration.
+  - _Approximate Pay & Stipend:_ **INR 1,440 to INR 1,980 per hour** (EUR 16 - EUR 22/hr) for Lab Demonstrators; **INR 1,215 to INR 1,440 per hour** (EUR 13.50 - EUR 16/hr) for general campus student roles.
+  - _Expected Working Hours:_ Up to **10 to 12 hours per week** during academic terms; up to **40 hours per week** during official holiday periods (June–Sept & Dec 15–Jan 15).
+  - _Cost Offset Potential:_ Term-time monthly earnings of **INR 57,600 to INR 95,000** offset **35% to 55%** of Dublin independent monthly living budget (INR 1.76 lakh/mo).
+  - _International Student Work Regulations:_ Stamp 2 student visa permits working up to **20 hours per week** during term-time and up to **40 hours per week** during specified holiday periods.
 - **Admissions & Deadlines:**
   - Application Deadline: **15 November 2026** (Early application strongly advised for non-EU visa processing).
   - Requirements: Second Class Upper (2.1) honours degree in Computer Science (VIT 8.75 CGPA easily exceeds), IELTS 6.5 (minimum 6.0 in all bands). GRE not required.
@@ -630,6 +707,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ Covers the full 1-year master's programme duration.
   - _Application Process & Deadlines:_ Requires separate online application including candidate statement and academic CV by **28 February 2027**. Must hold a conditional/unconditional course offer.
   - _Direct Link:_ [UCD Global Scholarships Portal](https://www.ucd.ie/global/scholarships)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Computer Science Lab Tutors, Departmental Grading Assistants, UCD Global Ambassadors, and Library/Campus Support Staff.
+  - _Eligibility Requirements:_ Upper Second Class (2.1) degree (VIT 8.75 CGPA baseline qualifies), strong academic performance in target module, and active Stamp 2 status.
+  - _Approximate Pay & Stipend:_ **INR 1,530 to INR 2,070 per hour** (EUR 17 - EUR 23/hr) for Lab Tutors/Graders; **INR 1,260 to INR 1,530 per hour** (EUR 14 - EUR 17/hr) for general campus jobs.
+  - _Expected Working Hours:_ **10 to 15 hours per week** during term time; up to **40 hours per week** during official university holidays.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 61,000 to INR 99,000** offset **35% to 56%** of Dublin independent living budget (INR 1.76 lakh/mo).
+  - _International Student Work Regulations:_ Stamp 2 visa permits 20 hrs/wk term-time and 40 hrs/wk holiday work.
 - **Admissions & Deadlines:**
   - Application Deadline: **15 November 2026** (Course application); **28 February 2027** (Global Excellence Scholarship application).
   - Requirements: Upper Second Class Honours (2.1) degree in CS (VIT 8.75 CGPA qualifies), IELTS 6.5 (minimum 6.0 per section). GRE not required.
@@ -660,6 +744,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ Applied directly to tuition for the 1-year degree.
   - _Application Process & Deadlines:_ Automatic evaluation upon application. No separate application form needed. Application deadline: **15 November 2026**.
   - _Direct Link:_ [UL International Scholarships Portal](https://www.ul.ie/international/scholarships)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Software Engineering Lab Demonstrators, Peer Learning Tutors, Campus IT Helpdesk Officers, and Student Union Staff.
+  - _Eligibility Requirements:_ CGPA 8.0+ (VIT 8.75 CGPA baseline qualifies), module proficiency, and active Stamp 2 status.
+  - _Approximate Pay & Stipend:_ **INR 1,260 to INR 1,710 per hour** (EUR 14 - EUR 19/hr) for Lab Demonstrators; **INR 1,215 to INR 1,440 per hour** (EUR 13.50 - EUR 16/hr) for campus roles.
+  - _Expected Working Hours:_ **10 to 15 hours per week** during term time; up to **40 hours per week** during scheduled holidays.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 50,000 to INR 82,000** offset **50% to 75%** of Limerick regional monthly living budget (INR 1.29 lakh/mo).
+  - _International Student Work Regulations:_ Stamp 2 visa regulations apply (20 hrs/wk term-time, 40 hrs/wk holidays).
 - **Admissions & Deadlines:**
   - Application Deadline: **15 November 2026**.
   - Requirements: First Class or Upper Second Class degree in CS or Software Engineering (VIT 8.75 CGPA meets requirement), IELTS 6.5. GRE not required.
@@ -690,6 +781,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ One-time entry award.
   - _Application Process & Deadlines:_ Automatic consideration upon course application by **15 November 2026**.
   - _Direct Link:_ [Maynooth International Fees & Awards Portal](https://www.maynoothuniversity.ie/international)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Computer Science Grading Assistants, Computer Lab Demonstrators, Library Services Staff, and Student Ambassador Officers.
+  - _Eligibility Requirements:_ 2.1 CS degree (VIT 8.75 CGPA easily qualifies), department selection, and valid Stamp 2 registration.
+  - _Approximate Pay & Stipend:_ **INR 1,215 to INR 1,620 per hour** (EUR 13.50 - EUR 18/hr) for grading and lab demonstrator roles.
+  - _Expected Working Hours:_ **10 to 15 hours per week** during academic terms; up to **40 hours per week** during official breaks.
+  - _Cost Offset Potential:_ Earnings of **INR 48,000 to INR 78,000 per month** offset **45% to 70%** of Maynooth regional monthly living expenses (INR 1.29 lakh/mo).
+  - _International Student Work Regulations:_ Stamp 2 visa limits work to 20 hrs/wk term-time and 40 hrs/wk holidays.
 - **Admissions & Deadlines:**
   - Application Deadline: **15 November 2026**.
   - Requirements: 2.1 honours degree in CS or IT (VIT 8.75 CGPA easily qualifies), IELTS 6.5. GRE not required.
@@ -720,6 +818,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ One-time entry award for 1-year master's.
   - _Application Process & Deadlines:_ Requires separate online application submission including 200-word statement by **31 March 2027**. Course application must be submitted by **15 November 2026**.
   - _Direct Link:_ [Trinity International Study Portal](https://www.tcd.ie/study/international)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Computer Science Lab Demonstrators, Research Project Assistants, Trinity Visitor Center Guides, and Library & IT Assistants.
+  - _Eligibility Requirements:_ First Class (1.1) or high 2.1 degree (VIT 8.75 CGPA meets cutoff), strong background in C/AI modules, and Stamp 2 registration.
+  - _Approximate Pay & Stipend:_ **INR 1,530 to INR 2,160 per hour** (EUR 17 - EUR 24/hr) for Lab Demonstrators & RA roles; **INR 1,305 to INR 1,620 per hour** (EUR 14.50 - EUR 18/hr) for student guide jobs.
+  - _Expected Working Hours:_ **10 to 12 hours per week** during study terms; up to **40 hours per week** during official holiday breaks.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 61,000 to INR 95,000** offset **35% to 54%** of Dublin independent living budget (INR 1.76 lakh/mo).
+  - _International Student Work Regulations:_ Stamp 2 visa permits 20 hrs/wk term-time work and 40 hrs/wk during official vacations.
 - **Admissions & Deadlines:**
   - Application Deadline: **15 November 2026**.
   - Requirements: First Class Honours (1.1) or high 2.1 in CS or related quantitative discipline (VIT 8.75 CGPA meets cutoff), IELTS 6.5 (no band below 6.0). C programming background required. GRE not required.
@@ -750,6 +855,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ One-time entry award.
   - _Application Process & Deadlines:_ Automatic consideration upon course offer issuance. Deadline **15 November 2026**.
   - _Direct Link:_ [UCC International Scholarships Portal](https://www.ucc.ie/en/international/studyatucc/scholarships)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ AI & Data Science Lab Demonstrators, Coursework Markers, Student Library Staff, and Campus IT Helpdesk Support.
+  - _Eligibility Requirements:_ CGPA 8.5+ (VIT 8.75 CGPA baseline qualifies), department approval, and Stamp 2 visa.
+  - _Approximate Pay & Stipend:_ **INR 1,305 to INR 1,800 per hour** (EUR 14.50 - EUR 20/hr) for Lab Demonstrators; **INR 1,215 to INR 1,440 per hour** (EUR 13.50 - EUR 16/hr) for general campus jobs.
+  - _Expected Working Hours:_ **10 to 15 hours per week** during academic terms; up to **40 hours per week** during university holidays.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 52,000 to INR 86,000** offset **45% to 71%** of Cork regional monthly living budget (INR 1.45 lakh/mo).
+  - _International Student Work Regulations:_ Stamp 2 student visa restrictions apply (20 hrs/wk term-time, 40 hrs/wk holidays).
 - **Admissions & Deadlines:**
   - Application Deadline: **15 November 2026**.
   - Requirements: 2.1 honours degree in CS (VIT 8.75 CGPA easily qualifies), IELTS 6.5. GRE not required.
@@ -780,6 +892,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ Applied directly to 1-year tuition.
   - _Application Process & Deadlines:_ Evaluated upon course application submission by **15 November 2026**.
   - _Direct Link:_ [Galway International Fees & Scholarships](https://www.universityofgalway.ie/international/fees-scholarships)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Insight Centre Research Project Assistants, Computer Science Lab Demonstrators, Peer Tutors, and Student Union Officers.
+  - _Eligibility Requirements:_ First Class CS degree (VIT 8.75 CGPA qualifies), research fit in AI, and active Stamp 2 status.
+  - _Approximate Pay & Stipend:_ **INR 1,305 to INR 1,755 per hour** (EUR 14.50 - EUR 19.50/hr) for Lab & Research Assistants; **INR 1,215 to INR 1,440 per hour** (EUR 13.50 - EUR 16/hr) for campus staff jobs.
+  - _Expected Working Hours:_ **10 to 15 hours per week** during study terms; up to **40 hours per week** during university vacation periods.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 52,000 to INR 84,000** offset **45% to 72%** of Galway regional monthly living budget (INR 1.40 lakh/mo).
+  - _International Student Work Regulations:_ Stamp 2 visa permits 20 hrs/wk term-time work and 40 hrs/wk holiday employment.
 - **Admissions & Deadlines:**
   - Application Deadline: **15 November 2026**.
   - Requirements: First Class Honours degree in CS or software engineering (VIT 8.75 CGPA qualifies), IELTS 6.5. GRE not required.
@@ -810,6 +929,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ One-time entry award.
   - _Application Process & Deadlines:_ Automatic consideration upon applying by **15 November 2026**.
   - _Direct Link:_ [TU Dublin International Portal](https://www.tudublin.ie/study/international)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Applied Software Lab Demonstrators, Student Ambassadors, Campus IT Services Support, and Library Services Staff.
+  - _Eligibility Requirements:_ 2.1 CS degree (VIT 8.75 CGPA fits easily), good technical communication, and Stamp 2 registration.
+  - _Approximate Pay & Stipend:_ **INR 1,260 to INR 1,665 per hour** (EUR 14 - EUR 18.50/hr) for Lab Demonstrators; **INR 1,215 to INR 1,440 per hour** (EUR 13.50 - EUR 16/hr) for general student roles.
+  - _Expected Working Hours:_ **10 to 15 hours per week** during terms; up to **40 hours per week** during official breaks.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 50,000 to INR 80,000** offset **30% to 45%** of Dublin independent monthly living budget (INR 1.76 lakh/mo).
+  - _International Student Work Regulations:_ Stamp 2 visa limits work to 20 hrs/wk during terms and 40 hrs/wk during official holidays.
 - **Admissions & Deadlines:**
   - Application Deadline: **15 November 2026**.
   - Requirements: 2.1 honours degree in CS (VIT 8.75 CGPA fits easily), IELTS 6.5. GRE not required.
@@ -840,6 +966,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ Applied to 1-year tuition.
   - _Application Process & Deadlines:_ Automatic assessment upon course application by **15 January 2027**.
   - _Direct Link:_ [SETU International Portal](https://www.setu.ie/international)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Applied AI Lab Demonstrators, Peer Learning Tutors, Student Library Assistants, and Campus Media/Event Staff.
+  - _Eligibility Requirements:_ CGPA 8.0+ (VIT 8.75 CGPA baseline exceeds), department recommendation, and active Stamp 2 status.
+  - _Approximate Pay & Stipend:_ **INR 1,215 to INR 1,530 per hour** (EUR 13.50 - EUR 17/hr) for Lab Demonstrators and peer tutors.
+  - _Expected Working Hours:_ **10 to 15 hours per week** during academic terms; up to **40 hours per week** during scheduled break periods.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 48,000 to INR 73,000** offset **50% to 76%** of SETU regional monthly living budget (INR 1.15 lakh/mo).
+  - _International Student Work Regulations:_ Stamp 2 regulations permit 20 hrs/wk term-time and 40 hrs/wk holiday employment.
 - **Admissions & Deadlines:**
   - Application Deadline: **15 January 2027**.
   - Requirements: 2.2 or higher in CS or related technical degree (VIT 8.75 CGPA easily exceeds), IELTS 6.0 overall (minimum 6.0 in all bands). GRE not required.
@@ -870,6 +1003,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ One-time entry award.
   - _Application Process & Deadlines:_ Automatic consideration upon applying by **15 January 2027**.
   - _Direct Link:_ [ATU International Portal](https://www.atu.ie/international)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Computing Lab Assistants, Student IT Helpdesk Staff, Library Support Officers, and Peer Mentors.
+  - _Eligibility Requirements:_ Bachelor's in computing, department application, and valid Stamp 2 registration.
+  - _Approximate Pay & Stipend:_ **INR 1,215 to INR 1,485 per hour** (EUR 13.50 - EUR 16.50/hr) for lab and IT assistants.
+  - _Expected Working Hours:_ **10 to 15 hours per week** during study terms; up to **40 hours per week** during university holidays.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 48,000 to INR 71,000** offset **52% to 77%** of ATU regional monthly living budget (INR 1.10 lakh/mo).
+  - _International Student Work Regulations:_ Stamp 2 student visa restrictions apply (20 hrs/wk term-time, 40 hrs/wk holidays).
 - **Admissions & Deadlines:**
   - Application Deadline: **15 January 2027**.
   - Requirements: Bachelor's degree in computing or related quantitative field. IELTS 6.0. GRE not required.
@@ -906,6 +1046,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ Maintained for full 1.5-year degree duration subject to passing all enrolled courses.
   - _Application Process & Deadlines:_ Assessed automatically during admission review. No separate application form required. Application deadline: **30 September 2027** for February 2028 intake (or **30 April 2027** for July 2027 intake).
   - _Direct Link:_ [UQ Scholarships Portal](https://scholarships.uq.edu.au/)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ CS Sessional Tutors, Course Markers, Research Project Assistants, Student Ambassadors, and Campus Library/IT Support Staff.
+  - _Eligibility Requirements:_ GPA equivalent 5.0/7.0 (VIT 8.75 CGPA easily exceeds), grade of Distinction (75%+) in target course, and active Subclass 500 visa.
+  - _Approximate Pay & Stipend:_ **INR 3,230 to INR 4,170 per hour** ($48 - $62 AUD/hr) for sessional teaching; **INR 2,350 to INR 2,825 per hour** ($35 - $42 AUD/hr) for marking; **INR 2,015 to INR 2,420 per hour** ($30 - $36 AUD/hr) for general campus student jobs.
+  - _Expected Working Hours:_ Capped at **48 hours per fortnight** during academic terms; unlimited hours during official university breaks.
+  - _Cost Offset Potential:_ Term-time monthly earnings of **INR 1,10,000 to INR 1,60,000** offset **84% to 100%+** of Brisbane independent monthly living expenses (INR 1.31 lakh/mo).
+  - _International Student Work Regulations:_ Student Visa (Subclass 500) permits up to **48 hours per fortnight** during study terms and unlimited hours during official university vacations.
 - **Admissions & Deadlines:**
   - Application Deadline: **30 September 2027** (Feb intake) / **30 April 2027** (July intake).
   - Requirements: Bachelor's degree in CS or related field with GPA equivalent to 5.0/7.0 (VIT 8.75 CGPA easily exceeds), IELTS 6.5 (minimum 6.0 in all bands). GRE not required.
@@ -937,6 +1084,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ Renewable for programme duration subject to maintaining a High Distinction (80%+) average.
   - _Application Process & Deadlines:_ Requires separate scholarship application submission by **15 October 2027**. Course application must be submitted by **30 September 2027**.
   - _Direct Link:_ [Monash Fees & Scholarships Portal](https://www.monash.edu/study/fees-scholarships/scholarships)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Sessional Lab Tutors, Departmental Marking Assistants, Monash Research Project Staff, and Student Ambassador Officers.
+  - _Eligibility Requirements:_ Advanced standing fit, CGPA 8.5+ (VIT 8.75 CGPA baseline qualifies), top grade in prerequisite subjects, and Subclass 500 visa.
+  - _Approximate Pay & Stipend:_ **INR 3,030 to INR 4,035 per hour** ($45 - $60 AUD/hr) for sessional tutoring; **INR 2,220 to INR 2,690 per hour** ($33 - $40 AUD/hr) for marking roles.
+  - _Expected Working Hours:_ Capped at **48 hours per fortnight** during academic terms (approx 10–12 hrs/wk); unlimited hours during official university breaks.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 1,05,000 to INR 1,50,000** offset **62% to 89%** of Melbourne independent monthly living budget (INR 1.68 lakh/mo).
+  - _International Student Work Regulations:_ Subclass 500 student visa rules apply (48 hrs/fortnight term-time, full-time during official breaks).
 - **Admissions & Deadlines:**
   - Application Deadline: **30 September 2027**.
   - Requirements: 4-year bachelor's degree in CS (VIT 8.75 CGPA qualifies for 1.5-year advanced standing), IELTS 6.5 (minimum 6.0 per band). GRE not required.
@@ -967,6 +1121,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ Maintained for 2 years subject to passing all subjects with a Credit average.
   - _Application Process & Deadlines:_ Automatic consideration upon course offer issuance. Application deadline: **30 September 2027**.
   - _Direct Link:_ [UTS International Scholarships Portal](https://www.uts.edu.au/study/international/scholarships)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Sessional Lab Demonstrators, Tech Central Student Interns, Coursework Markers, and Student Union Officers.
+  - _Eligibility Requirements:_ CGPA 8.0+ (VIT 8.75 CGPA easily qualifies), module proficiency, and Subclass 500 visa compliance.
+  - _Approximate Pay & Stipend:_ **INR 2,825 to INR 3,900 per hour** ($42 - $58 AUD/hr) for sessional tutoring; **INR 2,015 to INR 2,420 per hour** ($30 - $36 AUD/hr) for student staff jobs.
+  - _Expected Working Hours:_ Capped at **48 hours per fortnight** during study terms; unlimited during official university vacations.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 98,000 to INR 1,45,000** offset **58% to 86%** of Sydney independent monthly living budget (INR 1.68 lakh/mo).
+  - _International Student Work Regulations:_ Subclass 500 visa limits work to 48 hours per fortnight during study sessions.
 - **Admissions & Deadlines:**
   - Application Deadline: **30 September 2027**.
   - Requirements: Bachelor's degree in IT/CS (VIT 8.75 CGPA qualifies easily), IELTS 6.5 (minimum 6.0 in writing). GRE not required.
@@ -997,6 +1158,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ Maintained for full degree duration subject to minimum GPA 5.5/7.0.
   - _Application Process & Deadlines:_ Assessed automatically upon applying for admission. Application deadline: **30 September 2027**.
   - _Direct Link:_ [QUT Scholarships Finder Portal](https://www.qut.edu.au/study/fees-and-scholarships/scholarships)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Sessional IT Tutors, Computer Lab Assistants, Student IT Helpdesk Staff, and Campus Library Ambassadors.
+  - _Eligibility Requirements:_ B.Tech CS background, CGPA 8.0+ (VIT 8.75 CGPA baseline exceeds), department interview, and Subclass 500 visa.
+  - _Approximate Pay & Stipend:_ **INR 2,690 to INR 3,700 per hour** ($40 - $55 AUD/hr) for sessional teaching; **INR 1,950 to INR 2,350 per hour** ($29 - $35 AUD/hr) for general student roles.
+  - _Expected Working Hours:_ Capped at **48 hours per fortnight** during study terms; full-time during official breaks.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 92,000 to INR 1,35,000** offset **70% to 100%** of Brisbane independent monthly living budget (INR 1.31 lakh/mo).
+  - _International Student Work Regulations:_ Subclass 500 visa work hour cap (48 hrs/fortnight during study terms).
 - **Admissions & Deadlines:**
   - Application Deadline: **30 September 2027**.
   - Requirements: Bachelor's degree in any discipline (CS background grants advanced placement), IELTS 6.5. GRE not required.
@@ -1027,6 +1195,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ Maintained for full degree duration.
   - _Application Process & Deadlines:_ Automatic consideration for International Student Award upon applying by **31 August 2027**.
   - _Direct Link:_ [UNSW Scholarships Search Portal](https://www.scholarships.unsw.edu.au/)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Casual CS Lab Tutors, Course Producers, Research Project Assistants, and Student Ambassador Officers.
+  - _Eligibility Requirements:_ CGPA 8.5+ (VIT 8.75 CGPA meets benchmark), High Distinction standing in relevant course, interview, and Subclass 500 visa.
+  - _Approximate Pay & Stipend:_ **INR 3,230 to INR 4,300 per hour** ($48 - $64 AUD/hr) for casual tutors; **INR 2,350 to INR 2,825 per hour** ($35 - $42 AUD/hr) for marking.
+  - _Expected Working Hours:_ Up to **48 hours per fortnight** during academic terms; unlimited hours during official term breaks.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 1,10,000 to INR 1,60,000** offset **65% to 95%** of Sydney independent monthly living budget (INR 1.68 lakh/mo).
+  - _International Student Work Regulations:_ Subclass 500 visa restrictions apply (48 hrs/fortnight term-time).
 - **Admissions & Deadlines:**
   - Application Deadline: **31 August 2027**.
   - Requirements: Bachelor's degree in engineering/CS with minimum 75% average (VIT 8.75 CGPA qualifies easily), IELTS 6.5. GRE not required.
@@ -1057,6 +1232,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ One-time or multi-year entry award.
   - _Application Process & Deadlines:_ Assessed automatically upon applying for admission by **31 August 2027**.
   - _Direct Link:_ [UniMelb Scholarships Portal](https://scholarships.unimelb.edu.au/)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Departmental Sessional Tutors, Research Assistant (RA) Positions, Melbourne Peer Mentors, and Library Support Staff.
+  - _Eligibility Requirements:_ Academic score 75%+ (VIT 8.75 CGPA meets cutoff), strong performance in target AI/CS subjects, and Subclass 500 visa.
+  - _Approximate Pay & Stipend:_ **INR 3,230 to INR 4,370 per hour** ($48 - $65 AUD/hr) for sessional teaching; **INR 2,080 to INR 2,550 per hour** ($31 - $38 AUD/hr) for general campus jobs.
+  - _Expected Working Hours:_ Capped at **48 hours per fortnight** during study terms; unlimited hours during official university vacations.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 1,10,000 to INR 1,60,000** offset **65% to 95%** of Melbourne independent monthly living budget (INR 1.68 lakh/mo).
+  - _International Student Work Regulations:_ Subclass 500 student visa rules apply (48 hrs/fortnight term-time).
 - **Admissions & Deadlines:**
   - Application Deadline: **31 August 2027**.
   - Requirements: Undergraduate CS major with 75%+ average (VIT 8.75 CGPA meets cutoff), prerequisite course mastery, IELTS 6.5. GRE not required.
@@ -1087,6 +1269,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ Disbursed across degree terms based on academic progress.
   - _Application Process & Deadlines:_ Automatic consideration upon course offer issuance by **31 August 2027**.
   - _Direct Link:_ [USyd Scholarships Portal](https://www.sydney.edu.au/scholarships/)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Sessional Computer Science Tutors, Course Markers, Library Assistants, and Campus Event Officers.
+  - _Eligibility Requirements:_ CGPA 8.0+ (VIT 8.75 CGPA qualifies easily), prerequisite mastery, and valid Subclass 500 visa.
+  - _Approximate Pay & Stipend:_ **INR 3,090 to INR 4,170 per hour** ($46 - $62 AUD/hr) for sessional tutors; **INR 2,015 to INR 2,420 per hour** ($30 - $36 AUD/hr) for general student roles.
+  - _Expected Working Hours:_ Capped at **48 hours per fortnight** during academic terms; unlimited hours during official university breaks.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 1,05,000 to INR 1,55,000** offset **62% to 92%** of Sydney independent monthly living budget (INR 1.68 lakh/mo).
+  - _International Student Work Regulations:_ Subclass 500 visa limits work to 48 hours per fortnight during teaching periods.
 - **Admissions & Deadlines:**
   - Application Deadline: **31 August 2027**.
   - Requirements: Bachelor's degree in CS or quantitative discipline with 65%+ equivalent (VIT 8.75 CGPA qualifies easily), IELTS 6.5. GRE not required.
@@ -1117,6 +1306,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ Maintained for 2 years subject to passing all courses.
   - _Application Process & Deadlines:_ Automatically assessed upon application. Deadline **30 September 2027**.
   - _Direct Link:_ [RMIT Scholarships Portal](https://www.rmit.edu.au/study/scholarships)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ IT Lab Demonstrators, Peer Learning Advisors, Campus Retail/Services Staff, and Student Ambassador Officers.
+  - _Eligibility Requirements:_ Bachelor's degree in CS (VIT 8.75 CGPA baseline qualifies), department selection, and Subclass 500 visa.
+  - _Approximate Pay & Stipend:_ **INR 2,555 to INR 3,500 per hour** ($38 - $52 AUD/hr) for IT Lab Demonstrators; **INR 1,880 to INR 2,280 per hour** ($28 - $34 AUD/hr) for campus jobs.
+  - _Expected Working Hours:_ **48 hours per fortnight** during academic sessions; full-time during official breaks.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 88,000 to INR 1,30,000** offset **52% to 77%** of Melbourne independent monthly living budget (INR 1.68 lakh/mo).
+  - _International Student Work Regulations:_ Subclass 500 visa rules apply (48 hrs/fortnight term-time).
 - **Admissions & Deadlines:**
   - Application Deadline: **30 September 2027**.
   - Requirements: Bachelor's degree in any discipline (CS background enables advanced standing), IELTS 6.5. GRE not required.
@@ -1147,6 +1343,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ Maintained for 2 years subject to maintaining minimum GPA 6.0/7.0.
   - _Application Process & Deadlines:_ Automatic assessment upon course application submission by **30 September 2027**.
   - _Direct Link:_ [Adelaide University Scholarships Portal](https://www.adelaide.edu.au/scholarships/)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Sessional IT Tutors, Australian Centre for Robotic Vision RAs, Student Ambassadors, and Campus Library Assistants.
+  - _Eligibility Requirements:_ CGPA 8.5+ (VIT 8.75 CGPA meets benchmark), department approval, and Subclass 500 visa.
+  - _Approximate Pay & Stipend:_ **INR 2,825 to INR 3,900 per hour** ($42 - $58 AUD/hr) for sessional tutors & RAs; **INR 1,950 to INR 2,350 per hour** ($29 - $35 AUD/hr) for campus staff jobs.
+  - _Expected Working Hours:_ Capped at **48 hours per fortnight** during study terms; unlimited hours during official term breaks.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 98,000 to INR 1,45,000** offset **78% to 100%+** of Adelaide regional monthly living budget (INR 1.25 lakh/mo).
+  - _International Student Work Regulations:_ Subclass 500 visa allows 48 hrs/fortnight during study sessions; 4 years of post-study work rights in Adelaide.
 - **Admissions & Deadlines:**
   - Application Deadline: **30 September 2027**.
   - Requirements: Bachelor's degree in CS or equivalent, IELTS 6.5. GRE not required.
@@ -1177,6 +1380,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ Maintained for full degree duration.
   - _Application Process & Deadlines:_ Automatically assessed upon submitting ANU course application by **31 August 2027**.
   - _Direct Link:_ [ANU Scholarships Portal](https://www.anu.edu.au/study/scholarships)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Computing Sessional Tutors, Research Assistant (RA) Positions, Library Support Officers, and Campus Services Staff.
+  - _Eligibility Requirements:_ Undergraduate score 70%+ (VIT 8.75 CGPA qualifies easily), academic excellence in CS, and valid visa.
+  - _Approximate Pay & Stipend:_ **INR 2,960 to INR 4,035 per hour** ($44 - $60 AUD/hr) for sessional tutors; **INR 2,015 to INR 2,420 per hour** ($30 - $36 AUD/hr) for campus student roles.
+  - _Expected Working Hours:_ Capped at **48 hours per fortnight** during academic terms; unlimited hours during official university breaks.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 1,02,000 to INR 1,50,000** offset **70% to 100%** of Canberra independent monthly living budget (INR 1.45 lakh/mo).
+  - _International Student Work Regulations:_ Subclass 500 visa restrictions apply (48 hrs/fortnight term-time).
 - **Admissions & Deadlines:**
   - Application Deadline: **31 August 2027**.
   - Requirements: Bachelor's degree in CS or related field with 70%+ average (VIT 8.75 CGPA qualifies easily), IELTS 6.5. GRE not required.
@@ -1213,6 +1423,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ One-time entry award for the 180-point master's.
   - _Application Process & Deadlines:_ Assessed automatically upon submitting course application by **30 September 2027**.
   - _Direct Link:_ [UC Scholarships Database Portal](https://www.canterbury.ac.nz/get-started/scholarships/)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ MADS Lab Tutors, Data Science Coursework Markers, Research Project Assistants, and Library Services Staff.
+  - _Eligibility Requirements:_ B average (VIT 8.75 CGPA baseline exceeds cutoff), B+ in prerequisite data science courses, and valid Student Visa.
+  - _Approximate Pay & Stipend:_ **INR 1,460 to INR 1,960 per hour** ($26 - $35 NZD/hr) for Lab Tutors & Markers; **INR 1,310 to INR 1,515 per hour** ($23.50 - $27 NZD/hr) for general campus student roles.
+  - _Expected Working Hours:_ Up to **10 to 12 hours per week** during academic terms; up to **40 hours per week** during scheduled break periods.
+  - _Cost Offset Potential:_ Term-time monthly earnings of **INR 60,000 to INR 90,000** offset **67% to 100%+** of Christchurch independent monthly living budget (INR 89,500/mo).
+  - _International Student Work Regulations:_ Student Visa permits working up to **20 hours per week** during regular semester terms and full-time (**40 hours per week**) during official scheduled vacations.
 - **Admissions & Deadlines:**
   - Application Deadline: **30 September 2027** for February 2028 intake.
   - Requirements: Bachelor's degree in any quantitative field (CS/B.Tech qualifies directly), B average (VIT 8.75 CGPA exceeds cutoff), IELTS 6.5 (no band below 6.0). GRE not required.
@@ -1244,6 +1461,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ One-time entry award.
   - _Application Process & Deadlines:_ Requires separate online scholarship application by **21 November 2027**. Course application due **31 August 2027**.
   - _Direct Link:_ [UoA Postgraduate Scholarships Portal](https://www.auckland.ac.nz/en/study/scholarships-and-awards.html)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ MIT Teaching Assistants, Computer Science Lab Demonstrators, Student IT Helpdesk Officers, and Campus Event Ambassadors.
+  - _Eligibility Requirements:_ CGPA 8.5+ (VIT 8.75 CGPA baseline qualifies), strong grade in target module, and active Student Visa.
+  - _Approximate Pay & Stipend:_ **INR 1,515 to INR 2,020 per hour** ($27 - $36 NZD/hr) for Teaching Assistants & Lab Demonstrators; **INR 1,345 to INR 1,570 per hour** ($24 - $28 NZD/hr) for general campus jobs.
+  - _Expected Working Hours:_ **10 to 12 hours per week** during academic terms; up to **40 hours per week** during official university breaks.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 62,000 to INR 95,000** offset **53% to 81%** of Auckland independent monthly living budget (INR 1.17 lakh/mo).
+  - _International Student Work Regulations:_ Student visa permits up to 20 hrs/wk term-time work and 40 hrs/wk during official breaks.
 - **Admissions & Deadlines:**
   - Application Deadline: **31 August 2027**.
   - Requirements: Bachelor's degree in CS or IT with B average (VIT 8.75 CGPA exceeds), IELTS 6.5 (minimum 6.0 per band). GRE not required.
@@ -1274,6 +1498,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ One-time entry award.
   - _Application Process & Deadlines:_ Requires online scholarship application submission by **30 November 2027**. Course application deadline **30 September 2027**.
   - _Direct Link:_ [Victoria Wellington International Scholarships](https://www.wgtn.ac.nz/international/scholarships)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ MCompSc Tutors, Computer Science Markers, AI Project Assistants, Library Support Staff, and Campus Ambassadors.
+  - _Eligibility Requirements:_ B average (VIT 8.75 CGPA meets requirement), department selection, and valid Student Visa.
+  - _Approximate Pay & Stipend:_ **INR 1,460 to INR 1,910 per hour** ($26 - $34 NZD/hr) for Tutors & Markers; **INR 1,315 to INR 1,515 per hour** ($23.50 - $27 NZD/hr) for general campus roles.
+  - _Expected Working Hours:_ **10 to 12 hours per week** during study terms; up to **40 hours per week** during official vacation periods.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 60,000 to INR 88,000** offset **55% to 80%** of Wellington independent monthly living budget (INR 1.10 lakh/mo).
+  - _International Student Work Regulations:_ Student visa allows 20 hrs/wk during academic terms and full-time work during official vacations.
 - **Admissions & Deadlines:**
   - Application Deadline: **30 September 2027**.
   - Requirements: Bachelor's degree in CS with B average (VIT 8.75 CGPA meets requirements), IELTS 6.5. GRE not required.
@@ -1304,6 +1535,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ Applied directly to first-year tuition.
   - _Application Process & Deadlines:_ Evaluated upon course application submission by **30 September 2027**.
   - _Direct Link:_ [Waikato Scholarships Finder](https://www.waikato.ac.nz/scholarships/)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ IT Course Tutors, Computer Lab Demonstrators, Student Union Staff, and Campus IT Helpdesk Assistants.
+  - _Eligibility Requirements:_ CGPA 8.0+ (VIT 8.75 CGPA meets requirement), prerequisite subject mastery, and valid Student Visa.
+  - _Approximate Pay & Stipend:_ **INR 1,375 to INR 1,795 per hour** ($24.50 - $32 NZD/hr) for Tutors & Lab Demonstrators; **INR 1,315 to INR 1,460 per hour** ($23.50 - $26 NZD/hr) for campus jobs.
+  - _Expected Working Hours:_ **10 to 15 hours per week** during semester terms; up to **40 hours per week** during university holidays.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 55,000 to INR 82,000** offset **58% to 86%** of Hamilton independent monthly living budget (INR 95,000/mo).
+  - _International Student Work Regulations:_ Student visa limits work to 20 hrs/wk during terms and 40 hrs/wk during official breaks.
 - **Admissions & Deadlines:**
   - Application Deadline: **30 September 2027**.
   - Requirements: Bachelor's degree in CS/IT (VIT 8.75 CGPA meets requirements), IELTS 6.5. GRE not required.
@@ -1334,6 +1572,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ One-time entry award.
   - _Application Process & Deadlines:_ Assessed automatically upon applying for course admission by **30 September 2027**.
   - _Direct Link:_ [AUT Scholarships Database](https://www.aut.ac.nz/study/fees-and-fees-protection/scholarships-and-awards)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Computing Tutors, Computer Lab Assistants, Library Ambassadors, and Student Services Officers.
+  - _Eligibility Requirements:_ Bachelor's in CS (VIT 8.75 CGPA baseline qualifies), academic standing, and Student Visa compliance.
+  - _Approximate Pay & Stipend:_ **INR 1,400 to INR 1,850 per hour** ($25 - $33 NZD/hr) for Computing Tutors & Assistants; **INR 1,315 to INR 1,515 per hour** ($23.50 - $27 NZD/hr) for general student jobs.
+  - _Expected Working Hours:_ **10 to 12 hours per week** during study terms; up to **40 hours per week** during official breaks.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 58,000 to INR 85,000** offset **50% to 73%** of Auckland independent monthly living budget (INR 1.17 lakh/mo).
+  - _International Student Work Regulations:_ Student visa regulations permit 20 hrs/wk term-time and 40 hrs/wk holiday employment.
 - **Admissions & Deadlines:**
   - Application Deadline: **30 September 2027**.
   - Requirements: Bachelor's degree in CS or related field with B average (VIT 8.75 CGPA meets), IELTS 6.5. GRE not required.
@@ -1364,6 +1609,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ Applied to 1-year master's tuition.
   - _Application Process & Deadlines:_ Automatic consideration upon course offer by **30 September 2027**.
   - _Direct Link:_ [Otago Postgraduate Scholarships](https://www.otago.ac.nz/study/scholarships)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Computer Science Tutors, MAppSc Project Assistants, Residential College Tutors, and Library Assistants.
+  - _Eligibility Requirements:_ B average (VIT 8.75 CGPA meets), department interview, and active Student Visa.
+  - _Approximate Pay & Stipend:_ **INR 1,400 to INR 1,910 per hour** ($25 - $34 NZD/hr) for CS Tutors & Project Assistants; residential tutors receive accommodation credits.
+  - _Expected Working Hours:_ **10 to 12 hours per week** during study terms; up to **40 hours per week** during university holidays.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 58,000 to INR 88,000** offset **64% to 98%** of Dunedin regional monthly living budget (INR 90,000/mo).
+  - _International Student Work Regulations:_ Student visa permits 20 hrs/wk term-time work and full-time work during official vacations.
 - **Admissions & Deadlines:**
   - Application Deadline: **30 September 2027**.
   - Requirements: Bachelor's degree in CS with B average, IELTS 6.5. GRE not required.
@@ -1394,6 +1646,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ One-time entry award.
   - _Application Process & Deadlines:_ Assessed upon course application submission by **30 September 2027**.
   - _Direct Link:_ [Massey Scholarships Portal](https://www.massey.ac.nz/study/scholarships/)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Data Science Coursework Markers, IT Support Officers, Campus Services Staff, and Student Ambassadors.
+  - _Eligibility Requirements:_ Quantitative background (VIT 8.75 CGPA baseline qualifies), module proficiency, and valid Student Visa.
+  - _Approximate Pay & Stipend:_ **INR 1,375 to INR 1,795 per hour** ($24.50 - $32 NZD/hr) for Markers & IT Officers; **INR 1,315 to INR 1,460 per hour** ($23.50 - $26 NZD/hr) for campus jobs.
+  - _Expected Working Hours:_ **10 to 12 hours per week** during study terms; up to **40 hours per week** during scheduled breaks.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 55,000 to INR 80,000** offset **55% to 80%** of independent monthly living budget (INR 1.00 lakh/mo).
+  - _International Student Work Regulations:_ Student visa rules apply (20 hrs/wk term-time, 40 hrs/wk holidays).
 - **Admissions & Deadlines:**
   - Application Deadline: **30 September 2027**.
   - Requirements: Bachelor's degree in quantitative discipline, IELTS 6.5. GRE not required.
@@ -1420,6 +1679,13 @@ Every university section below is structured as a self-contained decision guide 
 - **Complete Scholarship & Funding Details:**
   - _Scholarship Status:_ Fee waiver scholarships at Lincoln are restricted to domestic New Zealand citizens. International students must plan for full fee payment.
   - _Direct Link:_ [Lincoln Scholarships Database](https://www.lincoln.ac.nz/study/scholarships/)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Applied Computing Tutors, Campus IT Helpdesk Assistants, Library Services Staff, and Student Event Officers.
+  - _Eligibility Requirements:_ CGPA 8.0+ (VIT 8.75 CGPA easily exceeds), department recommendation, and valid Student Visa.
+  - _Approximate Pay & Stipend:_ **INR 1,345 to INR 1,685 per hour** ($24 - $30 NZD/hr) for Tutors & IT Assistants.
+  - _Expected Working Hours:_ **10 to 12 hours per week** during study terms; up to **40 hours per week** during official breaks.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 54,000 to INR 76,000** offset **60% to 85%** of Christchurch regional monthly living budget (INR 89,500/mo).
+  - _International Student Work Regulations:_ Student visa permits up to 20 hrs/wk during terms and 40 hrs/wk during vacations.
 - **Admissions & Deadlines:**
   - Application Deadline: **30 September 2027**.
   - Requirements: Undergraduate degree in any field (VIT 8.75 CGPA easily exceeds), IELTS 6.5. GRE not required.
@@ -1450,6 +1716,13 @@ Every university section below is structured as a self-contained decision guide 
   - _Duration & Renewal:_ Incorporated into published net international tuition fee (INR 21.90 lakh total).
   - _Application Process & Deadlines:_ Automatic upon application by **30 September 2027**.
   - _Direct Link:_ [EIT Scholarships Page](https://www.eit.ac.nz/students/scholarships/)
+- **On-Campus Employment & Assistantship Opportunities:**
+  - _Realistic Roles Available:_ Student Peer Tutors, Campus IT Support Assistants, Library Support Officers, and Student Event Staff.
+  - _Eligibility Requirements:_ Bachelor's in computing, course standing, and active Student Visa.
+  - _Approximate Pay & Stipend:_ **INR 1,315 to INR 1,600 per hour** ($23.50 - $28.50 NZD/hr) for Peer Tutors & IT Assistants.
+  - _Expected Working Hours:_ **10 to 15 hours per week** during study terms; up to **40 hours per week** during university holidays.
+  - _Cost Offset Potential:_ Monthly earnings of **INR 52,000 to INR 72,000** offset **61% to 85%** of regional monthly living budget (INR 85,000/mo).
+  - _International Student Work Regulations:_ Student visa limits work to 20 hrs/wk term-time and 40 hrs/wk holidays.
 - **Admissions & Deadlines:**
   - Application Deadline: **30 September 2027**.
   - Requirements: Bachelor's degree in computing or IT, IELTS 6.5. GRE not required.
