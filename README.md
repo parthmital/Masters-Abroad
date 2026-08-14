@@ -113,13 +113,15 @@ Living with or receiving housing support from a close relative alters these cost
 
 ### 2.2 Career Networking and Industry Access
 
-Vancouver is a major North American technology hub, hosting engineering offices for Amazon, Microsoft, SAP, Salesforce/Slack, Fortinet, Electronic Arts, and numerous AI startups.
+Vancouver and the broader Metro Vancouver region (including Surrey and Burnaby) represent a major North American technology hub, hosting engineering offices for Amazon, Microsoft, SAP, Salesforce, Fortinet, Electronic Arts, and emerging AI startups.
 
-A local family network in Vancouver provides key career advantages:
+The contact's specific background as the former City Manager of Surrey (Chief Administrative Officer) with strong historical and institutional ties to Simon Fraser University's Surrey campus provides decisive career advantages:
 
-- **Warm Industry Introductions:** Direct referrals to hiring managers, technical leads, and recruiters across Vancouver-based firms, bypassing cold online application pools.
-- **Co-op and Internship Placement:** SFU and Northeastern Vancouver offer structured co-op tracks. A local network increases the conversion rate of co-op interviews into paid technical positions.
-- **Local Market Insight:** Early awareness of regional hiring cycles, company culture, salary expectations, and emerging AI engineering roles in British Columbia.
+- **Institutional SFU Leverage:** Deep executive-level connections with SFU leadership, faculty, and Surrey campus administration, facilitating academic networking, research lab visibility, and co-op coordination.
+- **Civic and Enterprise Tech Access:** Direct executive access to public sector and crown corporation tech ecosystems across Metro Vancouver (City of Surrey IT, Fraser Health Authority, TransLink, BC Hydro) alongside private municipal contractors and tech consultancies.
+- **Warm Industry Introductions:** Executive referrals to hiring managers and recruiters across Metro Vancouver, bypassing cold application screening for both co-op internships and full-time engineering roles.
+- **Co-op and Internship Placement:** SFU's mandatory co-op semester conversion rates are significantly higher when supported by established regional civic and enterprise relationships.
+- **Local Market Insight:** Early access to municipal innovation initiatives, including Surrey's Health and Technology District (Innovation Boulevard), Smart Cities data engineering projects, and provincial AI initiatives.
 
 ### 2.3 Permanent Residency and Settlement Security
 
@@ -296,7 +298,7 @@ Every university section below is structured as a self-contained decision guide 
 - **Immigration & Post-Study Pathway:**
   - Eligible for a **3-year Post-Graduation Work Permit (PGWP)** upon completion of full-time master's. ([Canada PGWP Rules][8])
   - BC PNP Master's Stream: Eligible for nomination with CLB 8 language scores and a full-time TEER 1, 2, or 3 job offer in BC. ([BC PNP Rules][72])
-- **Verdict & Strategic Assessment:** Top choice. Vancouver relative accommodation reduces living costs by over INR 15 lakh, making SFU the highest ROI option for settlement in Canada.
+- **Verdict & Strategic Assessment:** Absolute top strategic priority (#1 overall). Beyond saving INR 17 to 23 lakh in living expenses, the contact's historical role as Surrey City Manager and strong ties to SFU Surrey unlock executive academic advocacy, public sector IT/health tech pathways (Surrey Innovation Boulevard, Fraser Health, TransLink), and warm private tech referrals across Metro Vancouver, virtually eliminating post-study employment search friction for BC PNP nomination.
 
 #### 12.1.2 University of British Columbia (UBC)
 
