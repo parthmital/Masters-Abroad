@@ -1,28 +1,22 @@
-Update `README.md` **in one complete pass** for the **Masters Abroad 2027** plan.
+Thoroughly and completely refresh the project’s README in ONE pass. Treat the existing README as fully obsolete and rewrite/update EVERY detail, including coursework priorities, specialisations, projects vs research preference, universities, programmes, durations, finances/costs, rankings, ordering, eligibility, requirements, timelines, and every minor factual/detail-level field.
 
-Apply these strict constraints:
+New priorities:
 
-1. **Programme:** Prioritise General/Core CS (MSc/MCS CS). Retain specialised programmes **only** in AI/ML or Data Science.
-2. **Track:** Prefer professional, coursework, project, co-op/practicum tracks. **Remove/deprecate purely academic thesis tracks**.
+- Prioritise broad/core/general Computer Science coursework over specialised tracks.
+- For specialisations, prioritise AI, ML, and Data Science, consistent with my resume.
+- Strongly prefer project-oriented programmes/opportunities over research-oriented ones.
 
-Fully recalculate and verify, using **current authoritative sources only**:
+Scour the internet thoroughly and cross-check critical facts across authoritative sources. Ground every factual claim in sources with ZERO hallucinations. If a fact genuinely cannot be found, use the most defensible clearly-labelled estimate rather than inventing it.
 
-- Programme duration
-- Tuition and mandatory student levies
-- Independent living and setup costs
-- Co-op/assistantship/scholarship offsets
-- All costs and net ROI **strictly in INR**
-- 2027 application deadlines
-- Post-study work authorisation and PR pathways
+Re-rank/re-order EVERYTHING based on these updated preferences and refreshed facts. Do not preserve old rankings, assumptions, stale dates, durations, universities, finances, or wording merely because they already exist.
 
-Then **re-rank countries, universities, and portfolio tiers** based on:
+Use iterative/agent-style research and verification as needed. Before finishing, audit the ENTIRE README line-by-line/field-by-field to ensure:
 
-1. Project-led ROI
-2. Post-study work options
-3. PR feasibility
-4. Programme/track fit
-5. Total net cost
+1. every detail is refreshed,
+2. no stale/contradictory information remains,
+3. all rankings reflect the new priorities,
+4. dates/durations/finances are internally consistent,
+5. factual claims are source-grounded,
+6. missing data is explicitly estimated where necessary.
 
-**Zero hallucinations:** do not infer, estimate, or retain unverifiable/stale figures. Clearly mark anything not yet officially published for the 2027 cycle rather than fabricating it.
-
-**Deliverable:** Rewrite the **entire `README.md`**, not selected sections. Ensure every affected section, table, ranking, cost, policy, deadline, and recommendation is internally consistent with the revised framework. **No TODOs, pending updates, stale data, or partial edits may remain.**
+Make all changes NOW in this single pass. Do not leave anything for later. The final README must be a complete, publication-ready replacement, not a partial update.
