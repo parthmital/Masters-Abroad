@@ -1,10 +1,28 @@
-Update `README.md` to restructure the Masters Abroad 2027 decision framework, university selection, and application portfolio around two strict constraints:
+Update `README.md` **in one complete pass** for the **Masters Abroad 2027** plan.
 
-1. Programme Type: Prioritise General/Core Computer Science (MSc/MCS CS) over niche degrees. Where specialised degrees are retained, restrict them strictly to Applied AI/ML or Data Science.
-2. Track Type: Replace research thesis tracks with professional, coursework, project, and co-op/practicum tracks (deprecating purely academic thesis tracks such as Waterloo MMath CS Thesis).
+Apply these strict constraints:
 
-Execution requirements:
+1. **Programme:** Prioritise General/Core CS (MSc/MCS CS). Retain specialised programmes **only** in AI/ML or Data Science.
+2. **Track:** Prefer professional, coursework, project, co-op/practicum tracks. **Remove/deprecate purely academic thesis tracks**.
 
-- Recalculate and verify real-time durations, tuition, mandatory student levies, independent living expenses, setup costs, and net offsets (co-op, assistantships, scholarships) strictly in INR.
-- Re-rank target countries, universities, and portfolio tiers under these revised criteria, prioritizing project-led ROI, post-study work authorization, and permanent residency feasibility.
-- Maintain zero hallucinations: ensure all tuition schedules, immigration policies, living costs, and deadlines reflect ground truth for the 2027 planning cycle.
+Fully recalculate and verify, using **current authoritative sources only**:
+
+- Programme duration
+- Tuition and mandatory student levies
+- Independent living and setup costs
+- Co-op/assistantship/scholarship offsets
+- All costs and net ROI **strictly in INR**
+- 2027 application deadlines
+- Post-study work authorisation and PR pathways
+
+Then **re-rank countries, universities, and portfolio tiers** based on:
+
+1. Project-led ROI
+2. Post-study work options
+3. PR feasibility
+4. Programme/track fit
+5. Total net cost
+
+**Zero hallucinations:** do not infer, estimate, or retain unverifiable/stale figures. Clearly mark anything not yet officially published for the 2027 cycle rather than fabricating it.
+
+**Deliverable:** Rewrite the **entire `README.md`**, not selected sections. Ensure every affected section, table, ranking, cost, policy, deadline, and recommendation is internally consistent with the revised framework. **No TODOs, pending updates, stale data, or partial edits may remain.**
